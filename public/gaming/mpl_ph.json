@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Obsidian Gaming",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/b/be/OBS_Gaming_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Aether Main",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/0/04/Aether_Main_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Aether Valkyrie",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/9/9c/Aether_Valkyrie_allmode.png/158px-Aether_Valkyrie_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Digital Devils Pro",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/f/fa/Digital_Devils_Pro_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Obsidian Raven",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/8/8e/OBS_Raven_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Invictus Godz",
+    "date": "2018-05-12",
+    "image": "https://ik.imagekit.io/sadapphone/mpl_ph/Invictus_Godz.png?updatedAt=1753512057663",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Vicious & Delicious",
+    "date": "2018-05-12",
+    "image": "https://ik.imagekit.io/sadapphone/mpl_ph/Vicious_&_Delicious.png?updatedAt=1753512057364&tr=w-596,h-320,fo-auto",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "White Rascals",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/5a/White_Rascals_2018_allmode.png/133px-White_Rascals_2018_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Digital Devils No Limit",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/b/bb/Digital_Devils_No_Limit_allmode.png/190px-Digital_Devils_No_Limit_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Digital Devils Demon Kings",
+    "date": "2018-05-12",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/d/de/Digital_Devils_Demon_Kings_allmode.png/190px-Digital_Devils_Demon_Kings_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Execration",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/c/c9/Execration_2020_lightmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Bren Esports",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/5/5b/AP_Bren_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Cignal Ultra",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/e/ec/Cignal_Ultra_2019_allmode_full.png/600px-Cignal_Ultra_2019_allmode_full.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "ArkAngel Wicked Minds",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/5c6/5b2/dfa/5c65b2dfafbf0471155499.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "White Rascals",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://mpl.mobilelegends.com/2018/ph/wp-content/uploads/2018/09/White-Rascals-Alliance.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "SxC Imbalance",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/d/dc/SxC_Imba_allmode.png/190px-SxC_Imba_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "HappyFeet",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/7/78/HappyFeet_Logo_2017.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Finesse Solid",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://mpl.mobilelegends.com/2018/ph/wp-content/uploads/2018/10/Finesse-Solid.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "ArkAngel Ownage",
+    "date": "2018-10-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://mpl.mobilelegends.com/2018/ph/wp-content/uploads/2018/10/ArkAngel-Ownage.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "SGD Omega",
+    "date": "2019-03-23",
+    "image": "https://static.gosugamers.net/0b/f5/9c/a828b16d72ab00e9862ffa044ea6d34e86a3f4a001a591db19eb5e7970.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "EVOS Esports PH",
+    "date": "2019-03-23",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/d/d0/EVOS_Esports_allmode.png/622px-EVOS_Esports_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Indonesia",
+    "nation_code": "id"
+  },
+  {
+    "name": "Aether Atlas",
+    "date": "2019-03-23",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/5e0/2bf/753/5e02bf7531d02048809354.jpg",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Ownage",
+    "date": "2019-03-23",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/1/1d/Ownage_allmode.png/190px-Ownage_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "ArkAngel",
+    "date": "2019-03-23",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/1/10/ArkAngel_Pro_Team_allmode.png/737px-ArkAngel_Pro_Team_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "No Limit",
+    "date": "2019-03-23",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/2/2b/No_Limit_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Finesse Phoenix",
+    "date": "2019-03-23",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/0/03/Finesse_Phoenix_allmode.png/167px-Finesse_Phoenix_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Sunsparks",
+    "date": "2019-08-10",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/5db/310/df0/5db310df0abb5421184895.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Geek Fam PH",
+    "date": "2019-08-10",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/4/41/Geek_Fam_2019_allmode.png/521px-Geek_Fam_2019_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Malaysia",
+    "nation_code": "my"
+  },
+  {
+    "name": "ONIC Philippines",
+    "date": "2019-08-10",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/a/a0/ONIC_Philippines_2025_full_allmode.png/661px-ONIC_Philippines_2025_full_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Indonesia",
+    "nation_code": "id"
+  },
+  {
+    "name": "STI e-Olympians",
+    "date": "2020-02-28",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/0/07/STI_allmode.png/190px-STI_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Blacklist International",
+    "date": "2020-02-28",
+    "image": "https://ce880219c.cloudimg.io/v7/https://static.wikia.nocookie.net/cod_esports_gamepedia_en/images/5/5d/Blacklist_Internationallogo_square.png/revision/latest?cb=20210909145036",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "ULVL",
+    "date": "2020-02-28",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/1/1e/ULVL_allmode.png/190px-ULVL_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "BSB",
+    "date": "2020-02-28",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/5f9/4ba/868/5f94ba8686632746624689.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Aura PH",
+    "date": "2020-08-21",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/5f6/0f9/3ab/5f60f93abee82614422620.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Indonesia",
+    "nation_code": "id"
+  },
+  {
+    "name": "Omega Esports",
+    "date": "2020-08-21",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/5/58/Omega_Esports_%28Philippines%29_2025_full_lightmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "BnK Blufire",
+    "date": "2020-08-21",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/5f3/f61/d16/5f3f61d16cd14991120487.",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Nexplay Solid",
+    "date": "2020-08-21",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/0/06/Nexplay.png/600px-Nexplay.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Work-Auster Force",
+    "date": "2021-03-19",
+    "image": "https://ce880219c.cloudimg.io/v7/https://cdn.escharts.com/uploads/public/605/498/dab/605498dabbdd2086279923.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "PlayBook Esports",
+    "date": "2021-03-19",
+    "image": "https://static.gosugamers.net/f0/6a/51/f716cb3bb9871005188804c1b627fbe1ad20c19502580a40e8e5d52775.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "ECHO",
+    "date": "2021-08-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/7/7e/ECHO_allmode_full.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "RSG Philippines",
+    "date": "2021-08-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/d/d3/RSG_Slate_PH_allmode.png/649px-RSG_Slate_PH_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Singapore",
+    "nation_code": "sg"
+  },
+  {
+    "name": "TNC Pro Team",
+    "date": "2021-08-27",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/6/69/TNC_Pro_Team_2021_allmode.png/564px-TNC_Pro_Team_2021_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Philipines",
+    "nation_code": "ph"
+  },
+  {
+    "name": "Team Liquid PH",
+    "date": "2024-03-15",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/b/bb/Team_Liquid_Echo_full_lightmode.png/436px-Team_Liquid_Echo_full_lightmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Netherlands",
+    "nation_code": "nl"
+  },
+  {
+    "name": "Aurora Gaming",
+    "date": "2024-08-16",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/1/1c/Aurora_Gaming_2025_allmode.png/600px-Aurora_Gaming_2025_allmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Serbia",
+    "nation_code": "rs"
+  },
+  {
+    "name": "Twisted Minds PH",
+    "date": "2025-02-28",
+    "image": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/5c/Twisted_Minds_2023_full_lightmode.png/586px-Twisted_Minds_2023_full_lightmode.png",
+    "tier": "A-Tier",
+    "league": "MPL Philippines",
+    "logo_league": "https://ce880219c.cloudimg.io/v7/https://liquipedia.net/commons/images/thumb/5/52/MPL_Philippines_Season_15_allmode.png/600px-MPL_Philippines_Season_15_allmode.png",
+    "nation": "Saudi Arabia",
+    "nation_code": "sa"
+  }
+]

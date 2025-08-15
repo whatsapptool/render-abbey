@@ -1,0 +1,194 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain  2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Lukas (Moniyan)
+()
+Awal masuk MPL ID : : 21 December 2024
+
+3
+00:00:08,000 --> 00:00:14,000
+Cici (Moniyan)
+()
+Awal masuk MPL ID : : 27 December 2023
+
+4
+00:00:14,000 --> 00:00:20,000
+Arlott (Moniyan)
+()
+Awal masuk MPL ID : : 14 February 2023
+
+5
+00:00:20,000 --> 00:00:26,000
+Edith (Vonetis Sea)
+()
+Awal masuk MPL ID : : 24 December 2021
+
+6
+00:00:26,000 --> 00:00:32,000
+Phoveus (The Barren Lands)
+()
+Awal masuk MPL ID : : 11 May 2021
+
+7
+00:00:32,000 --> 00:00:38,000
+Gloo (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 16 April 2021
+
+8
+00:00:38,000 --> 00:00:44,000
+Paquito (The Barren Lands)
+()
+Awal masuk MPL ID : : 15 January 2021
+
+9
+00:00:44,000 --> 00:00:50,000
+Benedetta (The Barren Lands)
+()
+Awal masuk MPL ID : : 07 November 2020
+
+10
+00:00:50,000 --> 00:00:56,000
+Khaleed (Agelta Drylands)
+()
+Awal masuk MPL ID : : 06 August 2020
+
+11
+00:00:56,000 --> 00:01:02,000
+Yu Zhong (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 19 June 2020
+
+12
+00:01:02,000 --> 00:01:08,000
+Silvanna (Moniyan)
+()
+Awal masuk MPL ID : : 17 December 2019
+
+13
+00:01:08,000 --> 00:01:14,000
+Masha (Northern Vale)
+()
+Awal masuk MPL ID : : 17 September 2019
+
+14
+00:01:14,000 --> 00:01:20,000
+X.Borg (Agelta Drylands)
+()
+Awal masuk MPL ID : : 09 August 2019
+
+15
+00:01:20,000 --> 00:01:26,000
+Dyrroth (The Barren Lands)
+()
+Awal masuk MPL ID : : 25 June 2019
+
+16
+00:01:26,000 --> 00:01:32,000
+Terizla (The Barren Lands)
+()
+Awal masuk MPL ID : : 04 June 2019
+
+17
+00:01:32,000 --> 00:01:38,000
+Esmeralda (Agelta Drylands)
+()
+Awal masuk MPL ID : : 02 April 2019
+
+18
+00:01:38,000 --> 00:01:44,000
+Guinevere (Moniyan)
+()
+Awal masuk MPL ID : : 21 February 2019
+
+19
+00:01:44,000 --> 00:01:50,000
+Badang (Vonetis Sea)
+()
+Awal masuk MPL ID : : 15 January 2019
+
+20
+00:01:50,000 --> 00:01:56,000
+Minsitthar (City of the Sand)
+()
+Awal masuk MPL ID : : 16 November 2018
+
+21
+00:01:56,000 --> 00:02:02,000
+Thamuz (The Barren Lands)
+()
+Awal masuk MPL ID : : 18 September 2018
+
+22
+00:02:02,000 --> 00:02:08,000
+Aldous (Agelta Drylands)
+()
+Awal masuk MPL ID : : 24 July 2018
+
+23
+00:02:08,000 --> 00:02:14,000
+Uranus (Vonetis Sea)
+()
+Awal masuk MPL ID : : 07 May 2018
+
+24
+00:02:14,000 --> 00:02:20,000
+Jawhead (The Barren Lands)
+()
+Awal masuk MPL ID : : 10 January 2018
+
+25
+00:02:20,000 --> 00:02:26,000
+Ruby (Moniyan)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+26
+00:02:26,000 --> 00:02:32,000
+Lapu-Lapu (Vonetis Sea)
+()
+Awal masuk MPL ID : : 23 May 2017
+
+27
+00:02:32,000 --> 00:02:38,000
+Argus (The Barren Lands)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+28
+00:02:38,000 --> 00:02:44,000
+Sun (Stream Valley)
+()
+Awal masuk MPL ID : : 01 December 2016
+
+29
+00:02:44,000 --> 00:02:50,000
+Chou (Agelta Drylands)
+()
+Awal masuk MPL ID : : 01 December 2016
+
+30
+00:02:50,000 --> 00:02:56,000
+Freya (Northern Vale)
+()
+Awal masuk MPL ID : : 30 November 2016
+
+31
+00:02:56,000 --> 00:03:02,000
+Zilong (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 09 September 2016
+
+32
+00:03:02,000 --> 00:03:08,000
+Alice (The Barren Lands)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+33
+00:03:08,000 --> 00:03:13,000
+Terima kasih sudah menonton!
+

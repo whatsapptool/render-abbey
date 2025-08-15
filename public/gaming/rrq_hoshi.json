@@ -1,0 +1,1687 @@
+[
+    {
+        "team": "RRQ Hoshi",
+        "name": "Lemon",
+        "full_name": "Muhammad  Ikhsan",
+        "date_of_birth": "1998-12-30",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_Lemon_S13.png",
+        "heros": [
+            "Kagura",
+            "Lunox",
+            "Faramis",
+            "Lapu-Lapu",
+            "Edith"
+        ],
+        "roles": [
+            "Mid Laner",
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2017-09-14",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2021-07-19",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-01-22",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2024-01-09",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-03-27",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-07-24",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2017-09-14",
+        "url": "https://liquipedia.net/mobilelegends/lemon"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Banshee",
+        "full_name": "Jordy Dave",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/RRQ_Banshee.png",
+        "heros": [
+            "Miya", "Moskov", "Bruno"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2017-09-14",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Marsha",
+        "full_name": "Steven  Kurniawan",
+        "date_of_birth": "1994-10-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "player/RRQ_marsha.png",
+        "heros": [
+            "Franco",
+            "Akai",
+            "Johnson"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-09-14",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2018-04-30",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2019-01-12",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2024-07-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2017-09-14",
+        "url": "https://liquipedia.net/mobilelegends/marsha"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Liam",
+        "full_name": "William  Setiawan",
+        "date_of_birth": "1998-11-30",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Holy",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/RRQ_Liam.png",
+        "heros": [
+            "Akai",
+            "Franco",
+            "Kaja"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-03",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2020-02-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-07-28",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-01-22",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2023-10-04",
+                "team": "EVOS Holy"
+            }
+        ],
+        "date": "2018-07-03",
+        "url": "https://liquipedia.net/mobilelegends/liam"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "xBarierjr",
+        "full_name": "Risky Gunawan",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/rrq_barierjr.png",
+        "heros": [
+            "Chou", "Minotaur", "Akai", "Grock"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2017-09-14",
+        "url": "https://liquipedia.net/mobilelegends/xbarierjr"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Jamess",
+        "full_name": "Chen James",
+        "date_of_birth": "1994-03-10",
+        "nation": "Taiwan",
+        "nation_code": "tw",
+        "last_team": "Team SMG",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/rrq_jamess.png",
+        "heros": [
+            "Kaja", "Chou", "Leomord"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-17",
+                "team": "PSG.RRQ"
+            },
+            {
+                "date": "2019-08-12",
+                "team": "Notorious Villains (page does not exist)"
+            },
+            {
+                "date": "2020-01-24",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2021-03-11",
+                "team": "Team SMG"
+            }
+        ],
+        "date": "2019-01-17",
+        "url": "https://liquipedia.net/mobilelegends/jamess"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "InstincT",
+        "full_name": "Calvien Liem",
+        "date_of_birth": "1992-02-20",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Geek Fam ID",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/RRQ_instinct.png",
+        "heros": [
+            "Franco", "Hylos"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-09-14",
+                "team": "PSG.RRQ"
+            },
+            {
+                "date": "2019-08-02",
+                "team": "Geek Fam ID"
+            }
+        ],
+        "date": "2017-09-14",
+        "url": "https://liquipedia.net/mobilelegends/instinct"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Rave",
+        "full_name": "Fadhil  Abdurahman",
+        "date_of_birth": "1996-04-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_Rave.png",
+        "heros": [
+            "Lolita",
+            "Chou",
+            "Khufra"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-10",
+                "team": "Team NXL"
+            },
+            {
+                "date": "2018-04-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2019-06-26",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2020-02-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-05-12",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2020-08-27",
+                "team": "Aerowolf Jr"
+            },
+            {
+                "date": "2021-04-07",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2021-06-24",
+                "team": "RRQ Mika"
+            },
+            {
+                "date": "2022-07-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-03-22",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-01-29",
+                "team": "RRQ Mika"
+            },
+            {
+                "date": "2024-03-23",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2025-05-15",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2019-06-26",
+        "url": "https://liquipedia.net/mobilelegends/rave"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "R7",
+        "full_name": "Rivaldi  Fatah",
+        "date_of_birth": "1998-10-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_R7.png",
+        "heros": [
+            "Esmeralda",
+            "Chou",
+            "Masha",
+            "Yu Zhong",
+            "Paquito"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-02",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2023-01-21",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2019-08-02",
+        "url": "https://liquipedia.net/mobilelegends/r7"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "VYN",
+        "full_name": "Calvin",
+        "date_of_birth": "2000-09-03",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "RRQ Hoshi",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/RRQ_VYN_S13.png",
+        "heros": [
+            "Franco",
+            "Kaja",
+            "Lolita",
+            "Khufra",
+            "Ruby"
+        ],
+        "roles": [
+            "Roamer",
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-30",
+                "team": "Boom JR (page does not exist)"
+            },
+            {
+                "date": "2019-01-17",
+                "team": "Bigetron Esports"
+            },
+            {
+                "date": "2019-08-13",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2023-05-21",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2024-03-25",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2019-08-13",
+        "url": "https://liquipedia.net/mobilelegends/vyn"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "AyamJAGO",
+        "full_name": "Widyanto Sukardi",
+        "date_of_birth": "1996-05-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/RRQ_ayamjago.png",
+        "heros": [
+            "Kagura", "Gusion", "Selena", "Lancelot", "Esmeralda"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-07-03",
+        "url": "https://liquipedia.net/mobilelegends/ayamjago"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Wizzking",
+        "full_name": "Mohd  Zulkifli",
+        "date_of_birth": "1997-04-11",
+        "nation": "Brunei",
+        "nation_code": "bn",
+        "last_team": "no data",
+        "current_team": "ESB Legacy",
+        "status": "Active",
+        "image": "/player/RRQ_Wizking_MPL_S7.png",
+        "heros": [
+            "Selena"
+        ],
+        "roles": [
+            "EXP Laner",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-24",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2023-08-05",
+                "team": "ESB Legacy (page does not exist)"
+            }
+        ],
+        "date": "2020-01-24",
+        "url": "https://liquipedia.net/mobilelegends/wizzking"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "XINNN",
+        "full_name": "Yesaya  Wowiling",
+        "date_of_birth": "1998-12-02",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_Xinnn_S12.png",
+        "heros": [
+            "Hayabusa",
+            "Gusion",
+            "Claude",
+            "Karrie",
+            "Esmeralda"
+        ],
+        "roles": [
+            "Gold Laner",
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-18",
+                "team": "Star8 Esports (page does not exist)"
+            },
+            {
+                "date": "2019-08-02",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2020-02-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-02-26",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-01-22",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2023-06-15",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2024-01-09",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2019-01-18",
+        "url": "https://liquipedia.net/mobilelegends/xinnn"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Tuturu",
+        "full_name": "Diky",
+        "date_of_birth": "1994-12-16",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "RRQ Hoshi",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/RRQ_Tuturu_MPL_S5.png",
+        "heros": [
+            "Granger",
+            "Miya",
+            "Layla",
+            "Moskov",
+            "Clint"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2017-09-14",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2017-09-14",
+        "url": "https://liquipedia.net/mobilelegends/tuturu"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Alberttt",
+        "full_name": "Albert  Iskandar",
+        "date_of_birth": "2004-01-08",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/RRQ_Albert_S9.png",
+        "heros": [
+            "Ling",
+            "Lancelot",
+            "Hayabusa",
+            "Roger",
+            "Fredrinn"
+        ],
+        "roles": [
+            "Jungler",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-12-07",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2020-07-16",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-08-21",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2023-06-23",
+                "team": "Fnatic ONIC"
+            },
+            {
+                "date": "2024-12-08",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2020-08-21",
+        "url": "https://liquipedia.net/mobilelegends/alberttt"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "LJ",
+        "full_name": "Joshua Darmansyah",
+        "date_of_birth": "1997-12-13",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/RRQ_LJ.png",
+        "heros": [
+            "Khufra", "Atlas", "Jawhead"
+        ],
+        "roles": [
+            "no data"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2019-06-26",
+        "url": "https://liquipedia.net/mobilelegends/lj"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Psychoo",
+        "full_name": "Teguh  Firdaus",
+        "date_of_birth": "2000-02-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/RRQ_Psychoo_S9.png",
+        "heros": [
+            "Akai",
+            "Chou",
+            "Selena",
+            "Lunox",
+            "Kagura"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-12-04",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-08-24",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2020-12-04",
+        "url": "https://liquipedia.net/mobilelegends/psychoo"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Taka",
+        "full_name": "Fadhil  Asra",
+        "date_of_birth": "2002-07-03",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC Prodigy",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/RRQ_Taka.png",
+        "heros": [
+            "Brody", "Clint", "Lunox"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-30",
+                "team": "Boom JR (page does not exist)"
+            },
+            {
+                "date": "2018-12-04",
+                "team": "Victim Esports"
+            },
+            {
+                "date": "2019-04-22",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2021-02-09",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2021-07-09",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-02-01",
+                "team": "ONIC Prodigy"
+            }
+        ],
+        "date": "2021-02-09",
+        "url": "https://liquipedia.net/mobilelegends/taka"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Skylar",
+        "full_name": "Schevenko  Tendean",
+        "date_of_birth": "2002-02-25",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_Skylar_S12.png",
+        "heros": [
+            "Claude",
+            "Beatrix",
+            "Brody",
+            "Bruno",
+            "Natan"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-16",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2021-03-03",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2025-02-05",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2021-03-03",
+        "url": "https://liquipedia.net/mobilelegends/skylar"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Clayyy",
+        "full_name": "Deden  Nurhasan",
+        "date_of_birth": "2003-04-02",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_Clay_S13.png",
+        "heros": [
+            "Yve",
+            "Pharsa",
+            "Xavier",
+            "Valentina",
+            "Lunox"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-16",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2021-07-07",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-07-28",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2021-07-07",
+        "url": "https://liquipedia.net/mobilelegends/clayyy"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Violence",
+        "full_name": "Riko",
+        "date_of_birth": "2001-03-10",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "RRQ Sena",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/RRQ_Violence_S9.png",
+        "heros": [
+            "Chou",
+            "Mathilda",
+            "Jawhead",
+            "Khufra",
+            "Atlas"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-02",
+                "team": "KINGS Esports"
+            },
+            {
+                "date": "2021-07-11",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2022-01-22",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-08-24",
+                "team": "RRQ Sena"
+            }
+        ],
+        "date": "2022-01-22",
+        "url": "https://liquipedia.net/mobilelegends/violence"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Justinnn",
+        "full_name": "Edi  Susanto",
+        "date_of_birth": "2001-02-25",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "RRQ Goro",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/RRQ_Yummy_S9.png",
+        "heros": [
+            "Chou", "Yu Zhong"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-02-17",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2020-08-27",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2022-01-22",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-07-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-08-03",
+                "team": "RRQ Goro (page does not exist)"
+            }
+        ],
+        "date": "2022-01-22",
+        "url": "https://liquipedia.net/mobilelegends/justinnn"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Banana",
+        "full_name": "Andre  Putra",
+        "date_of_birth": "2005-02-08",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_Banana_S13.png",
+        "heros": [
+            "Benedetta",
+            "Paquito",
+            "Arlott",
+            "Lapu-Lapu",
+            "Yu Zhong"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-08-02",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2022-09-01",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2022-09-01",
+        "url": "https://liquipedia.net/mobilelegends/banana"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "RENBO",
+        "full_name": "Deven  Markos",
+        "date_of_birth": "1999-05-20",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "RRQ Goro",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/RRQ_Renbo_S11.png",
+        "heros": [
+            "Cecilion",
+            "Johnson",
+            "Pharsa",
+            "Gord",
+            "Yve"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-03-14",
+                "team": "BOOM ID (page does not exist)"
+            },
+            {
+                "date": "2019-02-12",
+                "team": "Victim Esports"
+            },
+            {
+                "date": "2020-06-17",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2022-07-25",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2023-01-25",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2023-08-03",
+                "team": "RRQ Goro (page does not exist)"
+            }
+        ],
+        "date": "2023-01-25",
+        "url": "https://liquipedia.net/mobilelegends/renbo"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Naomi",
+        "full_name": "Min Ko Ko",
+        "date_of_birth": "1999-08-11",
+        "nation": "Myanmar",
+        "nation_code": "mm",
+        "last_team": "Mythic SEAL",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/RRQ_Naomi_S12.png",
+        "heros": [
+            "Franco",
+            "Khufra",
+            "Natalia",
+            "Chou",
+            "Kaja"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-02-25",
+                "team": "Maven Esport (page does not exist)"
+            },
+            {
+                "date": "2019-07-16",
+                "team": "Claw Esports"
+            },
+            {
+                "date": "2020-08-08",
+                "team": "Ronin Squad (page does not exist)"
+            },
+            {
+                "date": "2021-05-03",
+                "team": "Falcon Esports"
+            },
+            {
+                "date": "2023-06-02",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2024-04-29",
+                "team": "Mythic SEAL"
+            }
+        ],
+        "date": "2023-06-02",
+        "url": "https://liquipedia.net/mobilelegends/naomi"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Ferxiic",
+        "full_name": "Ferdyansyah  Kamaruddin",
+        "date_of_birth": "2004-08-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/RRQ_Ferxiic_S12.png",
+        "heros": [
+            "Ling",
+            "Benedetta",
+            "Hayabusa",
+            "Fanny",
+            "Baxia"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2021-02-12",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-03-11",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-06-13",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-01-24",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-05-02",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-08-06",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2023-06-13",
+        "url": "https://liquipedia.net/mobilelegends/ferxiic"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Dyrennn",
+        "full_name": "Rendy  Syahputra",
+        "date_of_birth": "2003-05-21",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_Dyrennn_S15.png",
+        "heros": [
+            "Khaleed",
+            "Yu Zhong",
+            "Arlott",
+            "Edith",
+            "Phoveus"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-08-03",
+                "team": "RedBull Rebellion"
+            },
+            {
+                "date": "2021-11-04",
+                "team": "Rebellion Zion"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "Rebellion Zion"
+            },
+            {
+                "date": "2023-07-09",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-01-13",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-07-20",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2023-07-09",
+        "url": "https://liquipedia.net/mobilelegends/dyrennn"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Brusko",
+        "full_name": "Borris  Parro",
+        "date_of_birth": "no data",
+        "nation": "Philippines",
+        "nation_code": "ph",
+        "last_team": "no data",
+        "current_team": "ONIC Philippines",
+        "status": "Active",
+        "image": "/player/RRQ_Brusko_S13.png",
+        "heros": [
+            "Chou",
+            "Minotaur",
+            "Tigreal",
+            "Gatotkaca",
+            "Khaleed"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-15",
+                "team": "Minana Esports"
+            },
+            {
+                "date": "2023-02-08",
+                "team": "Nexplay EVOS"
+            },
+            {
+                "date": "2023-08-10",
+                "team": "Minana EVOS"
+            },
+            {
+                "date": "2023-12-05",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-07-28",
+                "team": "ONIC Philippines"
+            }
+        ],
+        "date": "2023-12-05",
+        "url": "https://liquipedia.net/mobilelegends/brusko"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Donn",
+        "full_name": "Ramadhoni",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Rare Atom",
+        "status": "Active",
+        "image": "/player/RRQ_Donn_MDL_S10.png",
+        "heros": [
+            "Gloo",
+            "Benedetta",
+            "Phoveus",
+            "Esmeralda"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-01-21",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-01-07",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-07-27",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2025-02-12",
+                "team": "Rare Atom"
+            }
+        ],
+        "date": "2024-01-07",
+        "url": "https://liquipedia.net/mobilelegends/donn"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Octa",
+        "full_name": "Muhamad  Maulana",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/RRQ_Octa.png",
+        "heros": [
+            "Yve",
+            "Selena",
+            "Cecilion",
+            "Lunox",
+            "Novaria"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-07-31",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-01-21",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-01-11",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-05-01",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2024-01-11",
+        "url": "https://liquipedia.net/mobilelegends/octa"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Irrad",
+        "full_name": "John  Abarquez",
+        "date_of_birth": "2003-07-16",
+        "nation": "Philippines",
+        "nation_code": "ph",
+        "last_team": "RSG Philippines",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/RRQ_Irrad_S13.png",
+        "heros": [
+            "Lancelot",
+            "Fanny",
+            "Ling",
+            "Hayabusa",
+            "Martis"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-12",
+                "team": "RSG Slate PH"
+            },
+            {
+                "date": "2023-02-06",
+                "team": "RSG Ignite"
+            },
+            {
+                "date": "2023-04-03",
+                "team": "RSG Philippines"
+            },
+            {
+                "date": "2023-12-05",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-07-27",
+                "team": "RSG Philippines"
+            }
+        ],
+        "date": "2023-12-05",
+        "url": "https://liquipedia.net/mobilelegends/irrad"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Rinz",
+        "full_name": "Hajirin  Arafat",
+        "date_of_birth": "2004-01-28",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_Rinz_S15.png",
+        "heros": [
+            "Yve",
+            "Valentina",
+            "Pharsa",
+            "Zhuxin"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-09-12",
+                "team": "Tiger Wong Esports"
+            },
+            {
+                "date": "2024-01-13",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-07-17",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2024-07-17",
+        "url": "https://liquipedia.net/mobilelegends/rinz"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Sutsujin",
+        "full_name": "Arthur  Sunarkho",
+        "date_of_birth": "2004-06-01",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_Sutsujin_S15.png",
+        "heros": [
+            "Lancelot",
+            "Hayabusa",
+            "Ling",
+            "Roger",
+            "Lukas"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-12-31",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-03-08",
+                "team": "King Empire"
+            },
+            {
+                "date": "2024-07-23",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2024-07-23",
+        "url": "https://liquipedia.net/mobilelegends/sutsujin"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Bunnyqt",
+        "full_name": "Muhammad  Saifuddin",
+        "date_of_birth": "2005-08-27",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Team Vamos",
+        "status": "Active",
+        "image": "/player/RRQ_Bunnyqt_S13.png",
+        "heros": [
+            "Granger", "Wanwan", "Harith"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-09-12",
+                "team": "Tiger Wong Esports"
+            },
+            {
+                "date": "2024-01-11",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-08-16",
+                "team": "Team Vamos"
+            },
+            {
+                "date": "2024-09-19",
+                "team": "Team Vamos"
+            },
+            {
+                "date": "2024-09-19",
+                "team": "RSG Malaysia"
+            }
+        ],
+        "date": "2024-01-11",
+        "url": "https://liquipedia.net/mobilelegends/bunnyqt"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "ToYy",
+        "full_name": "Muhammad  Rizky",
+        "date_of_birth": "2003-05-14",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_Toyy_S15.png",
+        "heros": [
+            "Harith",
+            "Wanwan",
+            "Granger"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-06-20",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2025-02-05",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2025-02-05",
+        "url": "https://liquipedia.net/mobilelegends/toyy"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Hazle",
+        "full_name": "Muhammad  Balakosa",
+        "date_of_birth": "2007-05-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Aero Esports on loan from RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_Hazle_S14.png",
+        "heros": [
+            "Lancelot",
+            "Fanny",
+            "Hayabusa",
+            "Suyou"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2023-08-23",
+                "team": "Pajajaran Esports (page does not exist)"
+            },
+            {
+                "date": "2024-02-16",
+                "team": "Geek Fam ID"
+            },
+            {
+                "date": "2024-07-23",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2025-05-07",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2025-05-07",
+                "team": "Aero Esports"
+            }
+        ],
+        "date": "2024-07-23",
+        "url": "https://liquipedia.net/mobilelegends/hazle"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "MidGod",
+        "full_name": "Agung Wibowo",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Aerowolf Jr",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/RRQ_midgod.png",
+        "heros": [
+            "Harley",
+            "Alpha"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2017-12-12",
+                "team": "Team NXL"
+            },
+            {
+                "date": "2018-04-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2019-06-26",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2020-02-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-05-12",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2020-08-27",
+                "team": "Aerowolf Jr"
+            }
+        ],
+        "date": "2019-06-26",
+        "url": "https://liquipedia.net/mobilelegends/MidGod"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Aether",
+        "full_name": "Jason  Zefanya",
+        "date_of_birth": "2004-10-10",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Natus Vincere",
+        "status": "Active",
+        "image": "/player/RRQ_AETHER.png",
+        "heros": [
+            "Lancelot",
+            "Hayabusa",
+            "Nolan"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2021-08-31",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2022-01-22",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-07-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-02-02",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-02-18",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-07-22",
+                "team": "Rebellion Esports"
+            },
+            {
+                "date": "2025-02-08",
+                "team": "Natus Vincere"
+            }
+        ],
+        "date": "2022-01-22",
+        "url": "https://liquipedia.net/mobilelegends/Aether"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Idok",
+        "full_name": "Said  Ridho",
+        "date_of_birth": "2005-01-30",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/RRQ_IDOK.png",
+        "heros": [
+            "Franco",
+            "Ruby",
+            "Mathilda",
+            "Tigreal"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2022-09-12",
+                "team": "Tiger Wong Esports"
+            },
+            {
+                "date": "2024-01-13",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-07-20",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2024-07-20",
+        "url": "https://liquipedia.net/mobilelegends/Idok"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Chenn",
+        "full_name": "Arron Fernaus",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/RRQ_CHEN.png",
+        "heros": [
+            "Suyou", "Hayabusa", "Fanny", "Lancelot"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2025-05-08",
+        "url": "https://liquipedia.net/mobilelegends/index.php?title=Chenn&action=edit&redlink=1"
+    },
+    {
+        "team": "RRQ Hoshi",
+        "name": "Lavitz",
+        "full_name": "Soetrisno",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/rrq_lavitz.png",
+        "heros": [
+            "Chou", "Jawhead"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-05-17",
+        "url": "https://liquipedia.net/mobilelegends/index.php?title=Chenn&action=edit&redlink=1"
+    }
+]

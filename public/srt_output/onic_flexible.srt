@@ -1,0 +1,194 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain ONIC 2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Ryota (Philippines)
+()
+Name: Nowee Cabailo Macasa | Awal masuk MPL ID : ONIC: 13 March 2025 | Roles: [EXP Laner] | Heros: [Hilda]
+
+3
+00:00:08,000 --> 00:00:14,000
+Savero (Indonesia)
+()
+Name: Clayton Kuswanto | Awal masuk MPL ID : ONIC: 28 February 2025 | Roles: [Gold Laner] | Heros: [Moskov, Irithel, Harith]
+
+4
+00:00:14,000 --> 00:00:20,000
+Nnael (Indonesia)
+()
+Name: Manuel Simbolon | Awal masuk MPL ID : ONIC: 28 February 2025 | Roles: [Jungler] | Heros: [Ling, Lancelot, Nolan, Fanny, Baxia]
+
+5
+00:00:20,000 --> 00:00:26,000
+Lutpiii (Indonesia)
+()
+Name: Moch Ardianto | Awal masuk MPL ID : ONIC: 28 February 2025 | Roles: [EXP Laner] | Heros: [Terizla, Paquito, Arlott, Cici, Masha]
+
+6
+00:00:26,000 --> 00:00:32,000
+Rezzz (Indonesia)
+()
+Name: Muhammad Kurniawan | Awal masuk MPL ID : ONIC: 29 August 2024 | Roles: [EXP Laner] | Heros: [Martis, Benedetta, Khaleed, Arlott]
+
+7
+00:00:32,000 --> 00:00:38,000
+Marsha (Indonesia)
+()
+Name: Steven Kurniawan | Awal masuk MPL ID : ONIC: 28 July 2024 | Roles: [Roamer] | Heros: [Franco, Akai, Johnson]
+
+8
+00:00:38,000 --> 00:00:44,000
+Alberttt (Indonesia)
+()
+Name: Albert Iskandar | Awal masuk MPL ID : ONIC: 23 June 2023 | Roles: [Jungler, Gold Laner] | Heros: [Ling, Lancelot, Hayabusa, Roger, Fredrinn]
+
+9
+00:00:44,000 --> 00:00:50,000
+Kairi (Philippines)
+()
+Name: Kairi Rayosdelsol | Awal masuk MPL ID : ONIC: 04 July 2022 | Roles: [Jungler] | Heros: [Hayabusa, Ling, Lancelot, Fanny, Joy]
+
+10
+00:00:50,000 --> 00:00:56,000
+SamoHt (Indonesia)
+()
+Name: Thomas Budiman | Awal masuk MPL ID : ONIC: 24 February 2022 | Roles: [Roamer] | Heros: [Franco, Chou, Lolita, Kadita, Atlas]
+
+11
+00:00:56,000 --> 00:01:02,000
+Sir Ft Lans (Indonesia)
+()
+Name: Moch Aliarahman | Awal masuk MPL ID : ONIC: 12 February 2021 | Roles: [Jungler] | Heros: [Karina]
+
+12
+00:01:02,000 --> 00:01:08,000
+Maipan (Indonesia)
+()
+Name: Irfan Yusuf | Awal masuk MPL ID : ONIC: 12 February 2021 | Roles: [Mid Laner] | Heros: [Harley, Pharsa]
+
+13
+00:01:08,000 --> 00:01:14,000
+Sanz (Indonesia)
+()
+Name: Gilang | Awal masuk MPL ID : ONIC: 07 July 2020 | Roles: [Mid Laner] | Heros: [Valentina, Pharsa, Lylia, Kadita, Luo Yi]
+
+14
+00:01:14,000 --> 00:01:20,000
+Butsss (Indonesia)
+()
+Name: Muhammad Sanubari | Awal masuk MPL ID : ONIC: 06 June 2020 | Roles: [EXP Laner] | Heros: [Uranus, Fredrinn, Masha, Paquito, Terizla]
+
+15
+00:01:20,000 --> 00:01:26,000
+CW (Indonesia)
+()
+Name: Calvin Winata | Awal masuk MPL ID : ONIC: 26 February 2020 | Roles: [Gold Laner] | Heros: [Bruno, Claude, Wanwan, Harith, Melissa]
+
+16
+00:01:26,000 --> 00:01:32,000
+Rasy (Indonesia)
+()
+Name: Rasya Wisita | Awal masuk MPL ID : ONIC: 26 February 2020 | Roles: [Roamer] | Heros: [Atlas, Kadita, Estes, Gatotkaca, Chou]
+
+17
+00:01:32,000 --> 00:01:38,000
+Gov (Indonesia)
+()
+Name: Govher Madethen | Awal masuk MPL ID : ONIC: 27 January 2020 | Roles: [Roamer] | Heros: [Chou, Franco]
+
+18
+00:01:38,000 --> 00:01:44,000
+JHeHeHe (Indonesia)
+()
+Name: Jian Juliansyah | Awal masuk MPL ID : ONIC: 27 January 2020 | Roles: [Mid Laner] | Heros: [Gusion, Lylia, Valir]
+
+19
+00:01:44,000 --> 00:01:50,000
+Angsa (Indonesia)
+()
+Name: Dywa Hanif | Awal masuk MPL ID : ONIC: 27 January 2020 | Roles: [EXP Laner] | Heros: [Chou]
+
+20
+00:01:50,000 --> 00:01:56,000
+Rasdalima (Indonesia)
+()
+Name: Muhammad Rafli Z | Awal masuk MPL ID : ONIC: 27 January 2020 | Roles: [Mid Laner] | Heros: [Lunox]
+
+21
+00:01:56,000 --> 00:02:02,000
+Kiboy (Indonesia)
+()
+Name: Nicky Pontonuwu | Awal masuk MPL ID : ONIC: 27 January 2020 | Roles: [Roamer] | Heros: [Chou, Kadita, Khufra, Jawhead, Kaja]
+
+22
+00:02:02,000 --> 00:02:08,000
+Sasa (Malaysia)
+()
+Name: Lu Khai Bean | Awal masuk MPL ID : ONIC: 31 January 2019 | Roles: [Coach, Gold Laner] | Heros: [Clint, Claude, Granger, Bruno, Moskov]
+
+23
+00:02:08,000 --> 00:02:14,000
+Psychoo (Indonesia)
+()
+Name: Teguh Firdaus | Awal masuk MPL ID : ONIC: 31 January 2019 | Roles: [Mid Laner, Roamer] | Heros: [Akai, Chou, Selena, Lunox, Kagura]
+
+24
+00:02:14,000 --> 00:02:20,000
+Udil (Indonesia)
+()
+Name: Muhammad Ardiansyah | Awal masuk MPL ID : ONIC: 31 January 2019 | Roles: [Mid Laner] | Heros: [Lunox, Harith, Pharsa, Valentina, Yve]
+
+25
+00:02:20,000 --> 00:02:26,000
+AzeR (Indonesia)
+()
+Name: Reza Kurniawan | Awal masuk MPL ID : ONIC: 31 January 2019 | Roles: [Gold Laner] | Heros: [Wanwan]
+
+26
+00:02:26,000 --> 00:02:32,000
+Watt (Indonesia)
+()
+Name: Supriadi Putra | Awal masuk MPL ID : ONIC: 10 August 2018 | Roles: [Gold Laner] | Heros: [Karrie, Claude, Bruno, Bane, Brody]
+
+27
+00:02:32,000 --> 00:02:38,000
+Antimage (Indonesia)
+()
+Name: Maxhill Leonardo | Awal masuk MPL ID : ONIC: 13 July 2018 | Roles: [EXP Laner] | Heros: [Thamuz, Yu Zhong, Benedetta, Paquito, Hayabusa]
+
+28
+00:02:38,000 --> 00:02:44,000
+Ichsan (Indonesia)
+()
+Name: Muhammad Ichsan | Awal masuk MPL ID : ONIC: 11 July 2018 | Roles: [Mid Laner] | Heros: [Gusion]
+
+29
+00:02:44,000 --> 00:02:50,000
+Drian (Indonesia)
+()
+Name: Adriand Wong | Awal masuk MPL ID : ONIC: 11 July 2018 | Roles: [Roamer, Mid Laner] | Heros: [Kagura, Pharsa, Kaja, Cecilion, Lunox]
+
+30
+00:02:50,000 --> 00:02:56,000
+Eiduart (Indonesia)
+()
+Name: Eiduart Tjahyadikarta | Awal masuk MPL ID : ONIC: 11 July 2018 | Roles: [Roamer] | Heros: [Franco, Chou]
+
+31
+00:02:56,000 --> 00:03:02,000
+Fenrir (Singapore)
+()
+Name: Nashrudin | Awal masuk MPL ID : ONIC: 11 July 2018 | Roles: [Mid Laner] | Heros: [Kagura, Lylia, Cyclops, Gusion]
+
+32
+00:03:02,000 --> 00:03:08,000
+Spade (Indonesia)
+()
+Name: Hansen Meyerson | Awal masuk MPL ID : ONIC: 11 July 2018 | Roles: [Gold Laner] | Heros: [Lesley, Hanabi]
+
+33
+00:03:08,000 --> 00:03:13,000
+Terima kasih sudah menonton!
+

@@ -1,0 +1,254 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain RRQ Hoshi 2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Chenn (Indonesia)
+()
+Name: Arron Fernaus | Awal masuk MPL ID : RRQ Hoshi: 08 May 2025 | Roles: [Jungler] | Heros: [Suyou, Hayabusa, Fanny, Lancelot]
+
+3
+00:00:08,000 --> 00:00:14,000
+ToYy (Indonesia)
+()
+Name: Muhammad Rizky | Awal masuk MPL ID : RRQ Hoshi: 05 February 2025 | Roles: [Gold Laner] | Heros: [Harith, Wanwan, Granger]
+
+4
+00:00:14,000 --> 00:00:20,000
+Hazle (Indonesia)
+()
+Name: Muhammad Balakosa | Awal masuk MPL ID : RRQ Hoshi: 23 July 2024 | Roles: [Jungler] | Heros: [Lancelot, Fanny, Hayabusa, Suyou]
+
+5
+00:00:20,000 --> 00:00:26,000
+Sutsujin (Indonesia)
+()
+Name: Arthur Sunarkho | Awal masuk MPL ID : RRQ Hoshi: 23 July 2024 | Roles: [Jungler] | Heros: [Lancelot, Hayabusa, Ling, Roger, Lukas]
+
+6
+00:00:26,000 --> 00:00:32,000
+Idok (Indonesia)
+()
+Name: Said Ridho | Awal masuk MPL ID : RRQ Hoshi: 20 July 2024 | Roles: [Roamer] | Heros: [Franco, Ruby, Mathilda, Tigreal]
+
+7
+00:00:32,000 --> 00:00:38,000
+Rinz (Indonesia)
+()
+Name: Hajirin Arafat | Awal masuk MPL ID : RRQ Hoshi: 17 July 2024 | Roles: [Mid Laner] | Heros: [Yve, Valentina, Pharsa, Zhuxin]
+
+8
+00:00:38,000 --> 00:00:44,000
+Bunnyqt (Indonesia)
+()
+Name: Muhammad Saifuddin | Awal masuk MPL ID : RRQ Hoshi: 11 January 2024 | Roles: [Gold Laner] | Heros: [Granger, Wanwan, Harith]
+
+9
+00:00:44,000 --> 00:00:50,000
+Octa (Indonesia)
+()
+Name: Muhamad Maulana | Awal masuk MPL ID : RRQ Hoshi: 11 January 2024 | Roles: [Mid Laner] | Heros: [Yve, Selena, Cecilion, Lunox, Novaria]
+
+10
+00:00:50,000 --> 00:00:56,000
+Donn (Indonesia)
+()
+Name: Ramadhoni | Awal masuk MPL ID : RRQ Hoshi: 07 January 2024 | Roles: [EXP Laner] | Heros: [Gloo, Benedetta, Phoveus, Esmeralda]
+
+11
+00:00:56,000 --> 00:01:02,000
+Irrad (Philippines)
+()
+Name: John Abarquez | Awal masuk MPL ID : RRQ Hoshi: 05 December 2023 | Roles: [Jungler] | Heros: [Lancelot, Fanny, Ling, Hayabusa, Martis]
+
+12
+00:01:02,000 --> 00:01:08,000
+Brusko (Philippines)
+()
+Name: Borris Parro | Awal masuk MPL ID : RRQ Hoshi: 05 December 2023 | Roles: [Roamer] | Heros: [Chou, Minotaur, Tigreal, Gatotkaca, Khaleed]
+
+13
+00:01:08,000 --> 00:01:14,000
+Dyrennn (Indonesia)
+()
+Name: Rendy Syahputra | Awal masuk MPL ID : RRQ Hoshi: 09 July 2023 | Roles: [EXP Laner] | Heros: [Khaleed, Yu Zhong, Arlott, Edith, Phoveus]
+
+14
+00:01:14,000 --> 00:01:20,000
+Ferxiic (Indonesia)
+()
+Name: Ferdyansyah Kamaruddin | Awal masuk MPL ID : RRQ Hoshi: 13 June 2023 | Roles: [Jungler] | Heros: [Ling, Benedetta, Hayabusa, Fanny, Baxia]
+
+15
+00:01:20,000 --> 00:01:26,000
+Naomi (Myanmar)
+()
+Name: Min Ko Ko | Awal masuk MPL ID : RRQ Hoshi: 02 June 2023 | Roles: [Roamer] | Heros: [Franco, Khufra, Natalia, Chou, Kaja]
+
+16
+00:01:26,000 --> 00:01:32,000
+RENBO (Indonesia)
+()
+Name: Deven Markos | Awal masuk MPL ID : RRQ Hoshi: 25 January 2023 | Roles: [Mid Laner] | Heros: [Cecilion, Johnson, Pharsa, Gord, Yve]
+
+17
+00:01:32,000 --> 00:01:38,000
+Banana (Indonesia)
+()
+Name: Andre Putra | Awal masuk MPL ID : RRQ Hoshi: 01 September 2022 | Roles: [EXP Laner] | Heros: [Benedetta, Paquito, Arlott, Lapu-Lapu, Yu Zhong]
+
+18
+00:01:38,000 --> 00:01:44,000
+Aether (Indonesia)
+()
+Name: Jason Zefanya | Awal masuk MPL ID : RRQ Hoshi: 22 January 2022 | Roles: [Jungler] | Heros: [Lancelot, Hayabusa, Nolan]
+
+19
+00:01:44,000 --> 00:01:50,000
+Justinnn (Indonesia)
+()
+Name: Edi Susanto | Awal masuk MPL ID : RRQ Hoshi: 22 January 2022 | Roles: [EXP Laner] | Heros: [Chou, Yu Zhong]
+
+20
+00:01:50,000 --> 00:01:56,000
+Violence (Indonesia)
+()
+Name: Riko | Awal masuk MPL ID : RRQ Hoshi: 22 January 2022 | Roles: [Roamer] | Heros: [Chou, Mathilda, Jawhead, Khufra, Atlas]
+
+21
+00:01:56,000 --> 00:02:02,000
+Clayyy (Indonesia)
+()
+Name: Deden Nurhasan | Awal masuk MPL ID : RRQ Hoshi: 07 July 2021 | Roles: [Mid Laner] | Heros: [Yve, Pharsa, Xavier, Valentina, Lunox]
+
+22
+00:02:02,000 --> 00:02:08,000
+Skylar (Indonesia)
+()
+Name: Schevenko Tendean | Awal masuk MPL ID : RRQ Hoshi: 03 March 2021 | Roles: [Gold Laner] | Heros: [Claude, Beatrix, Brody, Bruno, Natan]
+
+23
+00:02:08,000 --> 00:02:14,000
+Taka (Indonesia)
+()
+Name: Fadhil Asra | Awal masuk MPL ID : RRQ Hoshi: 09 February 2021 | Roles: [Gold Laner] | Heros: [Brody, Clint, Lunox]
+
+24
+00:02:14,000 --> 00:02:20,000
+Psychoo (Indonesia)
+()
+Name: Teguh Firdaus | Awal masuk MPL ID : RRQ Hoshi: 04 December 2020 | Roles: [Mid Laner, Roamer] | Heros: [Akai, Chou, Selena, Lunox, Kagura]
+
+25
+00:02:20,000 --> 00:02:26,000
+Alberttt (Indonesia)
+()
+Name: Albert Iskandar | Awal masuk MPL ID : RRQ Hoshi: 21 August 2020 | Roles: [Jungler, Gold Laner] | Heros: [Ling, Lancelot, Hayabusa, Roger, Fredrinn]
+
+26
+00:02:26,000 --> 00:02:32,000
+Wizzking (Brunei)
+()
+Name: Mohd Zulkifli | Awal masuk MPL ID : RRQ Hoshi: 24 January 2020 | Roles: [EXP Laner, Gold Laner] | Heros: [Selena]
+
+27
+00:02:32,000 --> 00:02:38,000
+VYN (Indonesia)
+()
+Name: Calvin | Awal masuk MPL ID : RRQ Hoshi: 13 August 2019 | Roles: [Roamer, Mid Laner] | Heros: [Franco, Kaja, Lolita, Khufra, Ruby]
+
+28
+00:02:38,000 --> 00:02:44,000
+R7 (Indonesia)
+()
+Name: Rivaldi Fatah | Awal masuk MPL ID : RRQ Hoshi: 02 August 2019 | Roles: [EXP Laner] | Heros: [Esmeralda, Chou, Masha, Yu Zhong, Paquito]
+
+29
+00:02:44,000 --> 00:02:50,000
+MidGod (Indonesia)
+()
+Name: Agung Wibowo | Awal masuk MPL ID : RRQ Hoshi: 26 June 2019 | Roles: [EXP Laner] | Heros: [Harley, Alpha]
+
+30
+00:02:50,000 --> 00:02:56,000
+LJ (Indonesia)
+()
+Name: Joshua Darmansyah | Awal masuk MPL ID : RRQ Hoshi: 26 June 2019 | Heros: [Khufra, Atlas, Jawhead]
+
+31
+00:02:56,000 --> 00:03:02,000
+Rave (Indonesia)
+()
+Name: Fadhil Abdurahman | Awal masuk MPL ID : RRQ Hoshi: 26 June 2019 | Roles: [Roamer] | Heros: [Lolita, Chou, Khufra]
+
+32
+00:03:02,000 --> 00:03:08,000
+XINNN (Indonesia)
+()
+Name: Yesaya Wowiling | Awal masuk MPL ID : RRQ Hoshi: 18 January 2019 | Roles: [Gold Laner, Jungler] | Heros: [Hayabusa, Gusion, Claude, Karrie, Esmeralda]
+
+33
+00:03:08,000 --> 00:03:14,000
+Jamess (Taiwan)
+()
+Name: Chen James | Awal masuk MPL ID : RRQ Hoshi: 17 January 2019 | Roles: [EXP Laner] | Heros: [Kaja, Chou, Leomord]
+
+34
+00:03:14,000 --> 00:03:20,000
+AyamJAGO (Indonesia)
+()
+Name: Widyanto Sukardi | Awal masuk MPL ID : RRQ Hoshi: 03 July 2018 | Roles: [Mid Laner] | Heros: [Kagura, Gusion, Selena, Lancelot, Esmeralda]
+
+35
+00:03:20,000 --> 00:03:26,000
+Liam (Indonesia)
+()
+Name: William Setiawan | Awal masuk MPL ID : RRQ Hoshi: 03 July 2018 | Roles: [Roamer] | Heros: [Akai, Franco, Kaja]
+
+36
+00:03:26,000 --> 00:03:32,000
+Lavitz (Indonesia)
+()
+Name: Soetrisno | Awal masuk MPL ID : RRQ Hoshi: 17 May 2018 | Roles: [EXP Laner] | Heros: [Chou, Jawhead]
+
+37
+00:03:32,000 --> 00:03:38,000
+Tuturu (Indonesia)
+()
+Name: Diky | Awal masuk MPL ID : RRQ Hoshi: 14 September 2017 | Roles: [Gold Laner] | Heros: [Granger, Miya, Layla, Moskov, Clint]
+
+38
+00:03:38,000 --> 00:03:44,000
+InstincT (Indonesia)
+()
+Name: Calvien Liem | Awal masuk MPL ID : RRQ Hoshi: 14 September 2017 | Roles: [Roamer] | Heros: [Franco, Hylos]
+
+39
+00:03:44,000 --> 00:03:50,000
+xBarierjr (Indonesia)
+()
+Name: Risky Gunawan | Awal masuk MPL ID : RRQ Hoshi: 14 September 2017 | Roles: [Roamer] | Heros: [Chou, Minotaur, Akai, Grock]
+
+40
+00:03:50,000 --> 00:03:56,000
+Marsha (Indonesia)
+()
+Name: Steven Kurniawan | Awal masuk MPL ID : RRQ Hoshi: 14 September 2017 | Roles: [Roamer] | Heros: [Franco, Akai, Johnson]
+
+41
+00:03:56,000 --> 00:04:02,000
+Banshee (Indonesia)
+()
+Name: Jordy Dave | Awal masuk MPL ID : RRQ Hoshi: 14 September 2017 | Roles: [Gold Laner] | Heros: [Miya, Moskov, Bruno]
+
+42
+00:04:02,000 --> 00:04:08,000
+Lemon (Indonesia)
+()
+Name: Muhammad Ikhsan | Awal masuk MPL ID : RRQ Hoshi: 14 September 2017 | Roles: [Mid Laner, EXP Laner] | Heros: [Kagura, Lunox, Faramis, Lapu-Lapu, Edith]
+
+43
+00:04:08,000 --> 00:04:13,000
+Terima kasih sudah menonton!
+

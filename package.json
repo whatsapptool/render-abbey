@@ -1,0 +1,59 @@
+{
+  "name": "template-bola",
+  "version": "1.0.0",
+  "description": "remotion-video",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render DataListCard out/video.mp4 --disable-audio --verbose --concurrency=$(nproc)",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc"
+  },
+  "repository": {},
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "^4.0.332",
+    "@remotion/tailwind-v4": "^4.0.332",
+    "@tailwindcss/forms": "^0.5.10",
+    "@types/react": "^19.0.10",
+    "@types/web": "0.0.208",
+    "autoprefixer": "^10.4.20",
+    "eslint": "9.22.0",
+    "postcss": "^8.5.3",
+    "prettier": "3.5.3",
+    "tailwindcss": "4.0.12",
+    "typescript": "5.8.2"
+  },
+  "dependencies": {
+    "@fontsource-variable/noto-sans-devanagari": "^5.2.6",
+    "@fontsource-variable/noto-sans-jp": "^5.2.6",
+    "@fontsource-variable/noto-sans-khmer": "^5.2.6",
+    "@fontsource-variable/noto-sans-kr": "^5.2.6",
+    "@fontsource-variable/noto-sans-sc": "^5.2.6",
+    "@fontsource-variable/noto-sans-thai": "^5.2.6",
+    "@remotion/animation-utils": "^4.0.332",
+    "@remotion/bundler": "4.0.332",
+    "@remotion/cli": "4.0.332",
+    "@remotion/google-fonts": "4.0.332",
+    "@remotion/media-parser": "4.0.332",
+    "@remotion/preload": "4.0.332",
+    "@remotion/zod-types": "4.0.332",
+    "@tailwindcss/postcss": "^4.0.12",
+    "react": "19.0.0",
+    "react-circle-flags": "^0.0.23",
+    "react-dom": "19.0.0",
+    "react-icons": "^5.5.0",
+    "remotion": "4.0.332",
+    "tailwind-merge": "^3.0.2",
+    "zod": "3.24.2"
+  },
+  "private": true,
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

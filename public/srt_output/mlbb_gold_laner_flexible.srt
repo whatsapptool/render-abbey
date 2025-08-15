@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain  2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Ixia (Agelta Drylands)
+()
+Awal masuk MPL ID : : 07 August 2023
+
+3
+00:00:08,000 --> 00:00:14,000
+Melissa (Moniyan)
+()
+Awal masuk MPL ID : : 22 February 2022
+
+4
+00:00:14,000 --> 00:00:20,000
+Natan (Agelta Drylands)
+()
+Awal masuk MPL ID : : 23 July 2021
+
+5
+00:00:20,000 --> 00:00:26,000
+Beatrix (Agelta Drylands)
+()
+Awal masuk MPL ID : : 19 March 2021
+
+6
+00:00:26,000 --> 00:00:32,000
+Brody (The Barren Lands)
+()
+Awal masuk MPL ID : : 16 October 2020
+
+7
+00:00:32,000 --> 00:00:38,000
+Wanwan (Tang Wanwan)
+()
+Awal masuk MPL ID : : 26 November 2019
+
+8
+00:00:38,000 --> 00:00:44,000
+Kimmy (Moniyan)
+()
+Awal masuk MPL ID : : 23 October 2018
+
+9
+00:00:44,000 --> 00:00:50,000
+Claude (Agelta Drylands)
+()
+Awal masuk MPL ID : : 08 July 2018
+
+10
+00:00:50,000 --> 00:00:56,000
+Hanabi (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 17 April 2018
+
+11
+00:00:56,000 --> 00:01:02,000
+Lesley (Moniyan)
+()
+Awal masuk MPL ID : : 31 January 2018
+
+12
+00:01:02,000 --> 00:01:08,000
+Irithel (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+13
+00:01:08,000 --> 00:01:14,000
+Karrie (Vonetis Sea)
+()
+Awal masuk MPL ID : : 07 May 2017
+
+14
+00:01:14,000 --> 00:01:20,000
+Moskov (Agelta Drylands)
+()
+Awal masuk MPL ID : : 20 March 2017
+
+15
+00:01:20,000 --> 00:01:26,000
+Layla (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+16
+00:01:26,000 --> 00:01:32,000
+Clint (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+17
+00:01:32,000 --> 00:01:38,000
+Bruno (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+18
+00:01:38,000 --> 00:01:44,000
+Miya (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 22 September 2016
+
+19
+00:01:44,000 --> 00:01:49,000
+Terima kasih sudah menonton!
+

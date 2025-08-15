@@ -1,0 +1,1487 @@
+[
+    {
+        "team": "Alter Ego",
+        "name": "Arss",
+        "full_name": "Arasy  Zamanullail",
+        "date_of_birth": "1994-04-16",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Coach",
+        "status": "Active",
+        "image": "/player/AE_Arss_S10.png",
+        "heros": [
+            "Bane",
+            "Leomord",
+            "Alice",
+            "Aldous",
+            "Lapu-Lapu"
+        ],
+        "roles": [
+            "EXP Lane"
+        ],
+        "team_history": [
+            {
+                "date": "2018-05-21",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2020-01-28",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2021-08-04",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-08-25",
+                "team": "Team Rey"
+            }
+        ],
+        "date": "2018-05-21",
+        "url": "https://liquipedia.net/mobilelegends/arss"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Jo",
+        "full_name": "Johannes",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_Jo.png",
+        "heros": [
+            "Lolita",
+            "Khufra"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-05-21",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Bale",
+        "full_name": "Muh Iqbal",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_Bale.png",
+        "heros": [
+            "Lolita"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-05-21",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Ahmad (Maungzy)",
+        "full_name": "Ahmad  Abdurrahman",
+        "date_of_birth": "1998-08-26",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/AE_Ahmad_S10.png",
+        "heros": [
+            "Gusion",
+            "Harith",
+            "Claude",
+            "Yu Zhong",
+            "Pharsa"
+        ],
+        "roles": [
+            "Gold Laner",
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-05-21",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-02-02",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2022-07-30",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2018-05-21",
+        "url": "https://liquipedia.net/mobilelegends/ahmad"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Rage",
+        "full_name": "Tri Dhani Ananda",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_Rage_2.png",
+        "heros": [
+            "Gusion",
+            "Kagura",
+            "Harley"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-05-21",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "LeoMurphy",
+        "full_name": "Julian  Murphy",
+        "date_of_birth": "2001-07-29",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Inactive",
+        "image": "/player/AE_LeoMurphy_S10.png",
+        "heros": [
+            "Chou",
+            "Jawhead",
+            "Hilda",
+            "Khufra",
+            "Natalia"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-08-07",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-02-02",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2022-03-17",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2023-07-03",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2018-08-07",
+        "url": "https://liquipedia.net/mobilelegends/leomurphy"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Caesius",
+        "full_name": "Ilyas  Rahmanda",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Team Vitality",
+        "status": "Active",
+        "image": "/player/AE_Caesius_S10.png",
+        "heros": [
+            "Kagura",
+            "Pharsa",
+            "Lunox",
+            "Tigreal",
+            "Akai"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-12-11",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2021-08-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-02-02",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-02-29",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-16",
+                "team": "Team Vitality"
+            }
+        ],
+        "date": "2018-12-11",
+        "url": "https://liquipedia.net/mobilelegends/caesius"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Chester",
+        "full_name": "Adimas  Andoko",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/AE_Chester_MDL_S7.png",
+        "heros": [
+            "Leomord",
+            "Helcurt",
+            "Hayabusa",
+            "Claude"
+        ],
+        "roles": [
+            "Flex"
+        ],
+        "team_history": [
+            {
+                "date": "2018-12-11",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2020-02-02",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-02-06",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-07-30",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2018-12-11",
+        "url": "https://liquipedia.net/mobilelegends/chester"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "SamoHt",
+        "full_name": "Thomas Budiman",
+        "date_of_birth": "1999-03-29",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_Samoht.png",
+        "heros": [
+            "Chou",
+            "Franco",
+            "Kadita",
+            "Lolita",
+            "Atlas"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2019-02-05",
+        "url": "https://liquipedia.net/mobilelegends/samoht"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Rmitchi",
+        "full_name": "Imanuel  Santoso",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/AE_Rmitchi.png",
+        "heros": [
+            "Thamuz",
+            "Uranus",
+            "Guinevere"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-06-01",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-07-24",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2019-07-24",
+        "url": "https://liquipedia.net/mobilelegends/rmitchi"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Celiboy",
+        "full_name": "Eldin  Putra",
+        "date_of_birth": "2003-02-23",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego X",
+        "status": "Active",
+        "image": "/player/AE_Celiboy_S13.png",
+        "heros": [
+            "Lancelot",
+            "Yi Sun-shin",
+            "Ling",
+            "Helcurt",
+            "Esmeralda"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2019-04-26",
+                "team": "RRQ TCN"
+            },
+            {
+                "date": "2019-08-23",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-02-15",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2024-03-13",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2019-08-23",
+        "url": "https://liquipedia.net/mobilelegends/celiboy"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Kobod (Yoxx)",
+        "full_name": "Yoga  Prasetya",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego X",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/AE_Kobod.png",
+        "heros": [
+            "Natalia"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-23",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2020-01-28",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2019-08-23",
+        "url": "https://liquipedia.net/mobilelegends/kobod"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "YAM",
+        "full_name": "William",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/AE_YAM.png",
+        "heros": [
+            "Yu Zhong",
+            "Esmeralda"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-05-09",
+                "team": "Bigetron Esports"
+            },
+            {
+                "date": "2018-12-12",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2020-01-13",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2020-01-13",
+        "url": "https://liquipedia.net/mobilelegends/yam"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Pai",
+        "full_name": "Rafly  Sudrajat",
+        "date_of_birth": "1999-03-27",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/AE_PAI_S11.png",
+        "heros": [
+            "Khaleed",
+            "Esmeralda",
+            "Phoveus",
+            "Yu Zhong",
+            "Terizla"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-28",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2020-05-31",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2020-05-31",
+        "url": "https://liquipedia.net/mobilelegends/pai"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Udil",
+        "full_name": "Muhammad  Ardiansyah",
+        "date_of_birth": "2001-07-02",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "HomeBois",
+        "status": "Inactive",
+        "image": "/player/AE_Udil_S11.png",
+        "heros": [
+            "Lunox",
+            "Harith",
+            "Pharsa",
+            "Valentina",
+            "Yve"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-06-09",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-01-19",
+                "team": "HomeBois"
+            },
+            {
+                "date": "2025-03-20",
+                "team": "HomeBois"
+            }
+        ],
+        "date": "2020-06-09",
+        "url": "https://liquipedia.net/mobilelegends/udil"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Nino",
+        "full_name": "Syauki  Sumarno",
+        "date_of_birth": "2004-04-30",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AE_Nino_S11.png",
+        "heros": [
+            "Benedetta",
+            "Yu Zhong",
+            "Cici",
+            "Phoveus"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-01-28",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2021-04-01",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2021-04-01",
+        "url": "https://liquipedia.net/mobilelegends/nino"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Rasy",
+        "full_name": "Rasya  Wisita",
+        "date_of_birth": "2001-05-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "DXSoul Esports",
+        "status": "Active",
+        "image": "/player/AE_Rasy_S11.png",
+        "heros": [
+            "Atlas",
+            "Kadita",
+            "Estes",
+            "Gatotkaca",
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2020-02-11",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2020-02-26",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2021-07-05",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-03-17",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-08-17",
+                "team": "JP NINERS"
+            },
+            {
+                "date": "2025-03-23",
+                "team": "DXSoul Esports (page does not exist)"
+            }
+        ],
+        "date": "2021-07-05",
+        "url": "https://liquipedia.net/mobilelegends/rasy"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "DevKoch",
+        "full_name": "Devara Reynanda Putra",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_DevKoch_S10.png",
+        "heros": [
+            "Jawhead"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2022-02-06",
+        "url": "https://liquipedia.net/mobilelegends/devkoch"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Rexlona",
+        "full_name": "Prayoga  Naufal",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Sena",
+        "status": "Active",
+        "image": "/player/AE_Rexlona_MDL_S7.png",
+        "heros": [
+            "Kadita",
+            "Lylia"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-01-28",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2022-02-06",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-07-29",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2024-08-29",
+                "team": "RRQ Sena"
+            }
+        ],
+        "date": "2022-02-06",
+        "url": "https://liquipedia.net/mobilelegends/rexlona"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "AMYY",
+        "full_name": "Fahmi Fadillah",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_AMYY_S9.png",
+        "heros": [
+            "Sun",
+            "Thamuz",
+            "Aulus",
+            "Bane"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2022-02-06",
+        "url": "https://liquipedia.net/mobilelegends/amyy"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "KidsZ",
+        "full_name": "Muhammad Rizal",
+        "date_of_birth": "2003-05-02",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_KidsZ_S10.png",
+        "heros": [
+            "Ling",
+            "Lancelot",
+            "Hayabusa",
+            "Helcurt",
+            "Paquito"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2022-07-30",
+        "url": "https://liquipedia.net/mobilelegends/kidsz"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Psychoo",
+        "full_name": "Teguh  Firdaus",
+        "date_of_birth": "2000-02-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/AE_Psychoo_S11.png",
+        "heros": [
+            "Akai",
+            "Chou",
+            "Selena",
+            "Lunox",
+            "Kagura"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-12-04",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-08-24",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2023-01-27",
+        "url": "https://liquipedia.net/mobilelegends/psychoo"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "R E K T",
+        "full_name": "Gustian",
+        "date_of_birth": "1996-08-13",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AE_Rekt_S15.png",
+        "heros": [
+            "Claude",
+            "Kimmy",
+            "Angela",
+            "Diggie",
+            "Hilda"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2017-12-26",
+                "team": "Bigetron Esports"
+            },
+            {
+                "date": "2018-06-01",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2018-12-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-06-19",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2023-06-19",
+        "url": "https://liquipedia.net/mobilelegends/rekt"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Variety",
+        "full_name": "Michael  Tjandra",
+        "date_of_birth": "2003-12-14",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/AE_Variety_MDL_S7.png",
+        "heros": [
+            "Hayabusa",
+            "Lancelot",
+            "Ling"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2021-02-12",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2021-03-11",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2022-01-20",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2023-06-19",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2023-06-19",
+        "url": "https://liquipedia.net/mobilelegends/variety"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "RaizeL",
+        "full_name": "Wahyu Saputra",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_Raizel_S11.png",
+        "heros": [
+            "Benedetta",
+            "Beatrix",
+            "Claude",
+            "Irithel",
+            "Bruno"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2023-01-27",
+        "url": "https://liquipedia.net/mobilelegends/raizel"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "RoundeL",
+        "full_name": "Faiskal Khadafi",
+        "date_of_birth": "2004-05-21",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_RoundeL_S14.png",
+        "heros": [
+            "Luo Yi",
+            "Pharsa",
+            "Valentina"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2024-01-20",
+        "url": "https://liquipedia.net/mobilelegends/roundel"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Munsters",
+        "full_name": "I Ketut Rio Mahendra",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC Prodigy",
+        "status": "Active",
+        "image": "/player/AE_Munsters_MDL_S7.png",
+        "heros": [
+            "Khaleed"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-04-21",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2021-08-04",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-08-15",
+                "team": "ONIC Miracle"
+            },
+            {
+                "date": "2024-08-30",
+                "team": "ONIC Prodigy"
+            }
+        ],
+        "date": "2024-01-20",
+        "url": "https://liquipedia.net/mobilelegends/munsters"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Cr1te",
+        "full_name": "Muhammad  Yusuf (3yy)",
+        "date_of_birth": "2001-02-17",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS Academy",
+        "status": "Active",
+        "image": "/player/AE_Cr1te_S13.png",
+        "heros": [
+            "Cecilion",
+            "Yve",
+            "Lunox",
+            "Valentina",
+            "Xavier"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-02",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2020-02-17",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2020-07-02",
+                "team": "KINGS Esports"
+            },
+            {
+                "date": "2022-02-07",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-12-31",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-02",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2025-04-27",
+                "team": "EVOS Academy (page does not exist)"
+            }
+        ],
+        "date": "2024-01-20",
+        "url": "https://liquipedia.net/mobilelegends/cr1te"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Tazz",
+        "full_name": "Darrel  Wijaya",
+        "date_of_birth": "2005-09-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego X",
+        "status": "Active",
+        "image": "/player/AE_Tazz_S13.png",
+        "heros": [
+            "Fanny",
+            "Ling",
+            "Martis",
+            "Akai",
+            "Lancelot"
+        ],
+        "roles": [
+            "Jungler",
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-09-17",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2024-01-20",
+        "url": "https://liquipedia.net/mobilelegends/tazz"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Haiz",
+        "full_name": "Dhannya  Hoputra",
+        "date_of_birth": "2003-12-03",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego X",
+        "status": "Active",
+        "image": "/player/AE_Haizz_S15.png",
+        "heros": [
+            "Lunox",
+            "Harith",
+            "Beatrix",
+            "Claude"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-01-25",
+                "team": "Rebellion Sinai"
+            },
+            {
+                "date": "2022-07-27",
+                "team": "Rebellion Zion"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2025-05-14",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2024-01-20",
+        "url": "https://liquipedia.net/mobilelegends/haiz"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Gebe",
+        "full_name": "Gilbert  Goa",
+        "date_of_birth": "2005-06-24",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AE_Gebe_S15.png",
+        "heros": [
+            "Joy",
+            "Fanny"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-06-06",
+                "team": "OPI Pegasus"
+            },
+            {
+                "date": "2022-08-27",
+                "team": "Co2Z Esports"
+            },
+            {
+                "date": "2023-01-23",
+                "team": "OPI Pegasus"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2025-04-30",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2025-04-30",
+                "team": "TODAK"
+            }
+        ],
+        "date": "2024-07-30",
+        "url": "https://liquipedia.net/mobilelegends/gebe"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Owennn",
+        "full_name": "Alexander  Owen",
+        "date_of_birth": "2004-09-20",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego X",
+        "status": "Active",
+        "image": "/player/AEX_Owennn_MDL_S11.png",
+        "heros": [
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2023-02-01",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2024-07-30",
+        "url": "https://liquipedia.net/mobilelegends/owennn"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Nnael",
+        "full_name": "Manuel  Simbolon",
+        "date_of_birth": "2006-01-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/AE_Nnael_S14.png",
+        "heros": [
+            "Ling",
+            "Lancelot",
+            "Nolan",
+            "Fanny",
+            "Baxia"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-01-31",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2023-07-05",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2023-07-05",
+                "team": "Geek Fam ID"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-11-13",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2025-02-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2024-07-30",
+        "url": "https://liquipedia.net/mobilelegends/nnael"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "DreamS",
+        "full_name": "Rachmad  Wahyudi",
+        "date_of_birth": "1999-12-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AE_DreamS_S15.png",
+        "heros": [
+            "Franco",
+            "Kadita",
+            "Tigreal",
+            "Minotaur",
+            "Gatotkaca"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-10-07",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2021-08-26",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2022-02-07",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-12-23",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2024-12-23",
+        "url": "https://liquipedia.net/mobilelegends/dreams"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Rinee",
+        "full_name": "Syahrul  Ramadhan",
+        "date_of_birth": "2004-11-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AE_Rinee_S15.png",
+        "heros": [
+            "Hayabusa",
+            "Ling",
+            "Hanzo",
+            "Joy"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-02-25",
+                "team": "Co2Z Esports"
+            },
+            {
+                "date": "2022-07-04",
+                "team": "Pabz Esports"
+            },
+            {
+                "date": "2023-02-02",
+                "team": "Pendekar Esports"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2025-02-16",
+        "url": "https://liquipedia.net/mobilelegends/rinee"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Hijumee",
+        "full_name": "Dalvin  Putra",
+        "date_of_birth": "2002-11-23",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AE_Hijumee_S15.png",
+        "heros": [
+            "Yve",
+            "Pharsa",
+            "Valentina",
+            "Faramis"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2025-02-16",
+        "url": "https://liquipedia.net/mobilelegends/hijumee"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Arfy",
+        "full_name": "Arifudin  Dingarai",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/AEX_Arfy_MDL_S11.png",
+        "heros": [
+            "Karrie",
+            "Claude",
+            "Harith",
+            "Granger",
+            "Moskov"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-06-27",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2025-04-30",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2025-04-30",
+        "url": "https://liquipedia.net/mobilelegends/arfy"
+    },
+    {
+        "team": "Alter Ego",
+        "name": "Kyzenn",
+        "full_name": "Naufal Abyan Artafa",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/AE_keyzen.png",
+        "heros": [
+            "Fanny"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2025-05-14",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    }
+]

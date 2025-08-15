@@ -1,0 +1,121 @@
+name: Render Remotion Video
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+permissions:
+  actions: write # Dibutuhkan untuk menghapus artifact lama
+
+jobs:
+  build-and-render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+
+      - name: Install pnpm (Alternative Method)
+        run: npm install -g pnpm
+
+      - name: Verify pnpm Installation
+        run: |
+          pnpm --version
+          echo "pnpm installed successfully!"
+
+      - name: Restore pnpm cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.pnpm-store
+          key: pnpm-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}
+          restore-keys: |
+            pnpm-${{ runner.os }}-
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Puppeteer Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 \
+            libdrm2 libxkbcommon0 libxcomposite1 libxrandr2 libgbm1 libxtst6 \
+            libpango-1.0-0 libcairo2 libgdk-pixbuf2.0-0
+
+      - name: Check Installed Packages (Debugging)
+        run: dpkg -l
+
+      - name: Authenticate GitHub CLI
+        run: gh auth status
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete Old Artifacts (Keep Last 10)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Fetching artifacts..."
+          ARTIFACTS=$(gh api repos/${{ github.repository }}/actions/artifacts --paginate)
+
+          # Pastikan ada artifacts
+          COUNT=$(echo "$ARTIFACTS" | jq '.artifacts | length')
+          if [ "$COUNT" -le 10 ]; then
+            echo "No old artifacts to delete."
+            exit 0
+          fi
+
+          # Ambil artifact ID yang lebih tua dari 10 terbaru
+          ARTIFACT_IDS=$(echo "$ARTIFACTS" | jq -r '.artifacts | sort_by(.created_at) | reverse | .[10:] | .[].id')
+
+          if [ -z "$ARTIFACT_IDS" ]; then
+            echo "No old artifacts found."
+          else
+            echo "Deleting old artifacts..."
+            for ID in $ARTIFACT_IDS; do
+              gh api repos/${{ github.repository }}/actions/artifacts/$ID -X DELETE
+              echo "Deleted artifact ID: $ID"
+            done
+          fi
+
+      - name: Install Noto Fonts (for multilingual text support)
+        run: |
+          sudo apt-get install -y \
+            fonts-noto-core \
+            fonts-noto-cjk \
+            fonts-noto-color-emoji \
+            fonts-noto-extra
+
+      - name: Render Video
+        run: |
+          echo "Starting video render..."
+          # --frame-715-943 is not a valid flag for remotion render.
+          # The correct flag is --frames, and the value should be in the format start-end (e.g., 715-943).
+          # 36419 (10:06:59) (100 Cards)
+          # Bagian 1.
+          npx remotion render DataListCard out/video.mp4 --disable-audio --verbose --disable-dev-shm-usage --frames=0-9999
+
+          # Bagian 2
+          # npx remotion render DataListCard out/video.mp4 --disable-audio --verbose --disable-dev-shm-usage --frames=10000-19999
+
+          # Bagian 3
+          # npx remotion render DataListCard out/video.mp4 --disable-audio --verbose --disable-dev-shm-usage --frames=20000-29999
+
+          # Bagian 4
+          # npx remotion render DataListCard out/video.mp4 --disable-audio --verbose --disable-dev-shm-usage --frames=30000-36418
+
+          # npx remotion render DataListCard out/video.mp4 --disable-audio --verbose --disable-dev-shm-usage
+          echo "Render finished!"
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: remotion-video
+          path: out/video.mp4
+          retention-days: 7

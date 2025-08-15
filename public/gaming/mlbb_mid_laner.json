@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Aurora",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1200,h-1200,cm-extract,xc-500,yc-800/mlbb_mid_laner/_Aurora.png",
+    "nation": "Northern Vale",
+    "date": "9/5/2017"
+  },
+  {
+    "name": "Cecilion",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-750/mlbb_mid_laner/_Cecilon.png",
+    "nation": "Moniyan",
+    "date": "2/12/2020"
+  },
+  {
+    "name": "Chang'e",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-820/mlbb_mid_laner/Change_.png",
+    "nation": "Cadia Riverlands",
+    "date": "5/30/2018"
+  },
+  {
+    "name": "Cyclops",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1100,h-1100,cm-extract,xc-500,yc-691/mlbb_mid_laner/Cyclops.png",
+    "nation": "Nebula Chronorift",
+    "date": "1/1/2017"
+  },
+  {
+    "name": "Eudora",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-660/mlbb_mid_laner/_Eudora.png",
+    "nation": "Northern Vale",
+    "date": "12/31/2016"
+  },
+  {
+    "name": "Faramis",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-520/mlbb_mid_laner/_Faramos.png",
+    "nation": "The Barren Lands",
+    "date": "5/18/2019"
+  },
+  {
+    "name": "Gord",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1100,h-1100,cm-extract,xc-500,yc-830/mlbb_mid_laner/_Gord.png",
+    "nation": "Northern Vale",
+    "date": "12/31/2016"
+  },
+  {
+    "name": "Harith",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-550/mlbb_mid_laner/_Harith.png",
+    "nation": "Moniyan",
+    "date": "11/30/2018"
+  },
+  {
+    "name": "Kadita",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-550,yc-620/mlbb_mid_laner/_Kadita.png",
+    "nation": "Vonetis Sea",
+    "date": "12/31/2018"
+  },
+  {
+    "name": "Kagura",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-600/mlbb_mid_laner/_Kagura.png",
+    "nation": "Cadia Riverlands",
+    "date": "12/31/2016"
+  },
+  {
+    "name": "Lunox",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-650/mlbb_mid_laner/_Lunox.png",
+    "nation": "Agelta Drylands",
+    "date": "12/31/2018"
+  },
+  {
+    "name": "Luo Yi",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1200,h-1200,cm-extract,xc-500,yc-750/mlbb_mid_laner/_Luoyi.png",
+    "nation": "Cadia Riverlands",
+    "date": "5/16/2020"
+  },
+  {
+    "name": "Lylia",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-600/mlbb_mid_laner/_Lylia.png",
+    "nation": "Northern Vale",
+    "date": "7/23/2019"
+  },
+  {
+    "name": "Nana",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-370,yc-760/mlbb_mid_laner/_Nana.png",
+    "nation": "Azrya Woodlands",
+    "date": "12/31/2016"
+  },
+  {
+    "name": "Novaria",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1200,h-1200,cm-extract,xc-500,yc-700/mlbb_mid_laner/_Novaria.png",
+    "nation": "Agelta Drylands",
+    "date": "5/16/2023"
+  },
+  {
+    "name": "Odette",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-650/mlbb_mid_laner/_Odett.png",
+    "nation": "Moniyan",
+    "date": "9/29/2017"
+  },
+  {
+    "name": "Pharsa",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-730/mlbb_mid_laner/_Parsha.png",
+    "nation": "The Barren Lands",
+    "date": "1/1/2017"
+  },
+  {
+    "name": "Vale",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-480/mlbb_mid_laner/_Vale.png",
+    "nation": "Wind Fort & Fire Throat",
+    "date": "1/29/2019"
+  },
+  {
+    "name": "Valentina",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1000,h-1000,cm-extract,xc-500,yc-690/mlbb_mid_laner/_Valentina.png",
+    "nation": "Moniyan",
+    "date": "1/1/2021"
+  },
+  {
+    "name": "Valir",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-580/mlbb_mid_laner/_Valir.png",
+    "nation": "Wind Fort & Fire Throat",
+    "date": "3/6/2018"
+  },
+  {
+    "name": "Vexana",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-617/mlbb_mid_laner/_Vexana.png",
+    "nation": "Vexana Gaius",
+    "date": "1/1/2017"
+  },
+  {
+    "name": "Xavier",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-550/mlbb_mid_laner/_Xavier.png",
+    "nation": "Moniyan",
+    "date": "3/22/2022"
+  },
+  {
+    "name": "Yve",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-580/mlbb_mid_laner/Yve_.png",
+    "nation": "Vonetis Sea",
+    "date": "2/12/2021"
+  },
+  {
+    "name": "Zetian",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1100,h-1100,cm-extract,xc-500,yc-800/mlbb_mid_laner/_Zetian.png",
+    "nation": "Cadia Riverlands",
+    "date": "6/18/2025"
+  },
+  {
+    "name": "Zhask",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-500/mlbb_mid_laner/_Zhack.png",
+    "nation": "Vonetis Sea",
+    "date": "11/27/2017"
+  },
+  {
+    "name": "Zhuxin",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-1200,cm-extract,xc-500,yc-400/mlbb_mid_laner/_Zhuxin.png",
+    "nation": "Cadia Riverlands",
+    "date": "6/29/2024"
+  }
+]

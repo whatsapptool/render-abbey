@@ -1,0 +1,266 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain Geek Fam ID 2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+KennzyySkie (Indonesia)
+()
+Name: Kenny Ramadhan | Awal masuk MPL ID : Geek Fam ID: 22 January 2025 | Roles: [Gold Laner] | Heros: [Harith, Wanwan]
+
+3
+00:00:08,000 --> 00:00:14,000
+Maykids (Indonesia)
+()
+Name: Muhammad Ardani | Awal masuk MPL ID : Geek Fam ID: 09 January 2025 | Roles: [Jungler] | Heros: [Suyou, Fanny]
+
+4
+00:00:14,000 --> 00:00:20,000
+Veldora (Indonesia)
+()
+Name: Kenley Zefanya | Awal masuk MPL ID : Geek Fam ID: 01 August 2024 | Roles: [EXP Laner] | Heros: [Edith, Hilda, Terizla, Phoveus, Benedetta]
+
+5
+00:00:20,000 --> 00:00:26,000
+Gobs (Indonesia)
+()
+Name: Mercy Richart Ratuliu | Awal masuk MPL ID : Geek Fam ID: 30 July 2024 | Roles: [EXP Laner] | Heros: [Benedetta, Edith, Phoveus, Gloo]
+
+6
+00:00:26,000 --> 00:00:32,000
+Vincentt (Indonesia)
+()
+Name: Vincent Suwandhi | Awal masuk MPL ID : Geek Fam ID: 14 July 2024 | Roles: [Jungler] | Heros: [Fanny, Fredrinn, Roger]
+
+7
+00:00:32,000 --> 00:00:38,000
+Mas4Ko (Indonesia)
+()
+Name: Christian Wagiu | Awal masuk MPL ID : Geek Fam ID: 26 April 2024 | Roles: [Gold Laner] | Heros: [Claude, Moskov, Natan, Melissa]
+
+8
+00:00:38,000 --> 00:00:44,000
+Hazle (Indonesia)
+()
+Name: Muhammad Balakosa | Awal masuk MPL ID : Geek Fam ID: 16 February 2024 | Roles: [Jungler] | Heros: [Lancelot, Fanny, Hayabusa, Suyou]
+
+9
+00:00:44,000 --> 00:00:50,000
+Reyy (Indonesia)
+()
+Name: Reynaldo Ferdiand | Awal masuk MPL ID : Geek Fam ID: 16 February 2024 | Roles: [Jungler] | Heros: [Lancelot, Ling, Fanny, Suyou]
+
+10
+00:00:50,000 --> 00:00:56,000
+Nnael (Indonesia)
+()
+Name: Manuel Simbolon | Awal masuk MPL ID : Geek Fam ID: 05 July 2023 | Roles: [Jungler] | Heros: [Ling, Lancelot, Nolan, Fanny, Baxia]
+
+11
+00:00:56,000 --> 00:01:02,000
+Markyyyyy (Philippines)
+()
+Name: Mark Capacio | Awal masuk MPL ID : Geek Fam ID: 05 July 2023 | Roles: [Gold Laner] | Heros: [Wanwan, Claude, Beatrix, Harith, Irithel]
+
+12
+00:01:02,000 --> 00:01:08,000
+Matt (Indonesia)
+()
+Name: Matthew Geraldo | Awal masuk MPL ID : Geek Fam ID: 27 January 2023 | Roles: [Gold Laner, EXP Laner] | Heros: [Lapu-Lapu, Beatrix, Irithel, Brody, Lunox]
+
+13
+00:01:08,000 --> 00:01:14,000
+Aboy (Indonesia)
+()
+Name: Valent Putra | Awal masuk MPL ID : Geek Fam ID: 02 November 2022 | Roles: [Mid Laner] | Heros: [Yve, Valentina, Lylia, Faramis, Novaria]
+
+14
+00:01:14,000 --> 00:01:20,000
+Renesmee (Indonesia)
+()
+Name: Shaddam Evan | Awal masuk MPL ID : Geek Fam ID: 25 August 2022 | Roles: [Gold Laner] | Heros: [Clint, Claude]
+
+15
+00:01:20,000 --> 00:01:26,000
+Hadess (Janaaqt) (Philippines)
+()
+Name: Jaymark Lazaro | Awal masuk MPL ID : Geek Fam ID: 16 August 2022 | Roles: [Jungler] | Heros: [Ling, Fanny, Lancelot, Aamon, Guinevere]
+
+16
+00:01:26,000 --> 00:01:32,000
+Baloyskie (Greed) (Philippines)
+()
+Name: Allen Baloy | Awal masuk MPL ID : Geek Fam ID: 08 August 2022 | Roles: [Roamer] | Heros: [Natalia, Helcurt, Ruby, Mathilda, Kalea]
+
+17
+00:01:32,000 --> 00:01:38,000
+Caderaa (Indonesia)
+()
+Name: Mohammad Pambudi | Awal masuk MPL ID : Geek Fam ID: 01 August 2022 | Roles: [Gold Laner] | Heros: [Claude, Beatrix, Harith, Natan, Moskov]
+
+18
+00:01:38,000 --> 00:01:44,000
+Lzuraa (Indonesia)
+()
+Name: Muhammad Arif | Awal masuk MPL ID : Geek Fam ID: 30 July 2022 | Roles: [Mid Laner] | Heros: [Valentina, Lylia]
+
+19
+00:01:44,000 --> 00:01:50,000
+Manskuy (Indonesia)
+()
+Name: Firmansyah | Awal masuk MPL ID : Geek Fam ID: 29 July 2022 | Roles: [Roamer] | Heros: [Ruby]
+
+20
+00:01:50,000 --> 00:01:56,000
+Luke (Indonesia)
+()
+Name: Luke Valentinus | Awal masuk MPL ID : Geek Fam ID: 23 July 2022 | Roles: [EXP Laner] | Heros: [Fredrinn, Gloo, Arlott, Khaleed, Masha]
+
+21
+00:01:56,000 --> 00:02:02,000
+Rupture (Indonesia)
+()
+Name: Advent Valma | Awal masuk MPL ID : Geek Fam ID: 02 March 2022 | Roles: [Roamer] | Heros: [Chou, Franco]
+
+22
+00:02:02,000 --> 00:02:08,000
+Maevz (Indonesia)
+()
+Name: Muhamad Robby | Awal masuk MPL ID : Geek Fam ID: 04 February 2022 | Roles: [EXP Laner] | Heros: [Kaja]
+
+23
+00:02:08,000 --> 00:02:14,000
+Vince (Indonesia)
+()
+Name: Vincentius | Awal masuk MPL ID : Geek Fam ID: 04 February 2022 | Roles: [Mid Laner] | Heros: [Selena, Lunox]
+
+24
+00:02:14,000 --> 00:02:20,000
+Juliannn (Indonesia)
+()
+Name: Richard Julian | Awal masuk MPL ID : Geek Fam ID: 04 February 2022 | Roles: [Jungler] | Heros: [Ling, Lancelot, Fanny, Gusion]
+
+25
+00:02:20,000 --> 00:02:26,000
+BB25 (Indonesia)
+()
+Name: Bagus Bimantoro | Awal masuk MPL ID : Geek Fam ID: 04 February 2022 | Roles: [Jungler] | Heros: [Karina]
+
+26
+00:02:26,000 --> 00:02:32,000
+Hanz (Indonesia)
+()
+Name: Muhammad Alim | Awal masuk MPL ID : Geek Fam ID: 19 August 2021 | Roles: [Jungler] | Heros: [Yi Sun-shin, Balmond]
+
+27
+00:02:32,000 --> 00:02:38,000
+Salman (Indonesia)
+()
+Name: Chiko Muhamara | Awal masuk MPL ID : Geek Fam ID: 16 July 2021 | Roles: [Roamer] | Heros: [Akai, Chou, Jawhead]
+
+28
+00:02:38,000 --> 00:02:44,000
+Dilann (Indonesia)
+()
+Name: Muhammad Fiqri | Awal masuk MPL ID : Geek Fam ID: 16 July 2021 | Roles: [Gold Laner] | Heros: [Wanwan, Chou]
+
+29
+00:02:44,000 --> 00:02:50,000
+Zunz (Indonesia)
+()
+Name: Ahmad Eko Mustofa | Awal masuk MPL ID : Geek Fam ID: 16 February 2021 | Roles: [Roamer] | Heros: [Akai, Chou, Khufra, Mathilda]
+
+30
+00:02:50,000 --> 00:02:56,000
+Despair (Indonesia)
+()
+Name: Ranu Herdianto Yahmadi | Awal masuk MPL ID : Geek Fam ID: 16 February 2021 | Roles: [Gold Laner] | Heros: [Chang'e, Claude, Benedetta, Harith]
+
+31
+00:02:56,000 --> 00:03:02,000
+Babywww (Indonesia)
+()
+Name: Farel Rustjo | Awal masuk MPL ID : Geek Fam ID: 10 September 2020 | Roles: [Jungler] | Heros: [Ling, Harley, Yi Sun-shin]
+
+32
+00:03:02,000 --> 00:03:08,000
+Frzz (Freeza) (Indonesia)
+()
+Name: Muhammad Pahlevi | Awal masuk MPL ID : Geek Fam ID: 10 September 2020 | Roles: [Mid Laner] | Heros: [Kadita, Selena]
+
+33
+00:03:08,000 --> 00:03:14,000
+Schwann (Adam) (Indonesia)
+()
+Name: Bima Putra | Awal masuk MPL ID : Geek Fam ID: 20 August 2020 | Roles: [EXP Laner, Gold Laner] | Heros: [Yu Zhong, Khaleed, Thamuz]
+
+34
+00:03:14,000 --> 00:03:20,000
+AyamJAGO (Indonesia)
+()
+Name: Try Widyanto Sukardi | Awal masuk MPL ID : Geek Fam ID: 30 December 2019 | Roles: [Mid Laner, Jungler] | Heros: [Lancelot, Kagura, Hayabusa]
+
+35
+00:03:20,000 --> 00:03:26,000
+Tezet (Indonesia)
+()
+Name: Yosua Sanger | Awal masuk MPL ID : Geek Fam ID: 02 August 2019 | Roles: [Exp Laner] | Heros: [Thamuz, Badang, Leomord]
+
+36
+00:03:26,000 --> 00:03:32,000
+VALL (Indonesia)
+()
+Name: Thomas Galileo | Awal masuk MPL ID : Geek Fam ID: 02 August 2019 | Roles: [Roamer] | Heros: [Grock, Khufra, Hylos, Kaja]
+
+37
+00:03:32,000 --> 00:03:38,000
+InstincT (Indonesia)
+()
+Name: Calvien | Awal masuk MPL ID : Geek Fam ID: 02 August 2019 | Roles: [Roamer] | Heros: [Hylos, Franco]
+
+38
+00:03:38,000 --> 00:03:44,000
+Kirito (Indonesia)
+()
+Name: Erlangga Imanuel | Awal masuk MPL ID : Geek Fam ID: 02 August 2019 | Roles: [Gold Lane] | Heros: [Claude, Harith, Granger]
+
+39
+00:03:44,000 --> 00:03:50,000
+Paul (Indonesia)
+()
+Name: Paulus Yoel Kereh | Awal masuk MPL ID : Geek Fam ID: 02 August 2019 | Roles: [Roamer] | Heros: [Akai, Chou]
+
+40
+00:03:50,000 --> 00:03:56,000
+Joker (Indonesia)
+()
+Name: David Ginola | Awal masuk MPL ID : Geek Fam ID: 30 July 2019 | Roles: [Roamer] | Heros: [Akai, Grock, Khufra, Hylos, Tigreal]
+
+41
+00:03:56,000 --> 00:04:02,000
+Wongcoco (Indonesia)
+()
+Name: Dian Agusta | Awal masuk MPL ID : Geek Fam ID: 30 July 2019 | Roles: [Analyst] | Heros: [Franco, Chou, Khufra, Hilda, Balmond]
+
+42
+00:04:02,000 --> 00:04:08,000
+Ramzu (Indonesia)
+()
+Name: Rama Galasepta | Awal masuk MPL ID : Geek Fam ID: 30 July 2019 | Roles: [Gold Laner] | Heros: [Claude, Karrie]
+
+43
+00:04:08,000 --> 00:04:14,000
+Doyok (Indonesia)
+()
+Name: Tantyo Aditya | Awal masuk MPL ID : Geek Fam ID: 30 July 2019 | Roles: [Mid Laner, Jungler] | Heros: [Gusion, Roger, Lancelot, Harith, Yi Sun-shin]
+
+44
+00:04:14,000 --> 00:04:20,000
+RenV (Ipin) (Indonesia)
+()
+Name: Rendy Kurniawan | Awal masuk MPL ID : Geek Fam ID: 30 July 2019 | Roles: [EXP Laner, Roamer] | Heros: [Selena, Helcurt, Leomord, Thamuz, Kimmy]
+
+45
+00:04:20,000 --> 00:04:25,000
+Terima kasih sudah menonton!
+

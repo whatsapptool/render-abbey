@@ -1,0 +1,290 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain Bigetron 2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Light (Unravel) (Philippines)
+()
+Name: Dylan Catipon | Awal masuk MPL ID : Bigetron: 01 February 2025 | Roles: [Roamer] | Heros: [Franco, Khufra, Chou, Kaja, Lolita]
+
+3
+00:00:08,000 --> 00:00:14,000
+Anavel (Indonesia)
+()
+Name: Junisen Lo (Nea) | Awal masuk MPL ID : Bigetron: 01 February 2025 | Roles: [Jungler] | Heros: [Lancelot, Ling, Nolan, Alpha]
+
+4
+00:00:14,000 --> 00:00:20,000
+Finn (Indonesia)
+()
+Name: Muhammad Hikmatullah | Awal masuk MPL ID : Bigetron: 23 July 2024 | Roles: [Roamer] | Heros: [Mathilda]
+
+5
+00:00:20,000 --> 00:00:26,000
+Luke (Indonesia)
+()
+Name: Luke Valentinus | Awal masuk MPL ID : Bigetron: 08 July 2024 | Roles: [EXP Laner] | Heros: [Fredrinn, Gloo, Arlott, Khaleed, Masha]
+
+6
+00:00:26,000 --> 00:00:32,000
+JM (Philippines)
+()
+Name: Jhon Marl Sebastian | Awal masuk MPL ID : Bigetron: 02 February 2024 | Roles: [EXP Laner] | Heros: [Cici]
+
+7
+00:00:32,000 --> 00:00:38,000
+EMANN (Philippines)
+()
+Name: Eman Sangco | Awal masuk MPL ID : Bigetron: 02 February 2024 | Roles: [Gold Laner] | Heros: [Beatrix, Claude, Karrie, Harith, Granger]
+
+8
+00:00:38,000 --> 00:00:44,000
+Xyve (Indonesia)
+()
+Name: Michael Richi | Awal masuk MPL ID : Bigetron: 06 September 2023 | Roles: [Gold Laner] | Heros: [Brody, Claude, Harith, Bruno, Irithel]
+
+9
+00:00:44,000 --> 00:00:50,000
+Super Kenn (Indonesia)
+()
+Name: Kenneth Marcello | Awal masuk MPL ID : Bigetron: 02 March 2023 | Roles: [Jungler] | Heros: [Ling, Lancelot, Fanny, Joy, Nolan]
+
+10
+00:00:50,000 --> 00:00:56,000
+Gamora (Indonesia)
+()
+Name: Muhammad Perkasa | Awal masuk MPL ID : Bigetron: 28 January 2023 | Roles: [Mid Laner] | Heros: [Yve, Lylia, Pharsa]
+
+11
+00:00:56,000 --> 00:01:02,000
+Just Garrr (Indonesia)
+()
+Name: Garry Ketaren | Awal masuk MPL ID : Bigetron: 28 January 2023 | Roles: [Jungler] | Heros: [Fanny, Ling, Karina]
+
+12
+00:01:02,000 --> 00:01:08,000
+VyrNoCure (Indonesia)
+()
+Name: Dede Firman | Awal masuk MPL ID : Bigetron: 28 January 2023 | Roles: [EXP Laner] | Heros: [Gloo, Benedetta, Paquito, Uranus, Esmeralda]
+
+13
+00:01:08,000 --> 00:01:14,000
+Saken (Indonesia)
+()
+Name: Dicky Cahyana | Awal masuk MPL ID : Bigetron: 15 September 2022 | Roles: [Gold Laner] | Heros: [Popol and Kupa, Melissa, Beatrix, Moskov, Wanwan]
+
+14
+00:01:14,000 --> 00:01:20,000
+Markyyyyy (Philippines)
+()
+Name: Mark Capacio | Awal masuk MPL ID : Bigetron: 31 July 2022 | Roles: [Gold Laner] | Heros: [Wanwan, Claude, Beatrix, Harith, Irithel]
+
+15
+00:01:20,000 --> 00:01:26,000
+Moreno (Indonesia)
+()
+Name: Marcel Sinulingga | Awal masuk MPL ID : Bigetron: 25 July 2022 | Roles: [Mid Laner] | Heros: [Cecilion, Yve, Valentina, Novaria, Faramis]
+
+16
+00:01:26,000 --> 00:01:32,000
+Falah (Indonesia)
+()
+Name: Gilang Falah | Awal masuk MPL ID : Bigetron: 29 June 2022 | Roles: [Mid Laner] | Heros: [Cecilion]
+
+17
+00:01:32,000 --> 00:01:38,000
+Barbossa (Indonesia)
+()
+Name: Arya Nazhari | Awal masuk MPL ID : Bigetron: 26 August 2021 | Roles: [Coach] | Heros: [Hilda, Chou]
+
+18
+00:01:38,000 --> 00:01:44,000
+Xorizo (Indonesia)
+()
+Name: I Dwipayana | Awal masuk MPL ID : Bigetron: 26 August 2021 | Roles: [EXP Laner] | Heros: [Gloo, Uranus, Esmeralda, Paquito, X.Borg]
+
+19
+00:01:44,000 --> 00:01:50,000
+Bottle (Indonesia)
+()
+Name: I Gusti Pramana | Awal masuk MPL ID : Bigetron: 02 July 2021 | Roles: [Gold Laner, Jungler] | Heros: [Ling, Bruno]
+
+20
+00:01:50,000 --> 00:01:56,000
+Maxx (Indonesia)
+()
+Name: Maxwell Alessandro | Awal masuk MPL ID : Bigetron: 17 September 2020 | Roles: [Jungler] | Heros: [Ling, Hayabusa, Paquito, Karina, Roger]
+
+21
+00:01:56,000 --> 00:02:02,000
+Matt (Indonesia)
+()
+Name: Matthew Geraldo | Awal masuk MPL ID : Bigetron: 10 September 2020 | Roles: [Gold Laner, EXP Laner] | Heros: [Lapu-Lapu, Beatrix, Irithel, Brody, Lunox]
+
+22
+00:02:02,000 --> 00:02:08,000
+RENBO (Indonesia)
+()
+Name: Deven Markos | Awal masuk MPL ID : Bigetron: 17 June 2020 | Roles: [Mid Laner] | Heros: [Cecilion, Johnson, Pharsa, Gord, Yve]
+
+23
+00:02:08,000 --> 00:02:14,000
+RIPPO (Malaysia)
+()
+Name: Muhammad Abdul Halim | Awal masuk MPL ID : Bigetron: 07 June 2020 | Roles: [EXP Laner] | Heros: [Esmeralda, Thamuz, Paquito, Yu Zhong]
+
+24
+00:02:14,000 --> 00:02:20,000
+Sinyoo (Annisa) (Indonesia)
+()
+Name: Guntur Khoiru Wildan | Awal masuk MPL ID : Bigetron: 10 January 2020 | Roles: [Mid Laner] | Heros: [Selena]
+
+25
+00:02:20,000 --> 00:02:26,000
+Warlord (Indonesia)
+()
+Name: Rizky Agustian | Awal masuk MPL ID : Bigetron: 10 January 2020 | Roles: [Mid Laner] | Heros: [Yve, Cecilion, Lunox, Valentina, Pharsa]
+
+26
+00:02:26,000 --> 00:02:32,000
+Kyy (Indonesia)
+()
+Name: Hengky Gunawan | Awal masuk MPL ID : Bigetron: 10 January 2020 | Roles: [Roamer] | Heros: [Mathilda, Grock, Kaja, Lolita, Tigreal]
+
+27
+00:02:32,000 --> 00:02:38,000
+Cr1te (3yy) (Indonesia)
+()
+Name: Muhammad Yusuf | Awal masuk MPL ID : Bigetron: 02 August 2019 | Roles: [Mid Laner] | Heros: [Cecilion, Yve, Lunox, Valentina, Xavier]
+
+28
+00:02:38,000 --> 00:02:44,000
+Jo (Indonesia)
+()
+Name: Johannes | Awal masuk MPL ID : Bigetron: 02 August 2019 | Roles: [Roamer] | Heros: [Lolita, Khufra]
+
+29
+00:02:44,000 --> 00:02:50,000
+Rousel (Indonesia)
+()
+Name: Rivaldo Wijaya | Awal masuk MPL ID : Bigetron: 02 August 2019 | Roles: [Flex] | Heros: [Yu Zhong, Pharsa]
+
+30
+00:02:50,000 --> 00:02:56,000
+Hexazor (Indonesia)
+()
+Name: Arya Hans Arifan | Awal masuk MPL ID : Bigetron: 15 July 2019 | Roles: [Roamer] | Heros: [Kaja]
+
+31
+00:02:56,000 --> 00:03:02,000
+Zoeybit (Indonesia)
+()
+Name: Irfandhi Bakri | Awal masuk MPL ID : Bigetron: 30 April 2019 | Roles: [Mid Laner] | Heros: [Kimmy, Gusion, Kagura, Kadita]
+
+32
+00:03:02,000 --> 00:03:08,000
+Taka (Indonesia)
+()
+Name: Fadhil Asra | Awal masuk MPL ID : Bigetron: 22 April 2019 | Roles: [Flex] | Heros: [Bruno, Ruby, Benedetta, Aldous]
+
+33
+00:03:08,000 --> 00:03:14,000
+Xora (Indonesia)
+()
+Name: Febri Eza Cotrunada | Awal masuk MPL ID : Bigetron: 17 January 2019 | Roles: [Mid Laner] | Heros: [Selena]
+
+34
+00:03:14,000 --> 00:03:20,000
+Branz (Indonesia)
+()
+Name: Jabran Wiloko | Awal masuk MPL ID : Bigetron: 17 January 2019 | Roles: [Gold Laner] | Heros: [Claude, Karrie, Granger, Moskov, Melissa]
+
+35
+00:03:20,000 --> 00:03:26,000
+Lynx (Indonesia)
+()
+Name: Luis Novianto | Awal masuk MPL ID : Bigetron: 17 January 2019 | Roles: [Jungler] | Heros: [Granger]
+
+36
+00:03:26,000 --> 00:03:32,000
+VYN (Indonesia)
+()
+Name: Calvin | Awal masuk MPL ID : Bigetron: 17 January 2019 | Roles: [Roamer, Mid Laner] | Heros: [Franco, Kaja, Lolita, Khufra, Ruby]
+
+37
+00:03:32,000 --> 00:03:38,000
+DreamS (Indonesia)
+()
+Name: Rachmad Wahyudi | Awal masuk MPL ID : Bigetron: 07 October 2018 | Roles: [Roamer] | Heros: [Franco, Kadita, Tigreal, Minotaur, Gatotkaca]
+
+38
+00:03:38,000 --> 00:03:44,000
+Rage (Indonesia)
+()
+Name: Yohanes Efendi | Awal masuk MPL ID : Bigetron: 07 June 2018 | Roles: [Mid Laner] | Heros: [Kagura, Cyclops]
+
+39
+00:03:44,000 --> 00:03:50,000
+JeeL (Indonesia)
+()
+Name: Gerald Belarmino | Awal masuk MPL ID : Bigetron: 06 June 2018 | Roles: [EXP Laner, Gold Laner] | Heros: [Martis, Gusion, Hayabusa]
+
+40
+00:03:50,000 --> 00:03:56,000
+YAM (Indonesia)
+()
+Name: William | Awal masuk MPL ID : Bigetron: 09 May 2018 | Roles: [EXP Laner] | Heros: [Yu Zhong, Esmeralda]
+
+41
+00:03:56,000 --> 00:04:02,000
+coffeeguy (Indonesia)
+()
+Name: Eldosan | Awal masuk MPL ID : Bigetron: 26 December 2017 | Roles: [Flex] | Heros: [Alpha]
+
+42
+00:04:02,000 --> 00:04:08,000
+R E K T (Indonesia)
+()
+Name: Gustian | Awal masuk MPL ID : Bigetron: 26 December 2017 | Roles: [Coach] | Heros: [Claude, Kimmy, Angela, Diggie, Hilda]
+
+43
+00:04:08,000 --> 00:04:14,000
+Emperor (Indonesia)
+()
+Name: Jonathan Liandi | Awal masuk MPL ID : Bigetron: 26 December 2017 | Roles: [Mid Laner] | Heros: [Gusion, Kagura, Alice]
+
+44
+00:04:14,000 --> 00:04:20,000
+VIN (Indonesia)
+()
+Name: Michael Noviano | Awal masuk MPL ID : Bigetron: 26 December 2017 | Roles: [Roamer] | Heros: [Grock, Chou, Kaja]
+
+45
+00:04:20,000 --> 00:04:26,000
+Fabiens (Indonesia)
+()
+Name: Thong Andara | Awal masuk MPL ID : Bigetron: 26 December 2017 | Roles: [Talent, Mid Laner] | Heros: [Aurora, Harley]
+
+46
+00:04:26,000 --> 00:04:32,000
+Eiduart (Indonesia)
+()
+Name: Eiduart Tjahyadikarta | Awal masuk MPL ID : Bigetron: 26 December 2017 | Roles: [Roamer] | Heros: [Grock]
+
+47
+00:04:32,000 --> 00:04:38,000
+Narashi (Indonesia)
+()
+Name: Sabyan Firdaus | Awal masuk MPL ID : Bigetron: 2023-09-13a | Roles: [EXP Laner] | Heros: [Benedetta, Gloo, Arlott]
+
+48
+00:04:38,000 --> 00:04:44,000
+Bravo (Indonesia)
+()
+Name: Akbar Nida | Awal masuk MPL ID : Bigetron: 2018-10-0 | Roles: [EXP Laner] | Heros: [Uranus]
+
+49
+00:04:44,000 --> 00:04:49,000
+Terima kasih sudah menonton!
+

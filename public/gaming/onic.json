@@ -1,0 +1,1207 @@
+[
+    {
+        "team": "ONIC",
+        "name": "Spade",
+        "full_name": "Hansen  Meyerson",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC Esports",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/onic_spade.png",
+        "heros": [
+            "Lesley",
+            "Hanabi"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-01-10",
+                "team": "Elite 8 Critical Reborn (page does not exist)"
+            },
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            }
+        ],
+        "date": "2018-07-11",
+        "url": "https://liquipedia.net/mobilelegends/spade"
+    },
+    {
+        "team": "ONIC",
+        "name": "Fenrir",
+        "full_name": "Nashrudin",
+        "date_of_birth": "no data",
+        "nation": "Singapore",
+        "nation_code": "sg",
+        "last_team": "Team SMG SG",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/onic_fenrir.png",
+        "heros": [
+            "Kagura",
+            "Lylia",
+            "Cyclops",
+            "Gusion"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2019-02-04",
+                "team": "NARA Esports SG (page does not exist)"
+            },
+            {
+                "date": "2019-08-12",
+                "team": "Notorious Villains (page does not exist)"
+            },
+            {
+                "date": "2020-02-14",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2021-04-14",
+                "team": "Notorious Villains (page does not exist)"
+            },
+            {
+                "date": "2021-08-24",
+                "team": "Team Flash"
+            },
+            {
+                "date": "2022-03-26",
+                "team": "Team SMG SG"
+            }
+        ],
+        "date": "2018-07-11",
+        "url": "https://liquipedia.net/mobilelegends/fenrir"
+    },
+    {
+        "team": "ONIC",
+        "name": "Eiduart",
+        "full_name": "Eiduart  Tjahyadikarta",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Revo",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Onic-Eiduart.png",
+        "heros": [
+            "Franco",
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2017-12-26",
+                "team": "Bigetron Player Kill"
+            },
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2019-01-14",
+                "team": "Revo (page does not exist)"
+            }
+        ],
+        "date": "2018-07-11",
+        "url": "https://liquipedia.net/mobilelegends/eiduart"
+    },
+    {
+        "team": "ONIC",
+        "name": "Drian",
+        "full_name": "Adriand  Wong",
+        "date_of_birth": "2002-08-28",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Inactive",
+        "image": "/player/ONIC_ID_Drian.png",
+        "heros": [
+            "Kagura",
+            "Pharsa",
+            "Kaja",
+            "Cecilion",
+            "Lunox"
+        ],
+        "roles": [
+            "Roamer",
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2022-02-09",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2022-03-24",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2022-03-31",
+                "team": "ONIC"
+            },
+            {
+                "date": "2024-02-29",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2018-07-11",
+        "url": "https://liquipedia.net/mobilelegends/drian"
+    },
+    {
+        "team": "ONIC",
+        "name": "Ichsan",
+        "full_name": "Muhammad  Ichsan",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "AURA Fire",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Onic-Ichsan.png",
+        "heros": [
+            "Gusion"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2018-08-28",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2019-08-19",
+                "team": "AURA Fire"
+            }
+        ],
+        "date": "2018-07-11",
+        "url": "https://liquipedia.net/mobilelegends/ichsan"
+    },
+    {
+        "team": "ONIC",
+        "name": "Antimage",
+        "full_name": "Maxhill  Leonardo",
+        "date_of_birth": "2000-05-14",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Inactive",
+        "image": "/player/ONIC_Antimage_S6.png",
+        "heros": [
+            "Thamuz",
+            "Yu Zhong",
+            "Benedetta",
+            "Paquito",
+            "Hayabusa"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-13",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2018-12-04",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-01-28",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-11-15",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-07-23",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2018-07-13",
+        "url": "https://liquipedia.net/mobilelegends/antimage"
+    },
+    {
+        "team": "ONIC",
+        "name": "Watt",
+        "full_name": "Supriadi  Putra",
+        "date_of_birth": "2000-07-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/Onic-Watt.png",
+        "heros": [
+            "Karrie",
+            "Claude",
+            "Bruno",
+            "Bane",
+            "Brody"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2017-10-02",
+                "team": "Team NXL"
+            },
+            {
+                "date": "2018-04-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2018-08-10",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2019-01-12",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2020-02-13",
+                "team": "Aerowolf Jr"
+            },
+            {
+                "date": "2020-02-27",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2021-09-10",
+                "team": "GPX"
+            },
+            {
+                "date": "2023-06-27",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2025-02-27",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2018-08-10",
+        "url": "https://liquipedia.net/mobilelegends/watt"
+    },
+    {
+        "team": "ONIC",
+        "name": "AzeR",
+        "full_name": "Reza  Kurniawan",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Geng Kapak",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/Onic-AzeR.png",
+        "heros": [
+            "Wanwan"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2021-07-21",
+                "team": "Geng Kapak"
+            },
+            {
+                "date": "2022-02-06",
+                "team": "Geng Kapak"
+            },
+            {
+                "date": "2022-03-05",
+                "team": "Geng Kapak"
+            },
+            {
+                "date": "2022-07-22",
+                "team": "Geng Kapak"
+            }
+        ],
+        "date": "2019-01-31",
+        "url": "https://liquipedia.net/mobilelegends/azer"
+    },
+    {
+        "team": "ONIC",
+        "name": "Udil",
+        "full_name": "Muhammad  Ardiansyah",
+        "date_of_birth": "2001-07-02",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "HomeBois",
+        "status": "Inactive",
+        "image": "/player/ONIC_Udil_S5.png",
+        "heros": [
+            "Lunox",
+            "Harith",
+            "Pharsa",
+            "Valentina",
+            "Yve"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-06-09",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-01-19",
+                "team": "HomeBois"
+            },
+            {
+                "date": "2025-03-20",
+                "team": "HomeBois"
+            }
+        ],
+        "date": "2019-01-31",
+        "url": "https://liquipedia.net/mobilelegends/udil"
+    },
+    {
+        "team": "ONIC",
+        "name": "Psychoo",
+        "full_name": "Teguh  Firdaus",
+        "date_of_birth": "2000-02-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/ONIC_Psychoo_S6.png",
+        "heros": [
+            "Akai",
+            "Chou",
+            "Selena",
+            "Lunox",
+            "Kagura"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-12-04",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2022-08-24",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2019-01-31",
+        "url": "https://liquipedia.net/mobilelegends/psychoo"
+    },
+    {
+        "team": "ONIC",
+        "name": "Sasa",
+        "full_name": "Lu Khai Bean",
+        "date_of_birth": "1996-08-21",
+        "nation": "Malaysia",
+        "nation_code": "my",
+        "last_team": "no data",
+        "current_team": "DFYG",
+        "status": "Active",
+        "image": "/player/ONIC_Sasa_S7.png",
+        "heros": [
+            "Clint",
+            "Claude",
+            "Granger",
+            "Bruno",
+            "Moskov"
+        ],
+        "roles": [
+            "Coach",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-31",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2021-08-04",
+                "team": "Team SMG"
+            },
+            {
+                "date": "2024-03-08",
+                "team": "King Empire"
+            },
+            {
+                "date": "2024-11-05",
+                "team": "DFYG"
+            },
+            {
+                "date": "2025-05-28",
+                "team": "DFYG"
+            }
+        ],
+        "date": "2019-01-31",
+        "url": "https://liquipedia.net/mobilelegends/sasa"
+    },
+    {
+        "team": "ONIC",
+        "name": "Kiboy",
+        "full_name": "Nicky  Pontonuwu",
+        "date_of_birth": "2002-11-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/Onic_Kiboy_S9.png",
+        "heros": [
+            "Chou",
+            "Kadita",
+            "Khufra",
+            "Jawhead",
+            "Kaja"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-27",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-02-26",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2021-02-12",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2020-01-27",
+        "url": "https://liquipedia.net/mobilelegends/kiboy"
+    },
+    {
+        "team": "ONIC",
+        "name": "Rasdalima",
+        "full_name": "Muhammad Rafli Z",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Onic-Rasdalima.png",
+        "heros": [
+            "Lunox"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-01-27",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "ONIC",
+        "name": "Angsa",
+        "full_name": "Dywa Hanif",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/ONIC-Angsa.png",
+        "heros": [
+            "Chou"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-01-27",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "ONIC",
+        "name": "JHeHeHe",
+        "full_name": "Jian Juliansyah",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/ONIC-JHEHEHE.png",
+        "heros": [
+            "Gusion",
+            "Lylia",
+            "Valir"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-01-27",
+        "url": "https://liquipedia.net/mobilelegends/jhehehe"
+    },
+    {
+        "team": "ONIC",
+        "name": "Gov",
+        "full_name": "Govher Madethen",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/onic-gov.png",
+        "heros": [
+            "Chou",
+            "Franco"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-01-27",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "ONIC",
+        "name": "Rasy",
+        "full_name": "Rasya  Wisita",
+        "date_of_birth": "2001-05-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "DXSoul Esports",
+        "status": "Active",
+        "image": "/player/ONIC_Rasy_S5.png",
+        "heros": [
+            "Atlas",
+            "Kadita",
+            "Estes",
+            "Gatotkaca",
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2020-02-11",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2020-02-26",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2021-07-05",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-03-17",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-08-17",
+                "team": "JP NINERS"
+            },
+            {
+                "date": "2025-03-23",
+                "team": "DXSoul Esports (page does not exist)"
+            }
+        ],
+        "date": "2020-02-26",
+        "url": "https://liquipedia.net/mobilelegends/rasy"
+    },
+    {
+        "team": "ONIC",
+        "name": "CW",
+        "full_name": "Calvin  Winata",
+        "date_of_birth": "2000-11-10",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/Onic_CW_MSC_2024.png",
+        "heros": [
+            "Bruno",
+            "Claude",
+            "Wanwan",
+            "Harith",
+            "Melissa"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-02-11",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2020-02-26",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2020-02-26",
+        "url": "https://liquipedia.net/mobilelegends/cw"
+    },
+    {
+        "team": "ONIC",
+        "name": "Butsss",
+        "full_name": "Muhammad  Sanubari",
+        "date_of_birth": "2001-04-04",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Fnatic ONIC",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/ONIC_Butss_S12.png",
+        "heros": [
+            "Uranus",
+            "Fredrinn",
+            "Masha",
+            "Paquito",
+            "Terizla"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-30",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-06-06",
+                "team": "Fnatic ONIC"
+            }
+        ],
+        "date": "2020-06-06",
+        "url": "https://liquipedia.net/mobilelegends/butss"
+    },
+    {
+        "team": "ONIC",
+        "name": "Sanz",
+        "full_name": "Gilang",
+        "date_of_birth": "2002-07-22",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/ONIC_Sanz_S13.png",
+        "heros": [
+            "Valentina",
+            "Pharsa",
+            "Lylia",
+            "Kadita",
+            "Luo Yi"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-07-07",
+        "url": "https://liquipedia.net/mobilelegends/s_a_n_z"
+    },
+    {
+        "team": "ONIC",
+        "name": "Maipan",
+        "full_name": "Irfan  Yusuf",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC Prodigy",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/ONIC_Maipan_MDL_S5.png",
+        "heros": [
+            "Harley",
+            "Pharsa"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-02-11",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2021-02-12",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2022-01-31",
+                "team": "ONIC Prodigy"
+            }
+        ],
+        "date": "2021-02-12",
+        "url": "https://liquipedia.net/mobilelegends/maipan"
+    },
+    {
+        "team": "ONIC",
+        "name": "Sir Ft Lans",
+        "full_name": "Moch Aliarahman",
+        "date_of_birth": "2004-03-23",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Onic_Sir_S9.png",
+        "heros": [
+            "Karina"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-02-12",
+        "url": "https://liquipedia.net/mobilelegends/sir_ft_lans"
+    },
+    {
+        "team": "ONIC",
+        "name": "SamoHt",
+        "full_name": "Thomas Budiman",
+        "date_of_birth": "1999-03-29",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/ONIC_SamoHt_MPL_S9.png",
+        "heros": [
+            "Franco",
+            "Chou",
+            "Lolita",
+            "Kadita",
+            "Atlas"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2022-02-24",
+        "url": "https://liquipedia.net/mobilelegends/samoht"
+    },
+    {
+        "team": "ONIC",
+        "name": "Kairi",
+        "full_name": "Kairi  Rayosdelsol",
+        "date_of_birth": "2005-09-21",
+        "nation": "Philippines",
+        "nation_code": "ph",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/ONIC_Kairi_S13.png",
+        "heros": [
+            "Hayabusa",
+            "Ling",
+            "Lancelot",
+            "Fanny",
+            "Joy"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-03",
+                "team": "Blacklist International"
+            },
+            {
+                "date": "2020-11-13",
+                "team": "ONIC Philippines"
+            },
+            {
+                "date": "2022-07-04",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2022-07-04",
+        "url": "https://liquipedia.net/mobilelegends/kairi"
+    },
+    {
+        "team": "ONIC",
+        "name": "Marsha",
+        "full_name": "Steven  Kurniawan",
+        "date_of_birth": "1994-10-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/Onic_Marsha.png",
+        "heros": [
+            "Franco",
+            "Akai",
+            "Johnson"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-09-14",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2018-04-30",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2019-01-12",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2024-07-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2024-07-28",
+        "url": "https://liquipedia.net/mobilelegends/marsha"
+    },
+    {
+        "team": "ONIC",
+        "name": "Rezzz",
+        "full_name": "Muhammad  Kurniawan",
+        "date_of_birth": "2006-08-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/ONIC_Rezzz_MDL_S10.png",
+        "heros": [
+            "Martis",
+            "Benedetta",
+            "Khaleed",
+            "Arlott"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-06-21",
+                "team": "Pajajaran Esports (page does not exist)"
+            },
+            {
+                "date": "2024-02-24",
+                "team": "ONIC Miracle"
+            },
+            {
+                "date": "2024-07-20",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2024-08-29",
+                "team": "ONIC"
+            },
+            {
+                "date": "2025-04-17",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2024-08-29",
+        "url": "https://liquipedia.net/mobilelegends/rezzz"
+    },
+    {
+        "team": "ONIC",
+        "name": "Lutpiii",
+        "full_name": "Moch  Ardianto",
+        "date_of_birth": "2005-12-03",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/ONIC_Lutpiii_S15_PO.png",
+        "heros": [
+            "Terizla",
+            "Paquito",
+            "Arlott",
+            "Cici",
+            "Masha"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-02-01",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2024-03-28",
+                "team": "Fnatic ONIC"
+            },
+            {
+                "date": "2024-09-11",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2025-02-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2025-02-28",
+        "url": "https://liquipedia.net/mobilelegends/lutpiii"
+    },
+    {
+        "team": "ONIC",
+        "name": "Alberttt",
+        "full_name": "Albert  Iskandar",
+        "date_of_birth": "2004-01-08",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/Onic_Alberttt_MSC_2024.png",
+        "heros": [
+            "Ling",
+            "Lancelot",
+            "Hayabusa",
+            "Roger",
+            "Fredrinn"
+        ],
+        "roles": [
+            "Jungler",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-12-07",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2020-07-16",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-08-21",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2023-06-23",
+                "team": "Fnatic ONIC"
+            },
+            {
+                "date": "2024-12-08",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2023-06-23",
+        "url": "https://liquipedia.net/mobilelegends/alberttt"
+    },
+    {
+        "team": "ONIC",
+        "name": "Nnael",
+        "full_name": "Manuel  Simbolon",
+        "date_of_birth": "2006-01-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/ONIC_Nnael_S15_PO.png",
+        "heros": [
+            "Ling",
+            "Lancelot",
+            "Nolan",
+            "Fanny",
+            "Baxia"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-01-31",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2023-07-05",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2023-07-05",
+                "team": "Geek Fam ID"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-11-13",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2025-02-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2025-02-28",
+        "url": "https://liquipedia.net/mobilelegends/nnael"
+    },
+    {
+        "team": "ONIC",
+        "name": "Savero",
+        "full_name": "Clayton Kuswanto",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/ONIC_Savero_S15_PO.png",
+        "heros": [
+            "Moskov",
+            "Irithel",
+            "Harith"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-10-05",
+                "team": "ONIC Miracle"
+            },
+            {
+                "date": "2024-02-25",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2025-02-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2025-02-28",
+        "url": "https://liquipedia.net/mobilelegends/savero"
+    },
+    {
+        "team": "ONIC",
+        "name": "Ryota",
+        "full_name": "Nowee Cabailo Macasa",
+        "date_of_birth": "2002-12-09",
+        "nation": "Philippines",
+        "nation_code": "ph",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/ONIC_Ryota_S15.png",
+        "heros": [
+            "Hilda"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-06-12",
+                "team": "PlayBook Esports (page does not exist)"
+            },
+            {
+                "date": "2021-07-11",
+                "team": "ONIC Philippines"
+            },
+            {
+                "date": "2023-08-10",
+                "team": "Omega Esports"
+            },
+            {
+                "date": "2025-02-18",
+                "team": "Omega Neos"
+            },
+            {
+                "date": "2025-03-13",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2025-03-13",
+        "url": "https://liquipedia.net/mobilelegends/ryota"
+    }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Aldous",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-430/mlbb_exp_laner/_Aldous.png",
+    "nation": "Agelta Drylands",
+    "date": "2018-07-24"
+  },
+  {
+    "name": "Alice",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-700/mlbb_exp_laner/_Alice.png",
+    "nation": "The Barren Lands",
+    "date": "2016-01-01"
+  },
+  {
+    "name": "Argus",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-490/mlbb_exp_laner/_Argus.png",
+    "nation": "The Barren Lands",
+    "date": "2017-01-01"
+  },
+  {
+    "name": "Arlott",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-550/mlbb_exp_laner/_Arlott.png",
+    "nation": "Moniyan",
+    "date": "2023-02-14"
+  },
+  {
+    "name": "Badang",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1000,h-1000,cm-extract,xc-500,yc-700/mlbb_exp_laner/Badang.png",
+    "nation": "Vonetis Sea",
+    "date": "2019-01-15"
+  },
+  {
+    "name": "Benedetta",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-390/mlbb_exp_laner/_Benedetta.png",
+    "nation": "The Barren Lands",
+    "date": "2020-11-07"
+  },
+  {
+    "name": "Chou",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-450/mlbb_exp_laner/_Chou.png",
+    "nation": "Agelta Drylands",
+    "date": "2016-12-01"
+  },
+  {
+    "name": "Cici",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1000,h-1000,cm-extract,xc-500,yc-490/mlbb_exp_laner/Cici.png",
+    "nation": "Moniyan",
+    "date": "2023-12-27"
+  },
+  {
+    "name": "Dyrroth",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-450/mlbb_exp_laner/_Dyrotth.png",
+    "nation": "The Barren Lands",
+    "date": "2019-06-25"
+  },
+  {
+    "name": "Edith",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-950/mlbb_exp_laner/edith.png",
+    "nation": "Vonetis Sea",
+    "date": "2021-12-24"
+  },
+  {
+    "name": "Esmeralda",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-550/mlbb_exp_laner/_Esmeralda.png",
+    "nation": "Agelta Drylands",
+    "date": "2019-04-02"
+  },
+  {
+    "name": "Freya",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1200,h-1200,cm-extract,xc-500,yc-400/mlbb_exp_laner/freya.png",
+    "nation": "Northern Vale",
+    "date": "2016-11-30"
+  },
+  {
+    "name": "Gloo",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-700/mlbb_exp_laner/_Gloo.png",
+    "nation": "Azrya Woodlands",
+    "date": "2021-04-16"
+  },
+  {
+    "name": "Guinevere",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1200,h-1200,cm-extract,xc-500,yc-100/mlbb_exp_laner/guin.png",
+    "nation": "Moniyan",
+    "date": "2019-02-21"
+  },
+  {
+    "name": "Jawhead",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-500/mlbb_exp_laner/_Jawhead.png",
+    "nation": "The Barren Lands",
+    "date": "2018-01-10"
+  },
+  {
+    "name": "Khaleed",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-450/mlbb_exp_laner/khaled.png",
+    "nation": "Agelta Drylands",
+    "date": "2020-08-06"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-400/mlbb_exp_laner/Lapu-lapu.png",
+    "nation": "Vonetis Sea",
+    "date": "2017-05-23"
+  },
+  {
+    "name": "Lukas",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-650/mlbb_exp_laner/lukas.png",
+    "nation": "Moniyan",
+    "date": "2024-12-21"
+  },
+  {
+    "name": "Masha",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-490/mlbb_exp_laner/masha.png",
+    "nation": "Northern Vale",
+    "date": "2019-09-17"
+  },
+  {
+    "name": "Minsitthar",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-550/mlbb_exp_laner/_Minsittar.png",
+    "nation": "City of the Sand",
+    "date": "2018-11-16"
+  },
+  {
+    "name": "Paquito",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-300,yc-500/mlbb_exp_laner/_Paquito.png",
+    "nation": "The Barren Lands",
+    "date": "2021-01-15"
+  },
+  {
+    "name": "Phoveus",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-900,h-900,cm-extract,xc-500,yc-550/mlbb_exp_laner/Phoveus.png",
+    "nation": "The Barren Lands",
+    "date": "2021-05-11"
+  },
+  {
+    "name": "Ruby",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-520/mlbb_exp_laner/Ruby.png",
+    "nation": "Moniyan",
+    "date": "2017-12-31"
+  },
+  {
+    "name": "Silvanna",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-1000,h-1000,cm-extract,xc-500,yc-570/mlbb_exp_laner/Silvana.png",
+    "nation": "Moniyan",
+    "date": "2019-12-17"
+  },
+  {
+    "name": "Sun",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-400/mlbb_exp_laner/_Sun.png",
+    "nation": "Stream Valley",
+    "date": "2016-12-01"
+  },
+  {
+    "name": "Terizla",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-800,yc-450/mlbb_exp_laner/Terizla.png",
+    "nation": "The Barren Lands",
+    "date": "2019-06-04"
+  },
+  {
+    "name": "Thamuz",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-500/mlbb_exp_laner/_Thamuz.png",
+    "nation": "The Barren Lands",
+    "date": "2018-09-18"
+  },
+  {
+    "name": "Uranus",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-600/mlbb_exp_laner/Uranus.png",
+    "nation": "Vonetis Sea",
+    "date": "2018-05-07"
+  },
+  {
+    "name": "X.Borg",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-470/mlbb_exp_laner/_Xborg.png",
+    "nation": "Agelta Drylands",
+    "date": "2019-08-09"
+  },
+  {
+    "name": "Yu Zhong",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-450/mlbb_exp_laner/Yu-Zhong.png",
+    "nation": "Cadia Riverlands",
+    "date": "2020-06-19"
+  },
+  {
+    "name": "Zilong",
+    "image": "https://ik.imagekit.io/sadapphone/tr:w-700,h-700,cm-extract,xc-500,yc-500/mlbb_exp_laner/Zilong.png",
+    "nation": "Cadia Riverlands",
+    "date": "2016-09-09"
+  }
+]

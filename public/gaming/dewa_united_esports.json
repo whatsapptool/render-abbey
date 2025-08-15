@@ -1,0 +1,1322 @@
+[
+    {
+        "team": "Dewa United",
+        "name": "Lexi BARBIE",
+        "full_name": "Muhamad Fiqri",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_LEXI.png",
+        "heros": [
+            "Karrie",
+            "Lunox",
+            "Helcurt"
+        ],
+        "roles": [
+            "Gold Laner",
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/lexi_barbie"
+    },
+    {
+        "team": "Dewa United",
+        "name": "M o o n",
+        "full_name": "Michael  Tjandra",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC Prodigy",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/DEWA_MOON.png",
+        "heros": [
+            "Balmond"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-02-18",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2022-01-31",
+                "team": "ONIC Prodigy"
+            }
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/m_o_o_n"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Fenryr",
+        "full_name": "Erwin",
+        "date_of_birth": "2000-02-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Team Lunatix",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/DEWA_FENRYR.png",
+        "heros": [
+            "Masha",
+            "Thamuz",
+            "Lapu-Lapu"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-02-18",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2022-07-20",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2023-02-01",
+                "team": "Team Lunatix (page does not exist)"
+            }
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/fenryr"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Crusher",
+        "full_name": "Indra Wijaya",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_CRUSHER.png",
+        "heros": [
+            "Yu Zhong",
+            "Paquito"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Zaki",
+        "full_name": "Zaki ABdulhanif",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_ZAKI.png",
+        "heros": [
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Altamiz",
+        "full_name": "Ibnu  Muttaqin (Cupu)",
+        "date_of_birth": "1999-06-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Tiger Wong Esports",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/DEWA_ALTHAMIZ.png",
+        "heros": [
+            "Popol and Kupa",
+            "Harith",
+            "Claude"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-18",
+                "team": "Star8 Esports (page does not exist)"
+            },
+            {
+                "date": "2021-02-18",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2023-01-31",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-06-29",
+                "team": "Tiger Wong Esports"
+            }
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/altamiz"
+    },
+    {
+        "team": "Dewa United",
+        "name": "SamoHt",
+        "full_name": "Thomas Budiman",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_SAMOTH.png",
+        "heros": [
+            "Kaja",
+            "Franco",
+            "Kadita",
+            "Lolita",
+            "Atlas"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-02-18",
+        "url": "https://liquipedia.net/mobilelegends/samoht"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Potx",
+        "full_name": "Albert Munthe",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Dewa_potx.png",
+        "heros": [
+            "Karina",
+            "Hanzo"
+        ],
+        "roles": [
+            "Jangler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-07-04",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Jacklee",
+        "full_name": "Hafizun  Ahmad",
+        "date_of_birth": "1996-05-26",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Morpheus",
+        "status": "Active",
+        "image": "/player/DEWA_Jacklee_S13.png",
+        "heros": [
+            "Grock"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Coach"
+        ],
+        "team_history": [
+            {
+                "date": "2019-04-26",
+                "team": "RRQ TCN"
+            },
+            {
+                "date": "2019-12-10",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2020-05-17",
+                "team": "Aerowolf Jr"
+            },
+            {
+                "date": "2021-08-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2022-08-19",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-02-29",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-27",
+                "team": "Dewa United Academy (page does not exist)"
+            },
+            {
+                "date": "2024-10-02",
+                "team": "Mahadewa (page does not exist)"
+            },
+            {
+                "date": "2025-02-20",
+                "team": "Dewa United Morpheus"
+            }
+        ],
+        "date": "2021-08-01",
+        "url": "https://liquipedia.net/mobilelegends/jacklee"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Ngeteh",
+        "full_name": "Liam",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Dewa_ngeteh.png",
+        "heros": [
+            "Aurora"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-08-27",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Marz",
+        "full_name": "Adrian  Damari",
+        "date_of_birth": "2000-05-31",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "GPX",
+        "status": "Active",
+        "image": "/player/Dewa_Marz.png",
+        "heros": [
+            "Ling",
+            "Fanny"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-17",
+                "team": "Aerowolf Jr"
+            },
+            {
+                "date": "2020-08-27",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2021-09-10",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2022-01-15",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2023-10-05",
+                "team": "GPX"
+            }
+        ],
+        "date": "2021-09-10",
+        "url": "https://liquipedia.net/mobilelegends/marz"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Lanaya",
+        "full_name": "Delvin  Gunawan",
+        "date_of_birth": "2003-07-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Rare Atom",
+        "status": "Active",
+        "image": "/player/DEWA_Lanaya_S13.png",
+        "heros": [
+            "Karina",
+            "Helcurt",
+            "Ling",
+            "Lancelot",
+            "Thamuz"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2020-11-21",
+                "team": "Victim Esports"
+            },
+            {
+                "date": "2022-02-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-10-01",
+                "team": "Dewa United Hades (page does not exist)"
+            },
+            {
+                "date": "2025-02-12",
+                "team": "Rare Atom"
+            }
+        ],
+        "date": "2022-02-01",
+        "url": "https://liquipedia.net/mobilelegends/lanaya"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Keyz",
+        "full_name": "Indra  Setiawan",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Keyz_S13.png",
+        "heros": [
+            "Pharsa",
+            "Yve",
+            "Xavier",
+            "Valentina"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-02-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-29",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2022-02-01",
+        "url": "https://liquipedia.net/mobilelegends/keyz"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Greco",
+        "full_name": "Muhammad  Fikri",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Morpheus",
+        "status": "no data",
+        "image": "/player/DEWA_Greco_MDL_S7.png",
+        "heros": [
+            "Lolita",
+            "Popol and Kupa"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-06-15",
+                "team": "The Prime (page does not exist)"
+            },
+            {
+                "date": "2020-02-01",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2022-02-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2023-07-09",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-27",
+                "team": "Dewa United Academy (page does not exist)"
+            },
+            {
+                "date": "2024-10-02",
+                "team": "Mahadewa (page does not exist)"
+            },
+            {
+                "date": "2025-02-20",
+                "team": "Dewa United Morpheus"
+            }
+        ],
+        "date": "2022-02-01",
+        "url": "https://liquipedia.net/mobilelegends/greco"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Shacco",
+        "full_name": "Ricky  Erlangga",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Hades",
+        "status": "Active",
+        "image": "/player/DEWA_Shacco_S13.png",
+        "heros": [
+            "Franco",
+            "Lolita",
+            "Minsitthar",
+            "Kaja"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2022-02-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-10-01",
+                "team": "Dewa United Hades (page does not exist)"
+            }
+        ],
+        "date": "2022-02-01",
+        "url": "https://liquipedia.net/mobilelegends/shacco"
+    },
+    {
+        "team": "Dewa United",
+        "name": "VanSoHee",
+        "full_name": "M Ivan Ramadhani",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_VANSHOHEE.png",
+        "heros": [
+            "Uranus"
+        ],
+        "roles": [
+            "EXP Lane"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2022-07-07",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Shuncay",
+        "full_name": "Ancha Lovanca",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_SHUNCAY.png",
+        "heros": [
+            "Claude"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2023-01-23",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Winaldo",
+        "full_name": "Janitra Winaldo",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_WINALDO.png",
+        "heros": [
+            "Esmeralda"
+        ],
+        "roles": [
+            "EXP Lane"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2023-01-23",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Azuraa",
+        "full_name": "Rohib  Pambudi",
+        "date_of_birth": "2004-07-01",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Azuraa_S15.png",
+        "heros": [
+            "Claude",
+            "Melissa",
+            "Moskov"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-02-18",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2023-07-05",
+                "team": "Dewa United Morpheus"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2023-02-18",
+        "url": "https://liquipedia.net/mobilelegends/azuraa"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Reyy",
+        "full_name": "Reynaldo  Ferdiand",
+        "date_of_birth": "2006-01-04",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Reyy_S15.png",
+        "heros": [
+            "Lancelot",
+            "Ling",
+            "Fanny",
+            "Suyou"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2021-08-15",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2022-01-12",
+                "team": "GPX"
+            },
+            {
+                "date": "2023-06-27",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-02-16",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-02-16",
+                "team": "Geek Fam ID"
+            },
+            {
+                "date": "2024-07-15",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2023-06-27",
+        "url": "https://liquipedia.net/mobilelegends/reyy"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Watt",
+        "full_name": "Supriadi  Putra",
+        "date_of_birth": "2000-07-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Coach",
+        "status": "Active",
+        "image": "/player/DEWA_Watt_S15.png",
+        "heros": [
+            "Karrie",
+            "Claude",
+            "Bruno",
+            "Bane",
+            "Brody"
+        ],
+        "roles": [
+            "Coach",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2017-10-02",
+                "team": "Team NXL"
+            },
+            {
+                "date": "2018-04-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2018-08-10",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2019-01-12",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2020-02-13",
+                "team": "Aerowolf Jr"
+            },
+            {
+                "date": "2020-02-27",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2021-09-10",
+                "team": "GPX"
+            },
+            {
+                "date": "2023-06-27",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2025-02-27",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2023-06-27",
+        "url": "https://liquipedia.net/mobilelegends/watt"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Pendragon",
+        "full_name": "Sebastian  Arthur",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Dewa United Morpheus",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/DEWA_Pendragon_MDL_S9.png",
+        "heros": [
+            "Masha",
+            "Esmeralda",
+            "Uranus"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-25",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-02-12",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-02-27",
+                "team": "Dewa United Rhodes"
+            }
+        ],
+        "date": "2023-06-30",
+        "url": "https://liquipedia.net/mobilelegends/pendragon"
+    },
+    {
+        "team": "Dewa United",
+        "name": "LeoMurphy",
+        "full_name": "Julian  Murphy",
+        "date_of_birth": "2001-07-29",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Alter Ego",
+        "current_team": "no data",
+        "status": "Inactive",
+        "image": "/player/DEWA_LeoMurphy_S12.png",
+        "heros": [
+            "Chou",
+            "Jawhead",
+            "Hilda",
+            "Khufra",
+            "Natalia"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-08-07",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2022-02-02",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2022-03-17",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2023-01-27",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2023-07-03",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2023-07-03",
+        "url": "https://liquipedia.net/mobilelegends/leomurphy"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Drian",
+        "full_name": "Adriand  Wong",
+        "date_of_birth": "2002-08-28",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Inactive",
+        "image": "/player/DEWA_Drian_S13.png",
+        "heros": [
+            "Kagura",
+            "Pharsa",
+            "Kaja",
+            "Cecilion",
+            "Lunox"
+        ],
+        "roles": [
+            "Roamer",
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2022-02-09",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2022-03-24",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2022-03-31",
+                "team": "ONIC"
+            },
+            {
+                "date": "2024-02-29",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2024-02-29",
+        "url": "https://liquipedia.net/mobilelegends/drian"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Just Garrr",
+        "full_name": "Garry Elwandatanta",
+        "date_of_birth": "2003-02-08",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_Just_Garr.png",
+        "heros": [
+            "Fanny",
+            "Ling",
+            "Karina",
+            "Hayabusa"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2024-02-29",
+        "url": "https://liquipedia.net/mobilelegends/just_garrr"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Kimura",
+        "full_name": "Juli  Kimura",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Dewa United Esports",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/DEWA_Kimura_S13.png",
+        "heros": [
+            "Uranus",
+            "Arlott",
+            "Fredrinn",
+            "Benedetta",
+            "Bruno"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-01-20",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-01-31",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-02-24",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-06-27",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2024-02-29",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2024-02-29",
+        "url": "https://liquipedia.net/mobilelegends/kimura"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Xorizo",
+        "full_name": "I  Dwipayana",
+        "date_of_birth": "2003-03-30",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Xorizo_S15.png",
+        "heros": [
+            "Gloo",
+            "Uranus",
+            "Esmeralda",
+            "Paquito",
+            "X.Borg"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-02-12",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2021-08-26",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2024-08-01",
+        "url": "https://liquipedia.net/mobilelegends/xorizo"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Muezzaa",
+        "full_name": "Irfan  Ramadhani",
+        "date_of_birth": "2002-11-08",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Muezza_S15.png",
+        "heros": [
+            "Kadita",
+            "Franco",
+            "Mathilda",
+            "Gatotkaca"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2023-01-17",
+                "team": "OPI Pegasus"
+            },
+            {
+                "date": "2024-02-15",
+                "team": "Geek Fam ID Jr"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2024-08-01",
+        "url": "https://liquipedia.net/mobilelegends/muezzaa"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Hijumee",
+        "full_name": "Dalvin  Putra",
+        "date_of_birth": "2002-11-23",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/DEWA_Hijumee_S14.png",
+        "heros": [
+            "Yve",
+            "Pharsa",
+            "Valentina",
+            "Faramis"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2024-08-01",
+        "url": "https://liquipedia.net/mobilelegends/hijumee"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Dyx0n",
+        "full_name": "Supryanto  Salim",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Hades",
+        "status": "Active",
+        "image": "/player/DEWA_Dyxon_S13.png",
+        "heros": [
+            "Uranus",
+            "Lapu-Lapu",
+            "Terizla"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-02-18",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-10-01",
+                "team": "Dewa United Hades (page does not exist)"
+            }
+        ],
+        "date": "2023-02-18",
+        "url": "https://liquipedia.net/mobilelegends/dyx0n"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Octa",
+        "full_name": "Muhamad  Maulana",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Octa_S15.png",
+        "heros": [
+            "Yve",
+            "Selena",
+            "Cecilion",
+            "Lunox",
+            "Novaria"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-07-31",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-01-21",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2024-01-11",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-05-01",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2025-02-16",
+        "url": "https://liquipedia.net/mobilelegends/octa"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Vanz",
+        "full_name": "Muhammad Ikhsan Farabi",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_VANZ.png",
+        "heros": [
+            "Ling",
+            "Lukas"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2025-02-22",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Maybe",
+        "full_name": "Delvin Chua",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_MAYBEE.png",
+        "heros": [
+            "Moskov",
+            "Harith"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2025-02-22",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Rezzz",
+        "full_name": "Muhammad  Kurniawan",
+        "date_of_birth": "2006-08-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Rezz_S15.png",
+        "heros": [
+            "Martis",
+            "Benedetta",
+            "Khaleed",
+            "Arlott"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-06-21",
+                "team": "Pajajaran Esports (page does not exist)"
+            },
+            {
+                "date": "2024-02-24",
+                "team": "ONIC Miracle"
+            },
+            {
+                "date": "2024-07-20",
+                "team": "ONIC Prodigy"
+            },
+            {
+                "date": "2024-08-29",
+                "team": "ONIC"
+            },
+            {
+                "date": "2025-04-17",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2025-04-17",
+        "url": "https://liquipedia.net/mobilelegends/rezzz"
+    },
+    {
+        "team": "Dewa United",
+        "name": "Spencer",
+        "full_name": "Adhitya  Barus",
+        "date_of_birth": "2002-02-22",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Dewa United Esports",
+        "status": "Active",
+        "image": "/player/DEWA_Spencer_S15.png",
+        "heros": [
+            "Yve"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-03-22",
+                "team": "OPI Pegasus"
+            },
+            {
+                "date": "2022-08-27",
+                "team": "Co2Z Esports"
+            },
+            {
+                "date": "2022-12-01",
+                "team": "OPI Pegasus"
+            },
+            {
+                "date": "2023-07-05",
+                "team": "Dewa United Morpheus"
+            },
+            {
+                "date": "2024-08-27",
+                "team": "Dewa United Academy (page does not exist)"
+            },
+            {
+                "date": "2024-10-02",
+                "team": "Mahadewa (page does not exist)"
+            },
+            {
+                "date": "2025-02-20",
+                "team": "Dewa United Morpheus"
+            },
+            {
+                "date": "2025-05-14",
+                "team": "Dewa United Esports"
+            }
+        ],
+        "date": "2025-05-14",
+        "url": "https://liquipedia.net/mobilelegends/spencer"
+    },
+    {
+        "team": "Dewa United",
+        "name": "KESUUU",
+        "full_name": "Samsu Randy Pratama",
+        "date_of_birth": "2005-03-28",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/DEWA_KESUUU_S15.png",
+        "heros": [
+            "Diggie"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2025-05-14",
+        "url": "https://liquipedia.net/mobilelegends/kesuuu"
+    }
+]

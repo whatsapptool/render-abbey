@@ -1,0 +1,751 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain  2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Zetian (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 18 June 2025
+
+3
+00:00:08,000 --> 00:00:14,000
+Kalea (Vonetis Sea)
+()
+Awal masuk MPL ID : : 19 March 2025
+
+4
+00:00:14,000 --> 00:00:20,000
+Lukas
+Awal masuk MPL ID : : 21 December 2024
+
+5
+00:00:20,000 --> 00:00:26,000
+Suyou (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 21 September 2024
+
+6
+00:00:26,000 --> 00:00:32,000
+Zhuxin (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 29 June 2024
+
+7
+00:00:32,000 --> 00:00:38,000
+Chip (Agelta Drylands)
+()
+Awal masuk MPL ID : : 16 March 2024
+
+8
+00:00:38,000 --> 00:00:44,000
+Cici
+Awal masuk MPL ID : : 27 December 2023
+
+9
+00:00:44,000 --> 00:00:50,000
+Nolan (Agelta Drylands)
+()
+Awal masuk MPL ID : : 30 September 2023
+
+10
+00:00:50,000 --> 00:00:56,000
+Ixia (Agelta Drylands)
+()
+Awal masuk MPL ID : : 07 August 2023
+
+11
+00:00:56,000 --> 00:01:02,000
+Novaria (Agelta Drylands)
+()
+Awal masuk MPL ID : : 16 May 2023
+
+12
+00:01:02,000 --> 00:01:08,000
+Arlott
+Awal masuk MPL ID : : 14 February 2023
+
+13
+00:01:08,000 --> 00:01:14,000
+Fredrinn (Agelta Drylands)
+()
+Awal masuk MPL ID : : 08 December 2022
+
+14
+00:01:14,000 --> 00:01:20,000
+Joy (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 18 November 2022
+
+15
+00:01:20,000 --> 00:01:26,000
+Julian (Moniyan)
+()
+Awal masuk MPL ID : : 24 May 2022
+
+16
+00:01:26,000 --> 00:01:32,000
+Xavier (Moniyan)
+()
+Awal masuk MPL ID : : 22 March 2022
+
+17
+00:01:32,000 --> 00:01:38,000
+Melissa (Moniyan)
+()
+Awal masuk MPL ID : : 22 February 2022
+
+18
+00:01:38,000 --> 00:01:44,000
+Yin (Moniyan)
+()
+Awal masuk MPL ID : : 18 January 2022
+
+19
+00:01:44,000 --> 00:01:50,000
+Edith
+Awal masuk MPL ID : : 24 December 2021
+
+20
+00:01:50,000 --> 00:01:56,000
+Yve (Vonetis Sea)
+()
+Awal masuk MPL ID : : 02 December 2021
+
+21
+00:01:56,000 --> 00:02:02,000
+Aamon (Moniyan)
+()
+Awal masuk MPL ID : : 25 October 2021
+
+22
+00:02:02,000 --> 00:02:08,000
+Floryn (Agelta Drylands)
+()
+Awal masuk MPL ID : : 22 September 2021
+
+23
+00:02:08,000 --> 00:02:14,000
+Aulus (The Barren Lands)
+()
+Awal masuk MPL ID : : 31 August 2021
+
+24
+00:02:14,000 --> 00:02:20,000
+Natan (Agelta Drylands)
+()
+Awal masuk MPL ID : : 23 July 2021
+
+25
+00:02:20,000 --> 00:02:26,000
+Phoveus
+Awal masuk MPL ID : : 11 May 2021
+
+26
+00:02:26,000 --> 00:02:32,000
+Gloo
+Awal masuk MPL ID : : 16 April 2021
+
+27
+00:02:32,000 --> 00:02:38,000
+Beatrix (Agelta Drylands)
+()
+Awal masuk MPL ID : : 19 March 2021
+
+28
+00:02:38,000 --> 00:02:44,000
+Paquito
+Awal masuk MPL ID : : 15 January 2021
+
+29
+00:02:44,000 --> 00:02:50,000
+Valentina (Moniyan)
+()
+Awal masuk MPL ID : : 01 January 2021
+
+30
+00:02:50,000 --> 00:02:56,000
+Mathilda (Agelta Drylands)
+()
+Awal masuk MPL ID : : 12 December 2020
+
+31
+00:02:56,000 --> 00:03:02,000
+Cecilion (Moniyan)
+()
+Awal masuk MPL ID : : 02 December 2020
+
+32
+00:03:02,000 --> 00:03:08,000
+Benedetta
+Awal masuk MPL ID : : 07 November 2020
+
+33
+00:03:08,000 --> 00:03:14,000
+Brody (The Barren Lands)
+()
+Awal masuk MPL ID : : 16 October 2020
+
+34
+00:03:14,000 --> 00:03:20,000
+Barats (Agelta Drylands)
+()
+Awal masuk MPL ID : : 18 September 2020
+
+35
+00:03:20,000 --> 00:03:26,000
+Khaleed
+Awal masuk MPL ID : : 06 August 2020
+
+36
+00:03:26,000 --> 00:03:32,000
+Yu Zhong
+Awal masuk MPL ID : : 19 June 2020
+
+37
+00:03:32,000 --> 00:03:38,000
+Luo Yi (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 16 May 2020
+
+38
+00:03:38,000 --> 00:03:44,000
+Popol and Kupa (Northern Vale)
+()
+Awal masuk MPL ID : : 21 April 2020
+
+39
+00:03:44,000 --> 00:03:50,000
+Atlas (Northern Vale)
+()
+Awal masuk MPL ID : : 20 March 2020
+
+40
+00:03:50,000 --> 00:03:56,000
+Carmilla (Moniyan)
+()
+Awal masuk MPL ID : : 17 January 2020
+
+41
+00:03:56,000 --> 00:04:02,000
+Ling (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 31 December 2019
+
+42
+00:04:02,000 --> 00:04:08,000
+Silvanna
+Awal masuk MPL ID : : 17 December 2019
+
+43
+00:04:08,000 --> 00:04:14,000
+Wanwan (Tang Wanwan)
+()
+Awal masuk MPL ID : : 26 November 2019
+
+44
+00:04:14,000 --> 00:04:20,000
+Masha
+Awal masuk MPL ID : : 17 September 2019
+
+45
+00:04:20,000 --> 00:04:26,000
+Baxia (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 10 August 2019
+
+46
+00:04:26,000 --> 00:04:32,000
+X.Borg
+Awal masuk MPL ID : : 09 August 2019
+
+47
+00:04:32,000 --> 00:04:38,000
+Lylia (Northern Vale)
+()
+Awal masuk MPL ID : : 23 July 2019
+
+48
+00:04:38,000 --> 00:04:44,000
+Dyrroth
+Awal masuk MPL ID : : 25 June 2019
+
+49
+00:04:44,000 --> 00:04:50,000
+Terizla
+Awal masuk MPL ID : : 04 June 2019
+
+50
+00:04:50,000 --> 00:04:56,000
+Faramis (The Barren Lands)
+()
+Awal masuk MPL ID : : 18 May 2019
+
+51
+00:04:56,000 --> 00:05:02,000
+Granger (Monastery of Light)
+()
+Awal masuk MPL ID : : 23 April 2019
+
+52
+00:05:02,000 --> 00:05:08,000
+Esmeralda
+Awal masuk MPL ID : : 02 April 2019
+
+53
+00:05:08,000 --> 00:05:14,000
+Guinevere
+Awal masuk MPL ID : : 21 February 2019
+
+54
+00:05:14,000 --> 00:05:20,000
+Vale (Wind Fort & Fire Throat)
+()
+Awal masuk MPL ID : : 29 January 2019
+
+55
+00:05:20,000 --> 00:05:26,000
+Badang
+Awal masuk MPL ID : : 15 January 2019
+
+56
+00:05:26,000 --> 00:05:32,000
+Khufra (Agelta Drylands)
+()
+Awal masuk MPL ID : : 01 January 2019
+
+57
+00:05:32,000 --> 00:05:38,000
+Lunox (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2018
+
+58
+00:05:38,000 --> 00:05:44,000
+Kadita (Vonetis Sea)
+()
+Awal masuk MPL ID : : 31 December 2018
+
+59
+00:05:44,000 --> 00:05:50,000
+Martis (Vonetis Sea)
+()
+Awal masuk MPL ID : : 31 December 2018
+
+60
+00:05:50,000 --> 00:05:56,000
+Harith (Moniyan)
+()
+Awal masuk MPL ID : : 30 November 2018
+
+61
+00:05:56,000 --> 00:06:02,000
+Minsitthar
+Awal masuk MPL ID : : 16 November 2018
+
+62
+00:06:02,000 --> 00:06:08,000
+Kimmy (Moniyan)
+()
+Awal masuk MPL ID : : 23 October 2018
+
+63
+00:06:08,000 --> 00:06:14,000
+Thamuz
+Awal masuk MPL ID : : 18 September 2018
+
+64
+00:06:14,000 --> 00:06:20,000
+Belerick (Oasis)
+()
+Awal masuk MPL ID : : 17 August 2018
+
+65
+00:06:20,000 --> 00:06:26,000
+Aldous
+Awal masuk MPL ID : : 24 July 2018
+
+66
+00:06:26,000 --> 00:06:32,000
+Selena (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 18 July 2018
+
+67
+00:06:32,000 --> 00:06:38,000
+Claude (Agelta Drylands)
+()
+Awal masuk MPL ID : : 08 July 2018
+
+68
+00:06:38,000 --> 00:06:44,000
+Valir (Wind Fort & Fire Throat)
+()
+Awal masuk MPL ID : : 03 June 2018
+
+69
+00:06:44,000 --> 00:06:50,000
+Angela (Agelta Drylands)
+()
+Awal masuk MPL ID : : 02 June 2018
+
+70
+00:06:50,000 --> 00:06:56,000
+Chang'e (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 30 May 2018
+
+71
+00:06:56,000 --> 00:07:02,000
+Uranus
+Awal masuk MPL ID : : 07 May 2018
+
+72
+00:07:02,000 --> 00:07:08,000
+Kaja (Vonetis Sea)
+()
+Awal masuk MPL ID : : 25 April 2018
+
+73
+00:07:08,000 --> 00:07:14,000
+Hanabi (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 17 April 2018
+
+74
+00:07:14,000 --> 00:07:20,000
+Hanzo (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 12 April 2018
+
+75
+00:07:20,000 --> 00:07:26,000
+Leomord (The Barren Lands)
+()
+Awal masuk MPL ID : : 10 March 2018
+
+76
+00:07:26,000 --> 00:07:32,000
+Gusion (Moniyan)
+()
+Awal masuk MPL ID : : 20 February 2018
+
+77
+00:07:32,000 --> 00:07:38,000
+Lesley (Moniyan)
+()
+Awal masuk MPL ID : : 31 January 2018
+
+78
+00:07:38,000 --> 00:07:44,000
+Jawhead
+Awal masuk MPL ID : : 10 January 2018
+
+79
+00:07:44,000 --> 00:07:50,000
+Johnson (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+80
+00:07:50,000 --> 00:07:56,000
+Hylos (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+81
+00:07:56,000 --> 00:08:02,000
+Hilda (Northern Vale)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+82
+00:08:02,000 --> 00:08:08,000
+Grock (The Barren Lands)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+83
+00:08:08,000 --> 00:08:14,000
+Yi Sun-shin (City of the Dragon)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+84
+00:08:14,000 --> 00:08:20,000
+Irithel (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 31 December 2017
+
+85
+00:08:20,000 --> 00:08:26,000
+Ruby
+Awal masuk MPL ID : : 31 December 2017
+
+86
+00:08:26,000 --> 00:08:32,000
+Zhask (Vonetis Sea)
+()
+Awal masuk MPL ID : : 27 November 2017
+
+87
+00:08:32,000 --> 00:08:38,000
+Diggie (Agelta Drylands)
+()
+Awal masuk MPL ID : : 19 November 2017
+
+88
+00:08:38,000 --> 00:08:44,000
+Odette (Moniyan)
+()
+Awal masuk MPL ID : : 29 September 2017
+
+89
+00:08:44,000 --> 00:08:50,000
+Roger (Moniyan)
+()
+Awal masuk MPL ID : : 25 June 2017
+
+90
+00:08:50,000 --> 00:08:56,000
+Lapu-Lapu
+Awal masuk MPL ID : : 23 May 2017
+
+91
+00:08:56,000 --> 00:09:02,000
+Aurora (Northern Vale)
+()
+Awal masuk MPL ID : : 09 May 2017
+
+92
+00:09:02,000 --> 00:09:08,000
+Karrie (Vonetis Sea)
+()
+Awal masuk MPL ID : : 07 May 2017
+
+93
+00:09:08,000 --> 00:09:14,000
+Estes (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 12 April 2017
+
+94
+00:09:14,000 --> 00:09:20,000
+Harley (Northern Vale)
+()
+Awal masuk MPL ID : : 08 April 2017
+
+95
+00:09:20,000 --> 00:09:26,000
+Moskov (Agelta Drylands)
+()
+Awal masuk MPL ID : : 20 March 2017
+
+96
+00:09:26,000 --> 00:09:32,000
+Gatotkaca (Nebula Chronorift)
+()
+Awal masuk MPL ID : : 07 January 2017
+
+97
+00:09:32,000 --> 00:09:38,000
+Vexana (Vexana Gaius)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+98
+00:09:38,000 --> 00:09:44,000
+Pharsa (The Barren Lands)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+99
+00:09:44,000 --> 00:09:50,000
+Cyclops (Nebula Chronorift)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+100
+00:09:50,000 --> 00:09:56,000
+Lancelot (Moniyan)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+101
+00:09:56,000 --> 00:10:02,000
+Helcurt (The Barren Lands)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+102
+00:10:02,000 --> 00:10:08,000
+Alpha (Agelta Drylands)
+()
+Awal masuk MPL ID : : 01 January 2017
+
+103
+00:10:08,000 --> 00:10:14,000
+Argus
+Awal masuk MPL ID : : 01 January 2017
+
+104
+00:10:14,000 --> 00:10:20,000
+Natalia (Monastery of Light)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+105
+00:10:20,000 --> 00:10:26,000
+Franco (Northern Vale)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+106
+00:10:26,000 --> 00:10:32,000
+Nana (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+107
+00:10:32,000 --> 00:10:38,000
+Kagura (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+108
+00:10:38,000 --> 00:10:44,000
+Gord (Northern Vale)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+109
+00:10:44,000 --> 00:10:50,000
+Eudora (Northern Vale)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+110
+00:10:50,000 --> 00:10:56,000
+Saber (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+111
+00:10:56,000 --> 00:11:02,000
+Balmond (Stormeye Wasteland)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+112
+00:11:02,000 --> 00:11:08,000
+Layla (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+113
+00:11:08,000 --> 00:11:14,000
+Clint (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+114
+00:11:14,000 --> 00:11:20,000
+Bruno (Agelta Drylands)
+()
+Awal masuk MPL ID : : 31 December 2016
+
+115
+00:11:20,000 --> 00:11:26,000
+Sun
+Awal masuk MPL ID : : 01 December 2016
+
+116
+00:11:26,000 --> 00:11:32,000
+Chou
+Awal masuk MPL ID : : 01 December 2016
+
+117
+00:11:32,000 --> 00:11:38,000
+Freya
+Awal masuk MPL ID : : 30 November 2016
+
+118
+00:11:38,000 --> 00:11:44,000
+Miya (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 22 September 2016
+
+119
+00:11:44,000 --> 00:11:50,000
+Zilong
+Awal masuk MPL ID : : 09 September 2016
+
+120
+00:11:50,000 --> 00:11:56,000
+Tigreal (Moniyan)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+121
+00:11:56,000 --> 00:12:02,000
+Rafaela (Moniyan)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+122
+00:12:02,000 --> 00:12:08,000
+Minotaur (Agelta Drylands)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+123
+00:12:08,000 --> 00:12:14,000
+Lolita (Agelta Drylands)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+124
+00:12:14,000 --> 00:12:20,000
+Akai (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+125
+00:12:20,000 --> 00:12:26,000
+Karina (Azrya Woodlands)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+126
+00:12:26,000 --> 00:12:32,000
+Hayabusa (Cadia Riverlands)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+127
+00:12:32,000 --> 00:12:38,000
+Fanny (Moniyan)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+128
+00:12:38,000 --> 00:12:44,000
+Bane (Northern Vale)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+129
+00:12:44,000 --> 00:12:50,000
+Alucard (Moniyan)
+()
+Awal masuk MPL ID : : 01 January 2016
+
+130
+00:12:50,000 --> 00:12:56,000
+Alice
+Awal masuk MPL ID : : 01 January 2016
+
+131
+00:12:56,000 --> 00:13:01,000
+Terima kasih sudah menonton!
+

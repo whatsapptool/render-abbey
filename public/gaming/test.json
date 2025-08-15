@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Andi",
+      "full_name": "Andi Permana",
+      "image": "https://api.dicebear.com/7.x/pixel-art/svg",
+      "date": "2023-05-14",
+      "date_of_birth": "1995-03-15",
+      "team": "Team Alpha",
+      "nation_code": "ID",
+      "roles": ["Tank", "Support"],
+      "heros": ["Tigreal", "Angela"]
+    },
+    {
+      "name": "Budi",
+      "full_name": "Budi Santoso",
+      "image": "https://www.tripsavvy.com/thmb/uNjVBm-g--GZfIH7Y266ow4vVf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gunung-bromo-volcano-indonesia-108224973-5a7ebe0d6bf0690037337d61.jpg",
+      "date": "2022-08-23",
+      "date_of_birth": "1998-07-22",
+      "team": "Team Beta",
+      "nation_code": "ID",
+      "roles": ["Marksman", "Assassin"],
+      "heros": ["Layla", "Lancelot"]
+    },
+    {
+      "name": "Cindy",
+      "full_name": "Cindy Wijaya",
+      "image": "https://singlecolorimage.com/get/000000/400x100",
+      "date": "2024-01-05",
+      "date_of_birth": "1997-11-10",
+      "team": "Team Gamma",
+      "nation_code": "ID",
+      "roles": ["Mage", "Support"],
+      "heros": ["Lunox", "Estes"]
+    },
+    {
+      "name": "Dodi",
+      "full_name": "Dodi Kurniawan",
+      "image": "https://picsum.photos/200/300?random=4",
+      "date": "2023-11-30",
+      "date_of_birth": "1996-04-18",
+      "team": "Team Delta",
+      "nation_code": "ID",
+      "roles": ["Fighter", "Tank"],
+      "heros": ["Alucard", "Grock"]
+    },
+    {
+      "name": "Erika",
+      "full_name": "Erika Putri",
+      "image": "https://robohash.org/stefan-two",
+      "date": "2024-03-18",
+      "date_of_birth": "1999-09-25",
+      "team": "Team Epsilon",
+      "nation_code": "ID",
+      "roles": ["Assassin", "Marksman"],
+      "heros": ["Natalia", "Claude"]
+    }
+  ]

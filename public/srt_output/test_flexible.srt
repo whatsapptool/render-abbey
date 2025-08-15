@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain Team Epsilon 2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+Erika
+Name: Erika Putri | Awal masuk MPL ID : Team Epsilon: 18 March 2024 | Roles: [Assassin, Marksman] | Heros: [Natalia, Claude]
+
+3
+00:00:08,000 --> 00:00:14,000
+Cindy
+Name: Cindy Wijaya | Awal masuk MPL ID : Team Epsilon: 05 January 2024 | Roles: [Mage, Support] | Heros: [Lunox, Estes]
+
+4
+00:00:14,000 --> 00:00:20,000
+Dodi
+Name: Dodi Kurniawan | Awal masuk MPL ID : Team Epsilon: 30 November 2023 | Roles: [Fighter, Tank] | Heros: [Alucard, Grock]
+
+5
+00:00:20,000 --> 00:00:26,000
+Andi
+Name: Andi Permana | Awal masuk MPL ID : Team Epsilon: 14 May 2023 | Roles: [Tank, Support] | Heros: [Tigreal, Angela]
+
+6
+00:00:26,000 --> 00:00:32,000
+Budi
+Name: Budi Santoso | Awal masuk MPL ID : Team Epsilon: 23 August 2022 | Roles: [Marksman, Assassin] | Heros: [Layla, Lancelot]
+
+7
+00:00:32,000 --> 00:00:37,000
+Terima kasih sudah menonton!
+

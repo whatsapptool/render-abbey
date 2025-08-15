@@ -1,0 +1,2397 @@
+[
+    {
+        "team": "EVOS Esports",
+        "name": "Fabiens",
+        "full_name": "Thong Andara",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Pabz Esports",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/Evos_FABIENS.png",
+        "heros": [
+            "Bruno",
+            "Granger",
+            "X.Borg",
+            "Masha"
+        ],
+        "roles": [
+            "Flex"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2017-12-26",
+                "team": "Bigetron Player Kill"
+            },
+            {
+                "date": "2019-01-14",
+                "team": "Revo (page does not exist)"
+            },
+            {
+                "date": "2020-02-19",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2020-07-16",
+                "team": "Victim Esports"
+            },
+            {
+                "date": "2022-01-14",
+                "team": "Pabz Esports"
+            }
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/fabiens"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Eiduart",
+        "full_name": "Eiduart Tjahyadikarta",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Revo",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Evos_Eiduart.png",
+        "heros": [
+            "Akai",
+            "Kagura"
+        ],
+        "roles": [
+            "Flex"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2017-12-26",
+                "team": "Bigetron Player Kill"
+            },
+            {
+                "date": "2018-07-11",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2019-01-14",
+                "team": "Revo (page does not exist)"
+            }
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/eiduart"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Quack",
+        "full_name": "no data",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_quack.png",
+        "heros": [
+            "Cyclops",
+            "Hilda",
+            "Freya"
+        ],
+        "roles": [
+            "Flex"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "KneEr",
+        "full_name": "Aprizal Jaya",
+        "date_of_birth": "1990-04-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_Kneer.png",
+        "heros": [
+            "Lesley",
+            "Akai",
+            "Bruno",
+            "Moskov"
+        ],
+        "roles": [
+            "Gold Laner",
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Bandot",
+        "full_name": "Richard Feberi",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_bandot.png",
+        "heros": [
+            "Moskov",
+            "Saber",
+            "Chou"
+        ],
+        "roles": [
+            "Gold Laner",
+            "Flex"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "R E K T",
+        "full_name": "Gustian",
+        "date_of_birth": "1996-08-13",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/Evos_Rekt_S9.png",
+        "heros": [
+            "Claude",
+            "Kimmy",
+            "Angela",
+            "Diggie",
+            "Hilda"
+        ],
+        "roles": [
+            "Coach",
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2017-12-26",
+                "team": "Bigetron Player Kill"
+            },
+            {
+                "date": "2018-06-01",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2018-12-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-06-19",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/rekt"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Donkey",
+        "full_name": "Yurino  Angkawidjaja",
+        "date_of_birth": "1989-09-26",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Legends",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Evos_Donkey_S5.png",
+        "heros": [
+            "Chou",
+            "Grock",
+            "Kaja",
+            "Minotaur"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2018-07-02",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-01-14",
+                "team": "Revo (page does not exist)"
+            }
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/donkey"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Oreo",
+        "full_name": "Renhart Khoeway",
+        "date_of_birth": "1998-10-11",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_Oreo.png",
+        "heros": [
+            "Johnson",
+            "Hylos"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Oura",
+        "full_name": "Eko  Julianto",
+        "date_of_birth": "1998-07-24",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Legends",
+        "current_team": "GPX",
+        "status": "Retired",
+        "image": "/player/Evos_Oura.png",
+        "heros": [
+            "Fanny",
+            "Lancelot",
+            "Masha",
+            "Thamuz",
+            "X.Borg"
+        ],
+        "roles": [
+            "EXP Laner",
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2017-11-03",
+                "team": "EVOS Legends"
+            }
+        ],
+        "date": "2017-11-03",
+        "url": "https://liquipedia.net/mobilelegends/oura"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "JessNoLimit",
+        "full_name": "Tobias Justin",
+        "date_of_birth": "1996-02-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_JessNoLimit.png",
+        "heros": [
+            "Fanny"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-02-24",
+        "url": "https://liquipedia.net/mobilelegends/jessnolimit"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "IOS",
+        "full_name": "Sebastianus Kusuma",
+        "date_of_birth": "1989-03-27",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_IOS.png",
+        "heros": [
+            "Kaja",
+            "Grock",
+            "Hylos"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2018-02-24",
+        "url": "https://liquipedia.net/mobilelegends/ios"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Marsha",
+        "full_name": "Steven  Kurniawan",
+        "date_of_birth": "1994-10-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "ONIC",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/Evos_Marsha.png",
+        "heros": [
+            "Franco",
+            "Akai",
+            "Johnson"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2017-09-14",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2018-04-30",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2019-01-12",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2024-07-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2018-04-30",
+        "url": "https://liquipedia.net/mobilelegends/marsha"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Emperor",
+        "full_name": "Jonathan  Liandi",
+        "date_of_birth": "1997-03-27",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Revo",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Evos_Emperor.png",
+        "heros": [
+            "Gusion",
+            "Kagura",
+            "Alice"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2017-12-26",
+                "team": "Bigetron Player Kill"
+            },
+            {
+                "date": "2018-07-24",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2019-01-14",
+                "team": "Revo (page does not exist)"
+            }
+        ],
+        "date": "2018-07-24",
+        "url": "https://liquipedia.net/mobilelegends/emperor"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "G",
+        "full_name": "Afrindo  Valentino",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS Holy",
+        "status": "no data",
+        "image": "/player/EVOS_G_S14.png",
+        "heros": [
+            "Kagura",
+            "Cyclops"
+        ],
+        "roles": [
+            "Coach"
+        ],
+        "team_history": [
+            {
+                "date": "2017-10-02",
+                "team": "Team NXL"
+            },
+            {
+                "date": "2018-04-23",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2018-12-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-02-19",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-07-11",
+                "team": "GPX Basreng"
+            },
+            {
+                "date": "2023-10-04",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-21",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-28",
+                "team": "EVOS Holy"
+            }
+        ],
+        "date": "2018-12-28",
+        "url": "https://liquipedia.net/mobilelegends/g"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Jiao",
+        "full_name": "Taufik Hidayah",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_Jiao.png",
+        "heros": [
+            "Belerick",
+            "Minotaur"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2019-02-28",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Sugar",
+        "full_name": "Martinus  Widjanarko",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "RedBull Rebellion",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Evos_sugar.png",
+        "heros": [
+            "Minotaur",
+            "Grock"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-12-10",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2019-05-03",
+                "team": "EVOS Esports"
+            },
+            {
+                "date": "2019-06-25",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2021-06-30",
+                "team": "RedBull Rebellion"
+            },
+            {
+                "date": "2021-07-30",
+                "team": "Rebellion Esports"
+            },
+            {
+                "date": "2021-08-25",
+                "team": "RedBull Rebellion"
+            }
+        ],
+        "date": "2019-05-03",
+        "url": "https://liquipedia.net/mobilelegends/sugar"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Wannn",
+        "full_name": "Muhammad  Ridwan",
+        "date_of_birth": "2000-07-07",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "GPX",
+        "status": "Inactive",
+        "image": "/player/Evos_Wannn_MDL_S5.png",
+        "heros": [
+            "Harith",
+            "Lunox",
+            "Lylia",
+            "Claude",
+            "Ling"
+        ],
+        "roles": [
+            "Talent",
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-14",
+                "team": "Revo (page does not exist)"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-02-03",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-03-25",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-12-20",
+                "team": "GPX"
+            }
+        ],
+        "date": "2019-07-23",
+        "url": "https://liquipedia.net/mobilelegends/wannn"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Luminaire",
+        "full_name": "Ihsan  Kusudana",
+        "date_of_birth": "2000-02-10",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Legends",
+        "current_team": "no data",
+        "status": "Inactive",
+        "image": "/player/Evos_Luminaire_S9.png",
+        "heros": [
+            "Selena",
+            "Pharsa",
+            "Yve"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-06-15",
+                "team": "The Prime (page does not exist)"
+            },
+            {
+                "date": "2019-07-23",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-07-25",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-11-15",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-07-27",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-08-27",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-09-02",
+                "team": "EVOS Legends"
+            }
+        ],
+        "date": "2019-07-23",
+        "url": "https://liquipedia.net/mobilelegends/luminaire"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Vinss",
+        "full_name": "Kevin",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_Vinss.png",
+        "heros": [
+            "X.Borg",
+            "Kaja",
+            "Silvanna"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2019-07-23",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Bajan",
+        "full_name": "Raihan  Ardy",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Icon",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/Evos_Bajan_S10.png",
+        "heros": [
+            "Grock",
+            "Chou",
+            "Jawhead"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-23",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-02-15",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-07-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Icon"
+            }
+        ],
+        "date": "2019-08-23",
+        "url": "https://liquipedia.net/mobilelegends/bajan"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Rexxy",
+        "full_name": "Fahmi  Alamsyah",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Holy",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/EVOS_Rexxy_S6.png",
+        "heros": [
+            "Selena",
+            "Cecilion"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-07-04",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2019-08-23",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-04-02",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-07-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-10-04",
+                "team": "EVOS Holy"
+            }
+        ],
+        "date": "2019-08-23",
+        "url": "https://liquipedia.net/mobilelegends/rexxy"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Zunz",
+        "full_name": "Eko Mustofa",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_ZUNZ.png",
+        "heros": [
+            "Akai",
+            "Chou",
+            "Khufra",
+            "Mathilda"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2019-08-23",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Butsss",
+        "full_name": "Muhammad  Sanubari",
+        "date_of_birth": "2001-04-04",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Fnatic ONIC",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/Evos_butss.png",
+        "heros": [
+            "Uranus",
+            "Fredrinn",
+            "Masha",
+            "Paquito",
+            "Terizla"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-30",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-06-06",
+                "team": "Fnatic ONIC"
+            }
+        ],
+        "date": "2020-01-30",
+        "url": "https://liquipedia.net/mobilelegends/butss"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Larajie",
+        "full_name": "Farhan Mahri",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_Larajie.png",
+        "heros": [
+            "Grock",
+            "Thamuz"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-02-20",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Ckim",
+        "full_name": "Miftach  Hakim",
+        "date_of_birth": "1999-10-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Holy",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/EVOS_Ckim_MDL_S5.png",
+        "heros": [
+            "Clint"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-07-04",
+                "team": "Aerowolf Pro Team"
+            },
+            {
+                "date": "2020-02-19",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2020-03-11",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-02-12",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-07-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-08-27",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-09-16",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-02-02",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-10-04",
+                "team": "EVOS Holy"
+            }
+        ],
+        "date": "2020-03-11",
+        "url": "https://liquipedia.net/mobilelegends/ckim"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Pendragon",
+        "full_name": "Sebastian  Arthur",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Dewa United Morpheus",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/EVOS_Pendragon_S11.png",
+        "heros": [
+            "Masha",
+            "Esmeralda",
+            "Uranus"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-25",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-02-12",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2024-02-27",
+                "team": "Dewa United Rhodes"
+            }
+        ],
+        "date": "2020-07-25",
+        "url": "https://liquipedia.net/mobilelegends/pendragon"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Zeys",
+        "full_name": "Bjorn  Ong",
+        "date_of_birth": "1994-04-08",
+        "nation": "Singapore",
+        "nation_code": "sg",
+        "last_team": "no data",
+        "current_team": "Team Flash",
+        "status": "Active",
+        "image": "/player/Evos_Zeys_S9.png",
+        "heros": [
+            "Khufra",
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-23",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-07-25",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2020-09-04",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2020-09-11",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2025-04-29",
+                "team": "Team Flash"
+            }
+        ],
+        "date": "2019-08-23",
+        "url": "https://liquipedia.net/mobilelegends/zeys"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "LJ",
+        "full_name": "Joshua Darmansyah",
+        "date_of_birth": "1997-12-13",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/EVOS_LJ.png",
+        "heros": [
+            "Khufra",
+            "Jawhead",
+            "Atlas"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2020-11-15",
+        "url": "https://liquipedia.net/mobilelegends/lj"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Antimage",
+        "full_name": "Maxhill  Leonardo",
+        "date_of_birth": "2000-05-14",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Inactive",
+        "image": "/player/Evos_Antimage_S9.png",
+        "heros": [
+            "Thamuz",
+            "Yu Zhong",
+            "Benedetta",
+            "Paquito",
+            "Hayabusa"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-07-13",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2018-12-04",
+                "team": "Louvre Esports"
+            },
+            {
+                "date": "2019-01-28",
+                "team": "ONIC Esports"
+            },
+            {
+                "date": "2020-11-15",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-07-23",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2020-11-15",
+        "url": "https://liquipedia.net/mobilelegends/antimage"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Clover",
+        "full_name": "Hafizhan  Mirzaputra",
+        "date_of_birth": "1997-02-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Legends",
+        "current_team": "no data",
+        "status": "Inactive",
+        "image": "/player/Evos_Clover_S10.png",
+        "heros": [
+            "Wanwan",
+            "Harith",
+            "Brody",
+            "Lunox",
+            "Melissa"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2018-06-15",
+                "team": "The Prime (page does not exist)"
+            },
+            {
+                "date": "2019-05-07",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2020-07-16",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-02-15",
+                "team": "EVOS Legends"
+            }
+        ],
+        "date": "2021-02-15",
+        "url": "https://liquipedia.net/mobilelegends/clover"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Darkness",
+        "full_name": "Novan  Lumingkewas",
+        "date_of_birth": "1999-11-14",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "EVOS Icon",
+        "current_team": "no data",
+        "status": "Active",
+        "image": "/player/EVOS_Darkness_MPL_S7.png",
+        "heros": [
+            "Chou"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-19",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2021-02-15",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-07-27",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-03-27",
+                "team": "EVOS Icon"
+            }
+        ],
+        "date": "2021-02-15",
+        "url": "https://liquipedia.net/mobilelegends/darkness"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Ferxiic",
+        "full_name": "Ferdyansyah  Kamaruddin",
+        "date_of_birth": "2004-08-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Inactive",
+        "image": "/player/EVOS_Ferxiic_S11.png",
+        "heros": [
+            "Ling",
+            "Benedetta",
+            "Hayabusa",
+            "Fanny",
+            "Baxia"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2021-02-12",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-03-11",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-06-13",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-01-24",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-05-02",
+                "team": "RRQ Hoshi"
+            },
+            {
+                "date": "2024-08-06",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2021-03-11",
+        "url": "https://liquipedia.net/mobilelegends/ferxiic"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Falah",
+        "full_name": "Gilang  Falah",
+        "date_of_birth": "1999-02-14",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "Bigetron Alpha",
+        "current_team": "no data",
+        "status": "Retired",
+        "image": "/player/EVOS_Falah_MPL_S9.png",
+        "heros": [
+            "Cecilion",
+            "Claude"
+        ],
+        "roles": [
+            "Mid Laner",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-07-26",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-03-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-06-29",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2022-12-13",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2023-09-13",
+                "team": "Bigetron Alpha"
+            }
+        ],
+        "date": "2021-07-26",
+        "url": "https://liquipedia.net/mobilelegends/falah"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "VaanStrong",
+        "full_name": "Vincentsius Adrianto",
+        "date_of_birth": "2000-09-24",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/EVOS_VaanStrong_S13.png",
+        "heros": [
+            "Kadita",
+            "Kalea",
+            "Gatotkaca",
+            "Edith"
+        ],
+        "roles": [
+            "Roamer",
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2021-07-27",
+        "url": "https://liquipedia.net/mobilelegends/vaanstrong"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Panser",
+        "full_name": "Thimothy  Tonny",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Panser_MPL_S13.png",
+        "heros": [
+            "Chou",
+            "Guinevere"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2019-12-07",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2020-02-19",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2021-07-27",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2021-08-26",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-10-04",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-09-11",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2021-07-27",
+        "url": "https://liquipedia.net/mobilelegends/panser"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Cr1te",
+        "full_name": "Muhammad Yusuf",
+        "date_of_birth": "2001-02-17",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS Academy",
+        "status": "Active",
+        "image": "/player/EVOS_Cr1te_S12.png",
+        "heros": [
+            "Cecilion",
+            "Yve",
+            "Lunox",
+            "Valentina",
+            "Xavier"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-02",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2020-02-17",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2020-07-02",
+                "team": "KINGS Esports"
+            },
+            {
+                "date": "2022-02-07",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-12-31",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-02",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2025-04-27",
+                "team": "EVOS Academy (page does not exist)"
+            }
+        ],
+        "date": "2022-02-07",
+        "url": "https://liquipedia.net/mobilelegends/cr1te"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "DreamS",
+        "full_name": "Rachmad  Wahyudi",
+        "date_of_birth": "1999-12-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/EVOS_Dreams_S14.png",
+        "heros": [
+            "Franco",
+            "Kadita",
+            "Tigreal",
+            "Minotaur",
+            "Gatotkaca"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2018-10-07",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2021-08-26",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2022-02-07",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-12-23",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2022-08-18",
+        "url": "https://liquipedia.net/mobilelegends/dreams"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "WyvorZ",
+        "full_name": "Hartawan Muliadi",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/EVOS_WyvorZ_MPL_S9.png",
+        "heros": [
+            "Terizla"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2022-02-07",
+        "url": "https://liquipedia.net/mobilelegends/wyvorz"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Tazz",
+        "full_name": "Darrel  Wijaya",
+        "date_of_birth": "2005-09-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego X",
+        "status": "Active",
+        "image": "/player/EVOS_Tazz_S12.png",
+        "heros": [
+            "Fanny",
+            "Ling",
+            "Martis",
+            "Akai",
+            "Lancelot"
+        ],
+        "roles": [
+            "Jungler",
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-09-17",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-01",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2024-01-20",
+                "team": "Alter Ego"
+            },
+            {
+                "date": "2024-07-30",
+                "team": "Alter Ego X"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego X"
+            }
+        ],
+        "date": "2022-08-01",
+        "url": "https://liquipedia.net/mobilelegends/tazz"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Dlar",
+        "full_name": "Gerald  Trinchera",
+        "date_of_birth": "1999-09-03",
+        "nation": "Philippines",
+        "nation_code": "ph",
+        "last_team": "no data",
+        "current_team": "ONIC",
+        "status": "Active",
+        "image": "/player/EVOS_Dlar_S12.png",
+        "heros": [
+            "Uranus",
+            "Yu Zhong",
+            "Thamuz",
+            "Esmeralda"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-08-03",
+                "team": "ONIC Philippines"
+            },
+            {
+                "date": "2022-08-04",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2022-09-15",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "Burmese Ghouls"
+            },
+            {
+                "date": "2024-07-28",
+                "team": "Blacklist International"
+            },
+            {
+                "date": "2025-02-28",
+                "team": "ONIC"
+            }
+        ],
+        "date": "2022-08-04",
+        "url": "https://liquipedia.net/mobilelegends/dlar"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Sutsujin",
+        "full_name": "Arthur  Sunarkho",
+        "date_of_birth": "2004-06-01",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "RRQ Hoshi",
+        "status": "Active",
+        "image": "/player/EVOS_Sutsujin_S12.png",
+        "heros": [
+            "Lancelot",
+            "Hayabusa",
+            "Ling",
+            "Roger",
+            "Lukas"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-08-18",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-12-31",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-03-08",
+                "team": "King Empire"
+            },
+            {
+                "date": "2024-07-23",
+                "team": "RRQ Hoshi"
+            }
+        ],
+        "date": "2022-08-18",
+        "url": "https://liquipedia.net/mobilelegends/sutsujin"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Saykots",
+        "full_name": "Rizqi  Iskandar",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS Academy",
+        "status": "Active",
+        "image": "/player/EVOS_Saykots_S11.png",
+        "heros": [
+            "Benedetta",
+            "Yu Zhong",
+            "Lapu-Lapu",
+            "Gloo",
+            "Esmeralda"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2022-09-15",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-07-01",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-09-13",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-09-11",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            },
+            {
+                "date": "2025-04-27",
+                "team": "EVOS Academy (page does not exist)"
+            }
+        ],
+        "date": "2022-09-15",
+        "url": "https://liquipedia.net/mobilelegends/saykots"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Branz",
+        "full_name": "Jabran  Wiloko",
+        "date_of_birth": "2000-08-29",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Branz_S14.png",
+        "heros": [
+            "Claude",
+            "Karrie",
+            "Granger",
+            "Moskov",
+            "Melissa"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-01-17",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            },
+            {
+                "date": "2025-04-24",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2023-01-28",
+        "url": "https://liquipedia.net/mobilelegends/branz"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Hijumee",
+        "full_name": "Dalvin  Putra",
+        "date_of_birth": "2002-11-23",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Alter Ego",
+        "status": "Active",
+        "image": "/player/EVOS_Hijumee.png",
+        "heros": [
+            "Yve",
+            "Pharsa",
+            "Valentina",
+            "Faramis"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-25",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Legends"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Dewa United Esports"
+            },
+            {
+                "date": "2025-02-16",
+                "team": "Alter Ego"
+            }
+        ],
+        "date": "2023-01-28",
+        "url": "https://liquipedia.net/mobilelegends/hijumee"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Fluffy",
+        "full_name": "Regi  Marviola",
+        "date_of_birth": "2001-03-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Fluffy_S15.png",
+        "heros": [
+            "X.Borg",
+            "Terizla",
+            "Grock",
+            "Esmeralda",
+            "Yu Zhong"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-07-24",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2020-08-20",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2023-06-30",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-09-11",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2023-06-30",
+        "url": "https://liquipedia.net/mobilelegends/fluffy"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Erlan",
+        "full_name": "Erland  Saputra",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Erlan_S15.png",
+        "heros": [
+            "Claude",
+            "Karrie",
+            "Granger",
+            "Harith"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2022-09-08",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-08-09",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-03",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-13",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2023-08-09",
+        "url": "https://liquipedia.net/mobilelegends/erlan"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Veldora",
+        "full_name": "Kenley  Zefanya",
+        "date_of_birth": "2006-04-05",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "HomeBois on loan from EVOS Icon",
+        "status": "Active",
+        "image": "/player/EVOS_Veldora_S13.png",
+        "heros": [
+            "Edith",
+            "Hilda",
+            "Terizla",
+            "Phoveus",
+            "Benedetta"
+        ],
+        "roles": [
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2023-01-28",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2023-09-13",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-05-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-01",
+                "team": "Geek Fam ID"
+            },
+            {
+                "date": "2024-11-21",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2025-03-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2025-03-20",
+                "team": "HomeBois"
+            }
+        ],
+        "date": "2023-09-13",
+        "url": "https://liquipedia.net/mobilelegends/veldora"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Anavel",
+        "full_name": "Junisen  Lo",
+        "date_of_birth": "2007-06-13",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "Bigetron Esports",
+        "status": "Active",
+        "image": "/player/EVOS_Anavel_MPL_S13.png",
+        "heros": [
+            "Lancelot",
+            "Ling",
+            "Nolan",
+            "Alpha"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2023-07-01",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-01-28",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "Bigetron Esports"
+            }
+        ],
+        "date": "2024-03-20",
+        "url": "https://liquipedia.net/mobilelegends/anavel"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Claw Kun",
+        "full_name": "Adriansyah Lesmana",
+        "date_of_birth": "2002-05-02",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/EVOS_Claw_Kun_S14.png",
+        "heros": [
+            "Kagura",
+            "Valentina",
+            "Faramis",
+            "Novaria",
+            "Luo Yi"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2024-03-20",
+        "url": "https://liquipedia.net/mobilelegends/claw_kun"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Natco",
+        "full_name": "Nicodemus  Koesnadi",
+        "date_of_birth": "2005-12-06",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Natco_S15.png",
+        "heros": [
+            "Luo Yi",
+            "Kalea",
+            "Brody",
+            "Harith"
+        ],
+        "roles": [
+            "Gold Laner",
+            "EXP Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-04-21",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2024-01-26",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-02",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-08-13",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2024-03-20",
+        "url": "https://liquipedia.net/mobilelegends/natco"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Warlord",
+        "full_name": "Rizky  Agustian",
+        "date_of_birth": "2002-08-18",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "JP NINERS",
+        "status": "Active",
+        "image": "/player/EVOS_Warlord_S13.png",
+        "heros": [
+            "Yve",
+            "Cecilion",
+            "Lunox",
+            "Valentina",
+            "Pharsa"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-10",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2020-07-29",
+                "team": "Bigetron Beta"
+            },
+            {
+                "date": "2020-12-04",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2023-01-25",
+                "team": "HomeBois"
+            },
+            {
+                "date": "2024-01-26",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-03-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-05-20",
+                "team": "EVOS Icon"
+            },
+            {
+                "date": "2024-08-16",
+                "team": "Team Vamos"
+            },
+            {
+                "date": "2025-03-29",
+                "team": "JP NINERS"
+            }
+        ],
+        "date": "2024-01-26",
+        "url": "https://liquipedia.net/mobilelegends/warlord"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "VAN",
+        "full_name": "Silvan  Vanness",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS Academy",
+        "status": "Active",
+        "image": "/player/EVOS_VAN_S13.png",
+        "heros": [
+            "Fredrinn",
+            "Lancelot",
+            "Ling",
+            "Hayabusa"
+        ],
+        "roles": [
+            "Jungler"
+        ],
+        "team_history": [
+            {
+                "date": "2022-07-29",
+                "team": "AURA Esports"
+            },
+            {
+                "date": "2023-02-23",
+                "team": "AURA Fire"
+            },
+            {
+                "date": "2024-01-26",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2024-08-02",
+                "team": "EVOS Holy"
+            },
+            {
+                "date": "2024-08-28",
+                "team": "EVOS Glory"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            },
+            {
+                "date": "2025-04-27",
+                "team": "EVOS Academy (page does not exist)"
+            }
+        ],
+        "date": "2024-01-26",
+        "url": "https://liquipedia.net/mobilelegends/van"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Super Red",
+        "full_name": "Jon Redick Bordeos",
+        "date_of_birth": "2006-03-15",
+        "nation": "Philippines",
+        "nation_code": "ph",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/EVOS_Super_Red_S13.png",
+        "heros": [
+            "Claude",
+            "Irithel",
+            "Granger",
+            "Natan",
+            "Beatrix"
+        ],
+        "roles": [
+            "Gold Laner"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2024-01-26",
+        "url": "https://liquipedia.net/mobilelegends/super_red"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Depezett",
+        "full_name": "Muhammad Shihab",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_depezett.png",
+        "heros": [
+            "Valentina",
+            "Vexana"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            ""
+        ],
+        "date": "2024-09-11",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Alevaa",
+        "full_name": "Nusa Ardhaleva",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "no data",
+        "status": "no data",
+        "image": "/player/Evos_alevaa.png",
+        "heros": [
+            "Lolita"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            "no data"
+        ],
+        "date": "2024-09-11",
+        "url": "https://liquipedia.net/mobilelegends/index.php"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Alberttt",
+        "full_name": "Albert  Iskandar",
+        "date_of_birth": "2004-01-08",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Alberttt_S15.png",
+        "heros": [
+            "Ling",
+            "Lancelot",
+            "Hayabusa",
+            "Roger",
+            "Fredrinn"
+        ],
+        "roles": [
+            "Jungler",
+            "Gold Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2019-12-07",
+                "team": "Team Gryffin"
+            },
+            {
+                "date": "2020-07-16",
+                "team": "RRQ Sena"
+            },
+            {
+                "date": "2020-08-21",
+                "team": "Rex Regum Qeon"
+            },
+            {
+                "date": "2023-06-23",
+                "team": "Fnatic ONIC"
+            },
+            {
+                "date": "2024-12-08",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2024-12-08",
+        "url": "https://liquipedia.net/mobilelegends/alberttt"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "Kyy",
+        "full_name": "Hengky  Gunawan",
+        "date_of_birth": "2003-11-09",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Kyy_S15.png",
+        "heros": [
+            "Mathilda",
+            "Grock",
+            "Kaja",
+            "Lolita",
+            "Tigreal"
+        ],
+        "roles": [
+            "Roamer"
+        ],
+        "team_history": [
+            {
+                "date": "2020-01-10",
+                "team": "Bigetron Alpha"
+            },
+            {
+                "date": "2025-02-01",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2025-02-01",
+        "url": "https://liquipedia.net/mobilelegends/kyy"
+    },
+    {
+        "team": "EVOS Esports",
+        "name": "SwayLow",
+        "full_name": "Attanasius  Sihaloho",
+        "date_of_birth": "no data",
+        "nation": "Indonesia",
+        "nation_code": "id",
+        "last_team": "no data",
+        "current_team": "EVOS",
+        "status": "Active",
+        "image": "/player/EVOS_Swaylow_S15.png",
+        "heros": [
+            "Yve",
+            "Valentina",
+            "Luo Yi",
+            "Zhask"
+        ],
+        "roles": [
+            "Mid Laner"
+        ],
+        "team_history": [
+            {
+                "date": "2021-06-30",
+                "team": "RedBull Rebellion"
+            },
+            {
+                "date": "2021-11-04",
+                "team": "Rebellion Esports"
+            },
+            {
+                "date": "2025-03-13",
+                "team": "EVOS"
+            }
+        ],
+        "date": "2025-03-13",
+        "url": "https://liquipedia.net/mobilelegends/swaylow"
+    }
+]

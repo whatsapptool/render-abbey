@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:02,000
+Riwayat Pemain EVOS Esports 2017-2025
+
+2
+00:00:02,000 --> 00:00:08,000
+SwayLow (Indonesia)
+()
+Name: Attanasius Sihaloho | Awal masuk MPL ID : EVOS Esports: 13 March 2025 | Roles: [Mid Laner] | Heros: [Yve, Valentina, Luo Yi, Zhask]
+
+3
+00:00:08,000 --> 00:00:14,000
+Kyy (Indonesia)
+()
+Name: Hengky Gunawan | Awal masuk MPL ID : EVOS Esports: 01 February 2025 | Roles: [Roamer] | Heros: [Mathilda, Grock, Kaja, Lolita, Tigreal]
+
+4
+00:00:14,000 --> 00:00:20,000
+Alberttt (Indonesia)
+()
+Name: Albert Iskandar | Awal masuk MPL ID : EVOS Esports: 08 December 2024 | Roles: [Jungler, Gold Laner] | Heros: [Ling, Lancelot, Hayabusa, Roger, Fredrinn]
+
+5
+00:00:20,000 --> 00:00:26,000
+Alevaa (Indonesia)
+()
+Name: Nusa Ardhaleva | Awal masuk MPL ID : EVOS Esports: 11 September 2024 | Roles: [Roamer] | Heros: [Lolita]
+
+6
+00:00:26,000 --> 00:00:32,000
+Depezett (Indonesia)
+()
+Name: Muhammad Shihab | Awal masuk MPL ID : EVOS Esports: 11 September 2024 | Roles: [Mid Laner] | Heros: [Valentina, Vexana]
+
+7
+00:00:32,000 --> 00:00:38,000
+Natco (Indonesia)
+()
+Name: Nicodemus Koesnadi | Awal masuk MPL ID : EVOS Esports: 20 March 2024 | Roles: [Gold Laner, EXP Laner] | Heros: [Luo Yi, Kalea, Brody, Harith]
+
+8
+00:00:38,000 --> 00:00:44,000
+Claw Kun (Indonesia)
+()
+Name: Adriansyah Lesmana | Awal masuk MPL ID : EVOS Esports: 20 March 2024 | Roles: [Mid Laner] | Heros: [Kagura, Valentina, Faramis, Novaria, Luo Yi]
+
+9
+00:00:44,000 --> 00:00:50,000
+Anavel (Indonesia)
+()
+Name: Junisen Lo | Awal masuk MPL ID : EVOS Esports: 20 March 2024 | Roles: [Jungler] | Heros: [Lancelot, Ling, Nolan, Alpha]
+
+10
+00:00:50,000 --> 00:00:56,000
+Super Red (Philippines)
+()
+Name: Jon Redick Bordeos | Awal masuk MPL ID : EVOS Esports: 26 January 2024 | Roles: [Gold Laner] | Heros: [Claude, Irithel, Granger, Natan, Beatrix]
+
+11
+00:00:56,000 --> 00:01:02,000
+VAN (Indonesia)
+()
+Name: Silvan Vanness | Awal masuk MPL ID : EVOS Esports: 26 January 2024 | Roles: [Jungler] | Heros: [Fredrinn, Lancelot, Ling, Hayabusa]
+
+12
+00:01:02,000 --> 00:01:08,000
+Warlord (Indonesia)
+()
+Name: Rizky Agustian | Awal masuk MPL ID : EVOS Esports: 26 January 2024 | Roles: [Mid Laner] | Heros: [Yve, Cecilion, Lunox, Valentina, Pharsa]
+
+13
+00:01:08,000 --> 00:01:14,000
+Veldora (Indonesia)
+()
+Name: Kenley Zefanya | Awal masuk MPL ID : EVOS Esports: 13 September 2023 | Roles: [EXP Laner] | Heros: [Edith, Hilda, Terizla, Phoveus, Benedetta]
+
+14
+00:01:14,000 --> 00:01:20,000
+Erlan (Indonesia)
+()
+Name: Erland Saputra | Awal masuk MPL ID : EVOS Esports: 09 August 2023 | Roles: [Gold Laner] | Heros: [Claude, Karrie, Granger, Harith]
+
+15
+00:01:20,000 --> 00:01:26,000
+Fluffy (Indonesia)
+()
+Name: Regi Marviola | Awal masuk MPL ID : EVOS Esports: 30 June 2023 | Roles: [EXP Laner] | Heros: [X.Borg, Terizla, Grock, Esmeralda, Yu Zhong]
+
+16
+00:01:26,000 --> 00:01:32,000
+Hijumee (Indonesia)
+()
+Name: Dalvin Putra | Awal masuk MPL ID : EVOS Esports: 28 January 2023 | Roles: [Mid Laner] | Heros: [Yve, Pharsa, Valentina, Faramis]
+
+17
+00:01:32,000 --> 00:01:38,000
+Branz (Indonesia)
+()
+Name: Jabran Wiloko | Awal masuk MPL ID : EVOS Esports: 28 January 2023 | Roles: [Gold Laner] | Heros: [Claude, Karrie, Granger, Moskov, Melissa]
+
+18
+00:01:38,000 --> 00:01:44,000
+Saykots (Indonesia)
+()
+Name: Rizqi Iskandar | Awal masuk MPL ID : EVOS Esports: 15 September 2022 | Roles: [EXP Laner] | Heros: [Benedetta, Yu Zhong, Lapu-Lapu, Gloo, Esmeralda]
+
+19
+00:01:44,000 --> 00:01:50,000
+Sutsujin (Indonesia)
+()
+Name: Arthur Sunarkho | Awal masuk MPL ID : EVOS Esports: 18 August 2022 | Roles: [Jungler] | Heros: [Lancelot, Hayabusa, Ling, Roger, Lukas]
+
+20
+00:01:50,000 --> 00:01:56,000
+DreamS (Indonesia)
+()
+Name: Rachmad Wahyudi | Awal masuk MPL ID : EVOS Esports: 18 August 2022 | Roles: [Roamer] | Heros: [Franco, Kadita, Tigreal, Minotaur, Gatotkaca]
+
+21
+00:01:56,000 --> 00:02:02,000
+Dlar (Philippines)
+()
+Name: Gerald Trinchera | Awal masuk MPL ID : EVOS Esports: 04 August 2022 | Roles: [EXP Laner] | Heros: [Uranus, Yu Zhong, Thamuz, Esmeralda]
+
+22
+00:02:02,000 --> 00:02:08,000
+Tazz (Indonesia)
+()
+Name: Darrel Wijaya | Awal masuk MPL ID : EVOS Esports: 01 August 2022 | Roles: [Jungler, Mid Laner] | Heros: [Fanny, Ling, Martis, Akai, Lancelot]
+
+23
+00:02:08,000 --> 00:02:14,000
+WyvorZ (Indonesia)
+()
+Name: Hartawan Muliadi | Awal masuk MPL ID : EVOS Esports: 07 February 2022 | Roles: [EXP Laner] | Heros: [Terizla]
+
+24
+00:02:14,000 --> 00:02:20,000
+Cr1te (Indonesia)
+()
+Name: Muhammad Yusuf | Awal masuk MPL ID : EVOS Esports: 07 February 2022 | Roles: [Mid Laner] | Heros: [Cecilion, Yve, Lunox, Valentina, Xavier]
+
+25
+00:02:20,000 --> 00:02:26,000
+Panser (Indonesia)
+()
+Name: Thimothy Tonny | Awal masuk MPL ID : EVOS Esports: 27 July 2021 | Roles: [Roamer] | Heros: [Chou, Guinevere]
+
+26
+00:02:26,000 --> 00:02:32,000
+VaanStrong (Indonesia)
+()
+Name: Vincentsius Adrianto | Awal masuk MPL ID : EVOS Esports: 27 July 2021 | Roles: [Roamer, Gold Laner] | Heros: [Kadita, Kalea, Gatotkaca, Edith]
+
+27
+00:02:32,000 --> 00:02:38,000
+Falah (Indonesia)
+()
+Name: Gilang Falah | Awal masuk MPL ID : EVOS Esports: 26 July 2021 | Roles: [Mid Laner, Gold Laner] | Heros: [Cecilion, Claude]
+
+28
+00:02:38,000 --> 00:02:44,000
+Ferxiic (Indonesia)
+()
+Name: Ferdyansyah Kamaruddin | Awal masuk MPL ID : EVOS Esports: 11 March 2021 | Roles: [Jungler] | Heros: [Ling, Benedetta, Hayabusa, Fanny, Baxia]
+
+29
+00:02:44,000 --> 00:02:50,000
+Darkness (Indonesia)
+()
+Name: Novan Lumingkewas | Awal masuk MPL ID : EVOS Esports: 15 February 2021 | Roles: [Roamer] | Heros: [Chou]
+
+30
+00:02:50,000 --> 00:02:56,000
+Clover (Indonesia)
+()
+Name: Hafizhan Mirzaputra | Awal masuk MPL ID : EVOS Esports: 15 February 2021 | Roles: [Gold Laner] | Heros: [Wanwan, Harith, Brody, Lunox, Melissa]
+
+31
+00:02:56,000 --> 00:03:02,000
+Antimage (Indonesia)
+()
+Name: Maxhill Leonardo | Awal masuk MPL ID : EVOS Esports: 15 November 2020 | Roles: [EXP Laner] | Heros: [Thamuz, Yu Zhong, Benedetta, Paquito, Hayabusa]
+
+32
+00:03:02,000 --> 00:03:08,000
+LJ (Indonesia)
+()
+Name: Joshua Darmansyah | Awal masuk MPL ID : EVOS Esports: 15 November 2020 | Roles: [Roamer] | Heros: [Khufra, Jawhead, Atlas]
+
+33
+00:03:08,000 --> 00:03:14,000
+Pendragon (Indonesia)
+()
+Name: Sebastian Arthur | Awal masuk MPL ID : EVOS Esports: 25 July 2020 | Roles: [EXP Laner] | Heros: [Masha, Esmeralda, Uranus]
+
+34
+00:03:14,000 --> 00:03:20,000
+Ckim (Indonesia)
+()
+Name: Miftach Hakim | Awal masuk MPL ID : EVOS Esports: 11 March 2020 | Roles: [Gold Laner] | Heros: [Clint]
+
+35
+00:03:20,000 --> 00:03:26,000
+Larajie (Indonesia)
+()
+Name: Farhan Mahri | Awal masuk MPL ID : EVOS Esports: 20 February 2020 | Roles: [EXP Laner] | Heros: [Grock, Thamuz]
+
+36
+00:03:26,000 --> 00:03:32,000
+Butsss (Indonesia)
+()
+Name: Muhammad Sanubari | Awal masuk MPL ID : EVOS Esports: 30 January 2020 | Roles: [EXP Laner] | Heros: [Uranus, Fredrinn, Masha, Paquito, Terizla]
+
+37
+00:03:32,000 --> 00:03:38,000
+Zeys (Singapore)
+()
+Name: Bjorn Ong | Awal masuk MPL ID : EVOS Esports: 23 August 2019 | Roles: [Roamer] | Heros: [Khufra, Chou]
+
+38
+00:03:38,000 --> 00:03:44,000
+Zunz (Indonesia)
+()
+Name: Eko Mustofa | Awal masuk MPL ID : EVOS Esports: 23 August 2019 | Roles: [Roamer] | Heros: [Akai, Chou, Khufra, Mathilda]
+
+39
+00:03:44,000 --> 00:03:50,000
+Rexxy (Indonesia)
+()
+Name: Fahmi Alamsyah | Awal masuk MPL ID : EVOS Esports: 23 August 2019 | Roles: [Mid Laner] | Heros: [Selena, Cecilion]
+
+40
+00:03:50,000 --> 00:03:56,000
+Bajan (Indonesia)
+()
+Name: Raihan Ardy | Awal masuk MPL ID : EVOS Esports: 23 August 2019 | Roles: [Roamer] | Heros: [Grock, Chou, Jawhead]
+
+41
+00:03:56,000 --> 00:04:02,000
+Vinss (Indonesia)
+()
+Name: Kevin | Awal masuk MPL ID : EVOS Esports: 23 July 2019 | Roles: [EXP Laner] | Heros: [X.Borg, Kaja, Silvanna]
+
+42
+00:04:02,000 --> 00:04:08,000
+Luminaire (Indonesia)
+()
+Name: Ihsan Kusudana | Awal masuk MPL ID : EVOS Esports: 23 July 2019 | Roles: [Mid Laner, Roamer] | Heros: [Selena, Pharsa, Yve]
+
+43
+00:04:08,000 --> 00:04:14,000
+Wannn (Indonesia)
+()
+Name: Muhammad Ridwan | Awal masuk MPL ID : EVOS Esports: 23 July 2019 | Roles: [Talent, Jungler] | Heros: [Harith, Lunox, Lylia, Claude, Ling]
+
+44
+00:04:14,000 --> 00:04:20,000
+Sugar (Indonesia)
+()
+Name: Martinus Widjanarko | Awal masuk MPL ID : EVOS Esports: 03 May 2019 | Roles: [Roamer] | Heros: [Minotaur, Grock]
+
+45
+00:04:20,000 --> 00:04:26,000
+Jiao (Indonesia)
+()
+Name: Taufik Hidayah | Awal masuk MPL ID : EVOS Esports: 28 February 2019 | Roles: [Roamer] | Heros: [Belerick, Minotaur]
+
+46
+00:04:26,000 --> 00:04:32,000
+G (Indonesia)
+()
+Name: Afrindo Valentino | Awal masuk MPL ID : EVOS Esports: 28 December 2018 | Roles: [Coach] | Heros: [Kagura, Cyclops]
+
+47
+00:04:32,000 --> 00:04:38,000
+Emperor (Indonesia)
+()
+Name: Jonathan Liandi | Awal masuk MPL ID : EVOS Esports: 24 July 2018 | Roles: [Mid Laner] | Heros: [Gusion, Kagura, Alice]
+
+48
+00:04:38,000 --> 00:04:44,000
+Marsha (Indonesia)
+()
+Name: Steven Kurniawan | Awal masuk MPL ID : EVOS Esports: 30 April 2018 | Roles: [Roamer] | Heros: [Franco, Akai, Johnson]
+
+49
+00:04:44,000 --> 00:04:50,000
+IOS (Indonesia)
+()
+Name: Sebastianus Kusuma | Awal masuk MPL ID : EVOS Esports: 24 February 2018 | Roles: [Roamer] | Heros: [Kaja, Grock, Hylos]
+
+50
+00:04:50,000 --> 00:04:56,000
+JessNoLimit (Indonesia)
+()
+Name: Tobias Justin | Awal masuk MPL ID : EVOS Esports: 24 February 2018 | Roles: [Jungler] | Heros: [Fanny]
+
+51
+00:04:56,000 --> 00:05:02,000
+Oura (Indonesia)
+()
+Name: Eko Julianto | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [EXP Laner, Jungler] | Heros: [Fanny, Lancelot, Masha, Thamuz, X.Borg]
+
+52
+00:05:02,000 --> 00:05:08,000
+Oreo (Indonesia)
+()
+Name: Renhart Khoeway | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Roamer] | Heros: [Johnson, Hylos]
+
+53
+00:05:08,000 --> 00:05:14,000
+Donkey (Indonesia)
+()
+Name: Yurino Angkawidjaja | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Roamer] | Heros: [Chou, Grock, Kaja, Minotaur]
+
+54
+00:05:14,000 --> 00:05:20,000
+R E K T (Indonesia)
+()
+Name: Gustian | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Coach, Roamer] | Heros: [Claude, Kimmy, Angela, Diggie, Hilda]
+
+55
+00:05:20,000 --> 00:05:26,000
+Bandot (Indonesia)
+()
+Name: Richard Feberi | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Gold Laner, Flex] | Heros: [Moskov, Saber, Chou]
+
+56
+00:05:26,000 --> 00:05:32,000
+KneEr (Indonesia)
+()
+Name: Aprizal Jaya | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Gold Laner, Roamer] | Heros: [Lesley, Akai, Bruno, Moskov]
+
+57
+00:05:32,000 --> 00:05:38,000
+Quack (Indonesia)
+()
+Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Flex] | Heros: [Cyclops, Hilda, Freya]
+
+58
+00:05:38,000 --> 00:05:44,000
+Eiduart (Indonesia)
+()
+Name: Eiduart Tjahyadikarta | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Flex] | Heros: [Akai, Kagura]
+
+59
+00:05:44,000 --> 00:05:50,000
+Fabiens (Indonesia)
+()
+Name: Thong Andara | Awal masuk MPL ID : EVOS Esports: 03 November 2017 | Roles: [Flex] | Heros: [Bruno, Granger, X.Borg, Masha]
+
+60
+00:05:50,000 --> 00:05:55,000
+Terima kasih sudah menonton!
+
